@@ -43,6 +43,10 @@ def main():
         except Exception as e: print(f"  {name} пропуск: {e}")
     new=[v for k,v in now.items() if k not in old]
     price_drop=[(old[k],v) for k,v in now.items() if k in old and v.get("price") and old[k].get("price") and v["price"]<old[k]["price"]]
+    # bootstrap: первый запуск (old пусто) — просто сохраняем, не спамим 3794
+    if not old and new:
+        print(f"bootstrap {len(new)} — skip telegram, just save")
+        new=[]
     if new:
         lines=[f"🆕 <b>BackLash — {len(new)} новинок TROUT</b>\n"]
         for it in new[:10]:
