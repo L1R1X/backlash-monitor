@@ -4,8 +4,6 @@ on:
     - cron: "*/5 * * * *"
   workflow_dispatch:
   push: {branches: [main]}
-permissions:
-  contents: write
 jobs:
   check:
     runs-on: ubuntu-latest
@@ -13,9 +11,6 @@ jobs:
     concurrency: {group: backlash-monitor, cancel-in-progress: false}
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          persist-credentials: true
       - uses: actions/setup-python@v5
         with: {python-version: "3.11"}
       - name: Proverit BackLash
@@ -30,13 +25,12 @@ jobs:
             git fetch origin main 2>/dev/null
             git reset --hard origin/main 2>/dev/null
             cp /tmp/state.new state.json
-            git diff --quiet -- state.json && echo "bez izmeneniy" && exit 0
+            git diff --quiet -- state.json && exit 0
             git config user.name "backlash-bot"
             git config user.email "backlash-bot@github"
             git add state.json
-            git commit -m "state update [skip ci]" 2>/dev/null
-            if git push; then echo "push ok"; exit 0; fi
-            echo "push fail try $i"
+            git commit -m "state update" 2>/dev/null
+            git push && exit 0
             sleep $((RANDOM % 5 + 3))
           done
           exit 1
