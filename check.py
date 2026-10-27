@@ -32,33 +32,29 @@ def send_telegram(text):
 def main():
     print(f"=== BackLash check {datetime.now(MSK).isoformat()} ===")
     state=load_state(); old=state.get("items",{})
-    print(f"v baze {len(old)}")
+    print(f"в базе {len(old)}")
     now={}
     for name,fn in sites.SOURCES:
         t0=time.time()
         try:
             items=fn()
             for it in items: now[it["uid"]]=it
-            print(f"  {name}: naydeno {len(items)} za {time.time()-t0:.1f}s")
-        except Exception as e: print(f"  {name} propusk: {e}")
+            print(f"  {name}: найдено {len(items)} за {time.time()-t0:.1f}с")
+        except Exception as e: print(f"  {name} пропуск: {e}")
     new=[v for k,v in now.items() if k not in old]
     price_drop=[(old[k],v) for k,v in now.items() if k in old and v.get("price") and old[k].get("price") and v["price"]<old[k]["price"]]
-    # bootstrap: first run old empty -> just save, don't spam 3793
-    if not old and new:
-        print(f"bootstrap {len(new)} - skip telegram, just save")
-        new=[]
     if new:
-        lines=[f"🆕 <b>BackLash — {len(new)} novinok TROUT</b>\n"]
+        lines=[f"🆕 <b>BackLash — {len(new)} новинок TROUT</b>\n"]
         for it in new[:10]:
             lines.append(f"• {it['name']}\n  ¥{it['price']:,}  🏬 {it['shop']}\n  {it['link']}\n")
-        if len(new)>10: lines.append(f"... i esche {len(new)-10} sht.")
+        if len(new)>10: lines.append(f"... и ещё {len(new)-10} шт.")
         send_telegram("\n".join(lines))
     if price_drop:
-        lines=[f"📉 <b>Snizhenie tseny — {len(price_drop)}</b>\n"]
+        lines=[f"📉 <b>Снижение цены — {len(price_drop)}</b>\n"]
         for o,n in price_drop[:10]:
             lines.append(f"• {n['name']}\n  ¥{o['price']:,} → ¥{n['price']:,}  🏬 {n['shop']}\n  {n['link']}\n")
         send_telegram("\n".join(lines))
-    if not new and not price_drop: print("Izmeneniy net")
+    if not new and not price_drop: print("Изменений нет")
     state["items"]=now; save_state(state)
-    print(f"sokhraneno {len(now)}")
+    print(f"сохранено {len(now)}")
 if __name__=="__main__": main()
