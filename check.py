@@ -1,64 +1,166 @@
 #!/usr/bin/env python3
-import os, json, time, urllib.request, urllib.parse
+import argparse
+import hashlib
+import hmac
+import html
+import json
+import os
+import time
+import urllib.error
+import urllib.parse
+import urllib.request
 from datetime import datetime
+from pathlib import Path
 from zoneinfo import ZoneInfo
+
 import sites
-MSK=ZoneInfo("Europe/Moscow")
-TELEGRAM_BOT_TOKEN=os.environ.get("TELEGRAM_BOT_TOKEN","").strip()
-TELEGRAM_CHAT_ID=os.environ.get("TELEGRAM_CHAT_ID","").strip()
-STATE_FILE="state.json"
+
+MSK = ZoneInfo("Europe/Moscow")
+STATE_FILE = Path(__file__).resolve().with_name("state.json")
+TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
+CHATS = tuple(dict.fromkeys(
+    chat.strip() for chat in os.environ.get("TELEGRAM_CHAT_ID", "").split(",")
+    if chat.strip()
+))
+
+
 def load_state():
-    if not os.path.exists(STATE_FILE): return {"items":{}}
     try:
-        d=json.load(open(STATE_FILE,encoding="utf-8"))
-        return d if "items" in d else {"items":d}
-    except: return {"items":{}}
-def save_state(s):
-    s["last_check"]=datetime.now(MSK).isoformat()
-    json.dump(s, open(STATE_FILE,"w",encoding="utf-8"), ensure_ascii=False, indent=2)
-def send_telegram(text):
-    if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
-        print(text[:700]); return False
-    ok=False
-    for cid in [c.strip() for c in TELEGRAM_CHAT_ID.split(",") if c.strip()]:
-        data=urllib.parse.urlencode({"chat_id":cid,"text":text,"parse_mode":"HTML"}).encode()
-        req=urllib.request.Request(f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage", data=data, headers={"User-Agent":"backlash"})
-        try:
-            with urllib.request.urlopen(req, timeout=15) as r:
-                ok=ok or json.load(r).get("ok")
-                print(f"  [TG] -> {cid}: ok")
-        except Exception as e: print(f"  [TG] {cid}: {e}")
-    return ok
-def main():
-    print(f"=== BackLash check {datetime.now(MSK).isoformat()} ===")
-    state=load_state(); old=state.get("items",{})
-    print(f"в базе {len(old)}")
-    now={}
-    for name,fn in sites.SOURCES:
-        t0=time.time()
-        try:
-            items=fn()
-            for it in items: now[it["uid"]]=it
-            print(f"  {name}: найдено {len(items)} за {time.time()-t0:.1f}с")
-        except Exception as e: print(f"  {name} пропуск: {e}")
-    new=[v for k,v in now.items() if k not in old]
-    price_drop=[(old[k],v) for k,v in now.items() if k in old and v.get("price") and old[k].get("price") and v["price"]<old[k]["price"]]
-    # bootstrap: первый запуск (old пусто) — просто сохраняем, не спамим 3794
-    if not old and new:
-        print(f"bootstrap {len(new)} — skip telegram, just save")
-        new=[]
-    if new:
-        lines=[f"🆕 <b>BackLash — {len(new)} новинок TROUT</b>\n"]
-        for it in new[:10]:
-            lines.append(f"• {it['name']}\n  ¥{it['price']:,}  🏬 {it['shop']}\n  {it['link']}\n")
-        if len(new)>10: lines.append(f"... и ещё {len(new)-10} шт.")
-        send_telegram("\n".join(lines))
-    if price_drop:
-        lines=[f"📉 <b>Снижение цены — {len(price_drop)}</b>\n"]
-        for o,n in price_drop[:10]:
-            lines.append(f"• {n['name']}\n  ¥{o['price']:,} → ¥{n['price']:,}  🏬 {n['shop']}\n  {n['link']}\n")
-        send_telegram("\n".join(lines))
-    if not new and not price_drop: print("Изменений нет")
-    state["items"]=now; save_state(state)
-    print(f"сохранено {len(now)}")
-if __name__=="__main__": main()
+        with STATE_FILE.open(encoding="utf-8") as file:
+            state = json.load(file)
+    except FileNotFoundError:
+        return {"items": {}}
+    if not isinstance(state, dict):
+        raise ValueError("Некорректный формат state.json")
+    if "items" not in state:
+        state = {"items": state}
+    if not isinstance(state["items"], dict):
+        raise ValueError("Некорректный список товаров в state.json")
+    return state
+
+
+def save_state(state):
+    temporary = STATE_FILE.with_suffix(".tmp")
+    with temporary.open("w", encoding="utf-8") as file:
+        json.dump(state, file, ensure_ascii=False, indent=2)
+    temporary.replace(STATE_FILE)
+
+
+def queue_messages(pending, heading, blocks):
+    message = heading
+    for block in blocks:
+        if len(message) + len(block) + 2 > 3500 and message != heading:
+            pending.append({"text": message, "delivered": []})
+            message = heading
+        message += "\n\n" + block
+    if message != heading:
+        pending.append({"text": message, "delivered": []})
+
+
+def describe(item, price):
+    return f"• {html.escape(item['name'])}\n  {price}\n  {html.escape(item['link'])}"
+
+
+def scan():
+    state = load_state()
+    previous = state["items"]
+    try:
+        current = {item["uid"]: item for item in sites.fetch_backlash()}
+    except (OSError, ValueError, RuntimeError) as error:
+        print(f"BackLash: {error}", flush=True)
+        return 1
+
+    if not current or len(current) < len(previous) * 0.65:
+        print(f"BackLash: подозрительно мало товаров ({len(current)} из {len(previous)}). "
+              "Сохраняю предыдущую базу.", flush=True)
+        return 1
+
+    pending = state.setdefault("pending_notifications", [])
+    if previous:
+        new = [item for uid, item in current.items() if uid not in previous]
+        cheaper = [
+            (previous[uid]["price"], item)
+            for uid, item in current.items()
+            if uid in previous and previous[uid].get("price") is not None
+            and item["price"] < previous[uid]["price"]
+        ]
+        queue_messages(pending, f"🆕 <b>BackLash — новинки TROUT ({len(new)})</b>",
+                       (describe(item, f"¥{item['price']:,}") for item in new))
+        queue_messages(pending, f"📉 <b>BackLash — снижение цены ({len(cheaper)})</b>",
+                       (describe(item, f"¥{old_price:,} → ¥{item['price']:,}")
+                        for old_price, item in cheaper))
+        print(f"BackLash: новинок {len(new)}, снижений цены {len(cheaper)}")
+    else:
+        print("Первый запуск: сохраняю текущий ассортимент без уведомлений.")
+
+    state.update(items=current, last_check=datetime.now(MSK).isoformat(timespec="seconds"))
+    save_state(state)
+    print(f"BackLash: сохранено {len(current)} товаров", flush=True)
+    return 0
+
+
+def send_one(chat, message):
+    payload = urllib.parse.urlencode({
+        "chat_id": chat, "text": message, "parse_mode": "HTML",
+    }).encode()
+    request = urllib.request.Request(
+        f"https://api.telegram.org/bot{TOKEN}/sendMessage", data=payload,
+    )
+    try:
+        with urllib.request.urlopen(request, timeout=15) as response:
+            return json.load(response).get("ok") is True
+    except urllib.error.HTTPError as error:
+        print(f"Telegram: HTTP {error.code}")
+    except (OSError, ValueError) as error:
+        print(f"Telegram: {type(error).__name__}")
+    return False
+
+
+def deliver(test_message=False):
+    if test_message:
+        if not TOKEN or not CHATS:
+            print("Задайте секреты TELEGRAM_BOT_TOKEN и TELEGRAM_CHAT_ID.")
+            return 1
+        results = [send_one(chat, "✅ BackLash: тестовое уведомление.") for chat in CHATS]
+        print(f"Тестовое сообщение отправлено в {sum(results)} из {len(results)} чатов.")
+        return int(not all(results))
+
+    state = load_state()
+    pending = state.get("pending_notifications", [])
+    if not pending:
+        return 0
+    if not TOKEN or not CHATS:
+        print("Задайте секреты TELEGRAM_BOT_TOKEN и TELEGRAM_CHAT_ID. Очередь сохранена.")
+        return 1
+
+    recipients = {
+        hmac.new(TOKEN.encode(), chat.encode(), hashlib.sha256).hexdigest(): chat
+        for chat in CHATS
+    }
+    blocked = set()
+    remaining = []
+    deadline = time.monotonic() + 45
+    for entry in pending:
+        delivered = set(entry["delivered"])
+        for recipient, chat in recipients.items():
+            if recipient in delivered or recipient in blocked or time.monotonic() >= deadline:
+                continue
+            if send_one(chat, entry["text"]):
+                delivered.add(recipient)
+                time.sleep(0.5)
+            else:
+                blocked.add(recipient)
+        if not recipients.keys() <= delivered:
+            remaining.append({"text": entry["text"], "delivered": sorted(delivered)})
+
+    state["pending_notifications"] = remaining
+    save_state(state)
+    print(f"Telegram: в очереди осталось {len(remaining)} сообщений")
+    return int(bool(blocked))
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("mode", choices=["scan", "deliver", "test-telegram"], default="scan", nargs="?")
+    mode = parser.parse_args().mode
+    raise SystemExit(scan() if mode == "scan" else deliver(test_message=mode == "test-telegram"))
