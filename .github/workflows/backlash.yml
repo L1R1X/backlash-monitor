@@ -1,42 +1,66 @@
 name: BackLash monitor
+
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "3-58/5 * * * *"
   workflow_dispatch:
-  push: {branches: [main]}
+    inputs:
+      test_telegram:
+        description: "Отправить тестовое сообщение в Telegram"
+        type: boolean
+        default: false
+
 permissions:
   contents: write
+
+concurrency:
+  group: backlash-monitor
+  cancel-in-progress: false
+
 jobs:
   check:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    concurrency: {group: backlash-monitor, cancel-in-progress: false}
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0
-          persist-credentials: true
+          ref: main
+
       - uses: actions/setup-python@v5
-        with: {python-version: "3.11"}
-      - name: Proverit BackLash
+        with:
+          python-version: "3.11"
+
+      - name: Проверить каталог и отправить уведомления
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python3 -B check.py
-      - name: Sohranit bazu
+          TEST_TELEGRAM: ${{ inputs.test_telegram }}
         run: |
-          cp state.json /tmp/state.new 2>/dev/null || exit 0
-          for i in 1 2 3 4 5; do
-            git fetch origin main 2>/dev/null
-            git reset --hard origin/main 2>/dev/null
-            cp /tmp/state.new state.json
-            git diff --quiet -- state.json && echo "bez izmeneniy" && exit 0
-            git config user.name "backlash-bot"
-            git config user.email "backlash-bot@github"
-            git add state.json
-            git commit -m "state update [skip ci]" 2>/dev/null
-            if git push; then echo "push ok"; exit 0; fi
-            echo "push fail try $i"
-            sleep $((RANDOM % 5 + 3))
-          done
-          exit 1
+          save_state() {
+            if [[ -z "$(git status --porcelain -- state.json)" ]]; then
+              return 0
+            fi
+            git add -- state.json
+            git commit -m "state update"
+            git push origin HEAD:main
+          }
+
+          if [[ "$TEST_TELEGRAM" == "true" ]]; then
+            python3 -B check.py test-telegram
+            exit
+          fi
+
+          git config user.name "backlash-bot"
+          git config user.email "actions@github.com"
+
+          scan_status=0
+          timeout 7m python3 -B check.py scan || scan_status=$?
+          save_state
+
+          delivery_status=0
+          python3 -B check.py deliver || delivery_status=$?
+          save_state
+
+          if (( scan_status != 0 || delivery_status != 0 )); then
+            exit 1
+          fi
