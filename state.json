@@ -240,11 +240,75 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4580405087692": {
+      "uid": "bl4580405087692",
+      "name": "BOMBADA Yorozu Spoon,  #Rose Gold",
+      "price": 900,
+      "link": "https://www.backlash.co.jp/e/item/4580405087692/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4570164762374": {
+      "uid": "bl4570164762374",
+      "name": "New Drawer Hunt Grande 1.3g",
+      "price": 550,
+      "link": "https://www.backlash.co.jp/e/item/4570164762374/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4570164762220": {
+      "uid": "bl4570164762220",
+      "name": "New Drawer Hunt Grande 1.0g",
+      "price": 550,
+      "link": "https://www.backlash.co.jp/e/item/4570164762220/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4580405087685": {
+      "uid": "bl4580405087685",
+      "name": "BOMBADA Yorozu Spoon,  #Rose Gold",
+      "price": 850,
+      "link": "https://www.backlash.co.jp/e/item/4580405087685/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4570164763050": {
+      "uid": "bl4570164763050",
+      "name": "New Drawer Hunt 0.9g【3】",
+      "price": 550,
+      "link": "https://www.backlash.co.jp/e/item/4570164763050/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4570164762855": {
+      "uid": "bl4570164762855",
+      "name": "New Drawer Hunt 0.7g【3】",
+      "price": 550,
+      "link": "https://www.backlash.co.jp/e/item/4570164762855/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4580405087678": {
+      "uid": "bl4580405087678",
+      "name": "BOMBADA Yorozu Spoon,  #Rose Gold",
+      "price": 800,
+      "link": "https://www.backlash.co.jp/e/item/4580405087678/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4582671300017": {
       "uid": "bl4582671300017",
       "name": "ValkeIN HI BURST Uchoten color 1.6g",
       "price": 477,
       "link": "https://www.backlash.co.jp/e/item/4582671300017/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4582671300208": {
+      "uid": "bl4582671300208",
+      "name": "ValkeIN HI BURST Uchoten color 1.3g",
+      "price": 477,
+      "link": "https://www.backlash.co.jp/e/item/4582671300208/",
       "shop": "BackLash",
       "stock": true
     },
@@ -2408,6 +2472,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4573119918932": {
+      "uid": "bl4573119918932",
+      "name": "Naburaya 2 WIN 2g  1091 color",
+      "price": 612,
+      "link": "https://www.backlash.co.jp/e/item/4573119918932/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4582671348989": {
       "uid": "bl4582671348989",
       "name": "VALKEIN Li-worm Nano Arakawa Limited",
@@ -3605,38 +3677,6 @@
       "name": "New Drawer Banna 2.0g",
       "price": 550,
       "link": "https://www.backlash.co.jp/e/item/4570164763470/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4570164762374": {
-      "uid": "bl4570164762374",
-      "name": "New Drawer Hunt Grande 1.3g",
-      "price": 550,
-      "link": "https://www.backlash.co.jp/e/item/4570164762374/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4570164763050": {
-      "uid": "bl4570164763050",
-      "name": "New Drawer Hunt 0.9g【3】",
-      "price": 550,
-      "link": "https://www.backlash.co.jp/e/item/4570164763050/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4570164762220": {
-      "uid": "bl4570164762220",
-      "name": "New Drawer Hunt Grande 1.0g",
-      "price": 550,
-      "link": "https://www.backlash.co.jp/e/item/4570164762220/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4570164762855": {
-      "uid": "bl4570164762855",
-      "name": "New Drawer Hunt 0.7g【3】",
-      "price": 550,
-      "link": "https://www.backlash.co.jp/e/item/4570164762855/",
       "shop": "BackLash",
       "stock": true
     },
@@ -5021,6 +5061,14 @@
       "name": "Lucky Craft × GATE Deep Cra-pea LCMAX Slow Sinking",
       "price": 1485,
       "link": "https://www.backlash.co.jp/e/item/4514447308705/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4905789199005": {
+      "uid": "bl4905789199005",
+      "name": "Nories Chibi ZX 1.8g",
+      "price": 630,
+      "link": "https://www.backlash.co.jp/e/item/4905789199005/",
       "shop": "BackLash",
       "stock": true
     },
@@ -19440,14 +19488,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4582671300208": {
-      "uid": "bl4582671300208",
-      "name": "ValkeIN HI BURST Uchoten color 1.3g",
-      "price": 477,
-      "link": "https://www.backlash.co.jp/e/item/4582671300208/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4525807317329": {
       "uid": "bl4525807317329",
       "name": "TIMON C&R Panicla Dash DR-HF",
@@ -19725,14 +19765,6 @@
       "name": "WaterLand Alumin Five Core Colors 2.5g",
       "price": 550,
       "link": "https://www.backlash.co.jp/e/item/4527938069986/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4573119918932": {
-      "uid": "bl4573119918932",
-      "name": "Naburaya 2 WIN 2g  1091 color",
-      "price": 612,
-      "link": "https://www.backlash.co.jp/e/item/4573119918932/",
       "shop": "BackLash",
       "stock": true
     },
@@ -20117,14 +20149,6 @@
       "name": "Rodio Craft Noa S (1.0g / 1.4g) - FORODOX Colors",
       "price": 600,
       "link": "https://www.backlash.co.jp/e/item/4573632514895/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4905789199005": {
-      "uid": "bl4905789199005",
-      "name": "Nories Chibi ZX 1.8g",
-      "price": 630,
-      "link": "https://www.backlash.co.jp/e/item/4905789199005/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30545,6 +30569,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-12T04:51:35+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (3)</b>\n\n• BOMBADA Yorozu Spoon,  #Rose Gold\n  ¥900\n  https://www.backlash.co.jp/e/item/4580405087692/\n\n• BOMBADA Yorozu Spoon,  #Rose Gold\n  ¥850\n  https://www.backlash.co.jp/e/item/4580405087685/\n\n• BOMBADA Yorozu Spoon,  #Rose Gold\n  ¥800\n  https://www.backlash.co.jp/e/item/4580405087678/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-12T04:56:42+03:00"
 }
