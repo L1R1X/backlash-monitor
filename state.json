@@ -16320,6 +16320,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4511729688852": {
+      "uid": "bl4511729688852",
+      "name": "Jackson Bubble Magic Float 1g",
+      "price": 680,
+      "link": "https://www.backlash.co.jp/e/item/4511729688852/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4511135831408": {
       "uid": "bl4511135831408",
       "name": "Yarie x Focus Micro Dexter",
@@ -30569,6 +30577,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-12T05:16:25+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• Jackson Bubble Magic Float 1g\n  ¥680\n  https://www.backlash.co.jp/e/item/4511729688852/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-12T05:21:25+03:00"
 }
