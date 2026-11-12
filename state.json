@@ -240,6 +240,30 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4582671300017": {
+      "uid": "bl4582671300017",
+      "name": "ValkeIN HI BURST Uchoten color 1.6g",
+      "price": 477,
+      "link": "https://www.backlash.co.jp/e/item/4582671300017/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4582671349504": {
+      "uid": "bl4582671349504",
+      "name": "Valkein Black Blast 2.2g Uchoten Color",
+      "price": 522,
+      "link": "https://www.backlash.co.jp/e/item/4582671349504/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4580405087661": {
+      "uid": "bl4580405087661",
+      "name": "BOMBADA YOROZU SPOON  #Rose Gold",
+      "price": 750,
+      "link": "https://www.backlash.co.jp/e/item/4580405087661/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4513907458875": {
       "uid": "bl4513907458875",
       "name": "Mukai Fishing Backstroke 55S Takumi Series",
@@ -9016,14 +9040,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4582671349504": {
-      "uid": "bl4582671349504",
-      "name": "Valkein Black Blast 2.2g Uchoten Color",
-      "price": 522,
-      "link": "https://www.backlash.co.jp/e/item/4582671349504/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4582671321739": {
       "uid": "bl4582671321739",
       "name": "ValkeIN　 Black Blast 1.8g UCHOTEN Color",
@@ -14664,14 +14680,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4582671300017": {
-      "uid": "bl4582671300017",
-      "name": "ValkeIN HI BURST Uchoten color 1.6g",
-      "price": 477,
-      "link": "https://www.backlash.co.jp/e/item/4582671300017/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4582671302325": {
       "uid": "bl4582671302325",
       "name": "ValkeIN　HI BURST　0.4g",
@@ -19432,6 +19440,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4582671300208": {
+      "uid": "bl4582671300208",
+      "name": "ValkeIN HI BURST Uchoten color 1.3g",
+      "price": 477,
+      "link": "https://www.backlash.co.jp/e/item/4582671300208/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4525807317329": {
       "uid": "bl4525807317329",
       "name": "TIMON C&R Panicla Dash DR-HF",
@@ -23525,14 +23541,6 @@
       "name": "Valkein VALCYANOM",
       "price": 747,
       "link": "https://www.backlash.co.jp/e/item/4582671315660/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582671300208": {
-      "uid": "bl4582671300208",
-      "name": "ValkeIN HI BURST Uchoten color 1.3g",
-      "price": 477,
-      "link": "https://www.backlash.co.jp/e/item/4582671300208/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30537,6 +30545,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-12T04:26:12+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• BOMBADA YOROZU SPOON  #Rose Gold\n  ¥750\n  https://www.backlash.co.jp/e/item/4580405087661/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-12T04:31:50+03:00"
 }
