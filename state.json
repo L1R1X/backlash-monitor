@@ -240,6 +240,62 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4582671348927": {
+      "uid": "bl4582671348927",
+      "name": "VALKEIN Shine Ride Nano Arakawa-dori Limited",
+      "price": 1512,
+      "link": "https://www.backlash.co.jp/e/item/4582671348927/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4570027041912": {
+      "uid": "bl4570027041912",
+      "name": "ValkeIN  Shine Ride Nano",
+      "price": 1512,
+      "link": "https://www.backlash.co.jp/e/item/4570027041912/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4582671337358": {
+      "uid": "bl4582671337358",
+      "name": "Valkein Shine Ride Nano 【3】",
+      "price": 1422,
+      "link": "https://www.backlash.co.jp/e/item/4582671337358/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4570027032361": {
+      "uid": "bl4570027032361",
+      "name": "ValkeIN Shine Ride Nano [2]",
+      "price": 1422,
+      "link": "https://www.backlash.co.jp/e/item/4570027032361/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4589873950484": {
+      "uid": "bl4589873950484",
+      "name": "ValkeIN Shine Ride Nano [1]",
+      "price": 1422,
+      "link": "https://www.backlash.co.jp/e/item/4589873950484/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4582671297751": {
+      "uid": "bl4582671297751",
+      "name": "ValkeIN RIOLA",
+      "price": 1100,
+      "link": "https://www.backlash.co.jp/e/item/4582671297751/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4544565232019": {
+      "uid": "bl4544565232019",
+      "name": "deps BUZZJET TROUT MODEL",
+      "price": 1305,
+      "link": "https://www.backlash.co.jp/e/item/4544565232019/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4582671300208": {
       "uid": "bl4582671300208",
       "name": "ValkeIN HI BURST Uchoten color 1.3g",
@@ -1973,14 +2029,6 @@
       "name": "deps BUZZJET TROUT MODEL【2】",
       "price": 1305,
       "link": "https://www.backlash.co.jp/e/item/4544565232217/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4544565232019": {
-      "uid": "bl4544565232019",
-      "name": "deps BUZZJET TROUT MODEL",
-      "price": 1305,
-      "link": "https://www.backlash.co.jp/e/item/4544565232019/",
       "shop": "BackLash",
       "stock": true
     },
@@ -3728,43 +3776,11 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4570027041912": {
-      "uid": "bl4570027041912",
-      "name": "ValkeIN  Shine Ride Nano",
-      "price": 1512,
-      "link": "https://www.backlash.co.jp/e/item/4570027041912/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4570027032361": {
-      "uid": "bl4570027032361",
-      "name": "ValkeIN Shine Ride Nano [2]",
-      "price": 1422,
-      "link": "https://www.backlash.co.jp/e/item/4570027032361/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4589873950484": {
-      "uid": "bl4589873950484",
-      "name": "ValkeIN Shine Ride Nano [1]",
-      "price": 1422,
-      "link": "https://www.backlash.co.jp/e/item/4589873950484/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4582671337150": {
       "uid": "bl4582671337150",
       "name": "ValkeIN Shine Ride 【3】",
       "price": 1485,
       "link": "https://www.backlash.co.jp/e/item/4582671337150/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582671337358": {
-      "uid": "bl4582671337358",
-      "name": "Valkein Shine Ride Nano 【3】",
-      "price": 1422,
-      "link": "https://www.backlash.co.jp/e/item/4582671337358/",
       "shop": "BackLash",
       "stock": true
     },
@@ -3821,14 +3837,6 @@
       "name": "Valkein Shine Ride Arakawa Toru Limited",
       "price": 1575,
       "link": "https://www.backlash.co.jp/e/item/4582671347487/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582671348927": {
-      "uid": "bl4582671348927",
-      "name": "VALKEIN Shine Ride Nano Arakawa-dori Limited",
-      "price": 1512,
-      "link": "https://www.backlash.co.jp/e/item/4582671348927/",
       "shop": "BackLash",
       "stock": true
     },
@@ -4661,14 +4669,6 @@
       "name": "VALKEIN Snazer Floating",
       "price": 1530,
       "link": "https://www.backlash.co.jp/e/item/4582671349764/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582671297751": {
-      "uid": "bl4582671297751",
-      "name": "ValkeIN RIOLA",
-      "price": 1100,
-      "link": "https://www.backlash.co.jp/e/item/4582671297751/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30578,5 +30578,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-12T10:51:34+03:00"
+  "last_check": "2026-11-12T10:56:19+03:00"
 }
