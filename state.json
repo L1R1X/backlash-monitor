@@ -3912,22 +3912,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4573151278001": {
-      "uid": "bl4573151278001",
-      "name": "Rodio Craft RC Drift Spin 27 0.7g【2】",
-      "price": 600,
-      "link": "https://www.backlash.co.jp/e/item/4573151278001/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4573151271446": {
-      "uid": "bl4573151271446",
-      "name": "Rodio Craft RC Drift Spin 27 0.7g",
-      "price": 600,
-      "link": "https://www.backlash.co.jp/e/item/4573151271446/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4562340246051": {
       "uid": "bl4562340246051",
       "name": "ATTIC Usakura S",
@@ -30578,5 +30562,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-12T13:31:45+03:00"
+  "last_check": "2026-11-12T13:36:44+03:00"
 }
