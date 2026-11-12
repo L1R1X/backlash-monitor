@@ -240,6 +240,22 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4573151271446": {
+      "uid": "bl4573151271446",
+      "name": "Rodio Craft RC Drift Spin 27 0.7g",
+      "price": 600,
+      "link": "https://www.backlash.co.jp/e/item/4573151271446/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4573151278001": {
+      "uid": "bl4573151278001",
+      "name": "Rodio Craft RC Drift Spin 27 0.7g【2】",
+      "price": 600,
+      "link": "https://www.backlash.co.jp/e/item/4573151278001/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4580764715977": {
       "uid": "bl4580764715977",
       "name": "1089 Kobo×DAYSPROUT Sakasanyoro slim 60FS",
@@ -30561,6 +30577,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-12T13:51:27+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (2)</b>\n\n• Rodio Craft RC Drift Spin 27 0.7g\n  ¥600\n  https://www.backlash.co.jp/e/item/4573151271446/\n\n• Rodio Craft RC Drift Spin 27 0.7g【2】\n  ¥600\n  https://www.backlash.co.jp/e/item/4573151278001/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-12T13:56:39+03:00"
 }
