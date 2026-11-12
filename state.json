@@ -960,6 +960,22 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4582671321241": {
+      "uid": "bl4582671321241",
+      "name": "ValkeIN Shine Ride Thinking Taniyama Trading Co., Ltd. Color",
+      "price": 1350,
+      "link": "https://www.backlash.co.jp/e/item/4582671321241/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4582671348927": {
+      "uid": "bl4582671348927",
+      "name": "VALKEIN Shine Ride Nano Arakawa-dori Limited",
+      "price": 1512,
+      "link": "https://www.backlash.co.jp/e/item/4582671348927/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4570027041912": {
       "uid": "bl4570027041912",
       "name": "ValkeIN  Shine Ride Nano",
@@ -30561,6 +30577,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-12T12:46:35+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (2)</b>\n\n• ValkeIN Shine Ride Thinking Taniyama Trading Co., Ltd. Color\n  ¥1,350\n  https://www.backlash.co.jp/e/item/4582671321241/\n\n• VALKEIN Shine Ride Nano Arakawa-dori Limited\n  ¥1,512\n  https://www.backlash.co.jp/e/item/4582671348927/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-12T12:51:41+03:00"
 }
