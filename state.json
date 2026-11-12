@@ -240,6 +240,38 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4582671347487": {
+      "uid": "bl4582671347487",
+      "name": "Valkein Shine Ride Arakawa Toru Limited",
+      "price": 1575,
+      "link": "https://www.backlash.co.jp/e/item/4582671347487/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4582671334364": {
+      "uid": "bl4582671334364",
+      "name": "【Power Shop Limited Color】Valkein Shine Ride",
+      "price": 1500,
+      "link": "https://www.backlash.co.jp/e/item/4582671334364/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4570027013926": {
+      "uid": "bl4570027013926",
+      "name": "Valkein Shine Ride 1091 Color",
+      "price": 1350,
+      "link": "https://www.backlash.co.jp/e/item/4570027013926/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4582671321241": {
+      "uid": "bl4582671321241",
+      "name": "ValkeIN Shine Ride Thinking Taniyama Trading Co., Ltd. Color",
+      "price": 1350,
+      "link": "https://www.backlash.co.jp/e/item/4582671321241/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4582671348927": {
       "uid": "bl4582671348927",
       "name": "VALKEIN Shine Ride Nano Arakawa-dori Limited",
@@ -3832,14 +3864,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4582671347487": {
-      "uid": "bl4582671347487",
-      "name": "Valkein Shine Ride Arakawa Toru Limited",
-      "price": 1575,
-      "link": "https://www.backlash.co.jp/e/item/4582671347487/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4562338621730": {
       "uid": "bl4562338621730",
       "name": "IVL　T-Gravits　50SD",
@@ -4173,14 +4197,6 @@
       "name": "Mukai Fishing PERE-SUPU 1.7g",
       "price": 522,
       "link": "https://www.backlash.co.jp/e/item/4513907460441/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582671334364": {
-      "uid": "bl4582671334364",
-      "name": "【Power Shop Limited Color】Valkein Shine Ride",
-      "price": 1500,
-      "link": "https://www.backlash.co.jp/e/item/4582671334364/",
       "shop": "BackLash",
       "stock": true
     },
@@ -4797,14 +4813,6 @@
       "name": "Valkein Haze DD Arakawa Toru Limited Color",
       "price": 1568,
       "link": "https://www.backlash.co.jp/e/item/4582671347425/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4570027013926": {
-      "uid": "bl4570027013926",
-      "name": "Valkein Shine Ride 1091 Color",
-      "price": 1350,
-      "link": "https://www.backlash.co.jp/e/item/4570027013926/",
       "shop": "BackLash",
       "stock": true
     },
@@ -7789,14 +7797,6 @@
       "name": "Alfred Alfspoon 0.55g",
       "price": 500,
       "link": "https://www.backlash.co.jp/e/item/4570040678485/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582671321241": {
-      "uid": "bl4582671321241",
-      "name": "ValkeIN Shine Ride Thinking Taniyama Trading Co., Ltd. Color",
-      "price": 1350,
-      "link": "https://www.backlash.co.jp/e/item/4582671321241/",
       "shop": "BackLash",
       "stock": true
     },
@@ -19504,6 +19504,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4582671299090": {
+      "uid": "bl4582671299090",
+      "name": "VALKEIN　Shine Ride Nano Sinking Limited Staff Color",
+      "price": 1575,
+      "link": "https://www.backlash.co.jp/e/item/4582671299090/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4525807317329": {
       "uid": "bl4525807317329",
       "name": "TIMON C&R Panicla Dash DR-HF",
@@ -19997,14 +20005,6 @@
       "name": "ValkeIN Shine Ride # M051",
       "price": 1485,
       "link": "https://www.backlash.co.jp/e/item/4589934357092/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582671299090": {
-      "uid": "bl4582671299090",
-      "name": "VALKEIN　Shine Ride Nano Sinking Limited Staff Color",
-      "price": 1575,
-      "link": "https://www.backlash.co.jp/e/item/4582671299090/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30578,5 +30578,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-12T11:11:24+03:00"
+  "last_check": "2026-11-12T11:16:50+03:00"
 }
