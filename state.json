@@ -240,6 +240,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4580405087708": {
+      "uid": "bl4580405087708",
+      "name": "BOMBADA Yorozu Spoon,  #Rose Gold",
+      "price": 2000,
+      "link": "https://www.backlash.co.jp/e/item/4580405087708/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4580405087692": {
       "uid": "bl4580405087692",
       "name": "BOMBADA Yorozu Spoon,  #Rose Gold",
@@ -16312,14 +16320,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4511729688852": {
-      "uid": "bl4511729688852",
-      "name": "Jackson Bubble Magic Float 1g",
-      "price": 680,
-      "link": "https://www.backlash.co.jp/e/item/4511729688852/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4511135831408": {
       "uid": "bl4511135831408",
       "name": "Yarie x Focus Micro Dexter",
@@ -30569,6 +30569,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-12T05:11:23+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• BOMBADA Yorozu Spoon,  #Rose Gold\n  ¥2,000\n  https://www.backlash.co.jp/e/item/4580405087708/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-12T05:16:25+03:00"
 }
