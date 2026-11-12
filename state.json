@@ -240,6 +240,22 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4570027013926": {
+      "uid": "bl4570027013926",
+      "name": "Valkein Shine Ride 1091 Color",
+      "price": 1575,
+      "link": "https://www.backlash.co.jp/e/item/4570027013926/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4582671349764": {
+      "uid": "bl4582671349764",
+      "name": "VALKEIN Snazer Floating",
+      "price": 1530,
+      "link": "https://www.backlash.co.jp/e/item/4582671349764/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4570027034532": {
       "uid": "bl4570027034532",
       "name": "ValkeIN Schwan Shad Sinking",
@@ -949,14 +965,6 @@
       "name": "【Power Shop Limited Color】Valkein Shine Ride",
       "price": 1500,
       "link": "https://www.backlash.co.jp/e/item/4582671334364/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4570027013926": {
-      "uid": "bl4570027013926",
-      "name": "Valkein Shine Ride 1091 Color",
-      "price": 1350,
-      "link": "https://www.backlash.co.jp/e/item/4570027013926/",
       "shop": "BackLash",
       "stock": true
     },
@@ -2869,14 +2877,6 @@
       "name": "[BackLash Exclusive] Sauribu Shaath Meister Color BackLash Original Color",
       "price": 583,
       "link": "https://www.backlash.co.jp/e/item/4580838923901/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4573632513508": {
-      "uid": "bl4573632513508",
-      "name": "[BackLash Original Color] Rodio Craft Spoons (Various Types) BackLash Original Color Ryugen&26NG",
-      "price": 580,
-      "link": "https://www.backlash.co.jp/e/item/4573632513508/",
       "shop": "BackLash",
       "stock": true
     },
@@ -5109,14 +5109,6 @@
       "name": "Undead Factory Rem 23HFSR 1091 Color",
       "price": 1440,
       "link": "https://www.backlash.co.jp/e/item/4582615658334/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582671349764": {
-      "uid": "bl4582671349764",
-      "name": "VALKEIN Snazer Floating",
-      "price": 1530,
-      "link": "https://www.backlash.co.jp/e/item/4582671349764/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30578,5 +30570,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-12T13:06:15+03:00"
+  "last_check": "2026-11-12T13:11:35+03:00"
 }
