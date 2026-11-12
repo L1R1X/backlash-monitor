@@ -240,6 +240,22 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4582671300208": {
+      "uid": "bl4582671300208",
+      "name": "ValkeIN HI BURST Uchoten color 1.3g",
+      "price": 477,
+      "link": "https://www.backlash.co.jp/e/item/4582671300208/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4582671300017": {
+      "uid": "bl4582671300017",
+      "name": "ValkeIN HI BURST Uchoten color 1.6g",
+      "price": 477,
+      "link": "https://www.backlash.co.jp/e/item/4582671300017/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4570164762220": {
       "uid": "bl4570164762220",
       "name": "New Drawer Hunt Grande 1.0g",
@@ -301,22 +317,6 @@
       "name": "BOMBADA Yorozu Spoon,  #Rose Gold",
       "price": 800,
       "link": "https://www.backlash.co.jp/e/item/4580405087678/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582671300017": {
-      "uid": "bl4582671300017",
-      "name": "ValkeIN HI BURST Uchoten color 1.6g",
-      "price": 477,
-      "link": "https://www.backlash.co.jp/e/item/4582671300017/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582671300208": {
-      "uid": "bl4582671300208",
-      "name": "ValkeIN HI BURST Uchoten color 1.3g",
-      "price": 477,
-      "link": "https://www.backlash.co.jp/e/item/4582671300208/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30578,5 +30578,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-12T06:41:24+03:00"
+  "last_check": "2026-11-12T06:46:34+03:00"
 }
