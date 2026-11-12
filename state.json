@@ -2880,6 +2880,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4573632513508": {
+      "uid": "bl4573632513508",
+      "name": "[BackLash Original Color] Rodio Craft Spoons (Various Types) BackLash Original Color Ryugen&26NG",
+      "price": 580,
+      "link": "https://www.backlash.co.jp/e/item/4573632513508/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4582782394486": {
       "uid": "bl4582782394486",
       "name": "[BackLash Original Color] Taishaku Fishing Area Splash Top Clear Splash Rattle Meister Color",
@@ -19496,6 +19504,22 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4570027013964": {
+      "uid": "bl4570027013964",
+      "name": "ValkeIN Li-Worm Nano'  ValkeIN Li-Worm Nano",
+      "price": 1512,
+      "link": "https://www.backlash.co.jp/e/item/4570027013964/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4570027013940": {
+      "uid": "bl4570027013940",
+      "name": "ValkeIN Shine Ride Nano",
+      "price": 1512,
+      "link": "https://www.backlash.co.jp/e/item/4570027013940/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4589873977498": {
       "uid": "bl4589873977498",
       "name": "ValkeIN  HYDRAM sinking wholesaler bespoke color",
@@ -24264,14 +24288,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4570027013964": {
-      "uid": "bl4570027013964",
-      "name": "ValkeIN Li-Worm Nano'  ValkeIN Li-Worm Nano",
-      "price": 1215,
-      "link": "https://www.backlash.co.jp/e/item/4570027013964/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4562374998018": {
       "uid": "bl4562374998018",
       "name": "Peach Bison Grape ST 1091 Color",
@@ -26557,14 +26573,6 @@
       "name": "[2024 Lucky Bag] ValkeIN Lucky Bag",
       "price": 3980,
       "link": "https://www.backlash.co.jp/e/item/5580109241801/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4570027013940": {
-      "uid": "bl4570027013940",
-      "name": "ValkeIN Shine Ride Nano",
-      "price": 1350,
-      "link": "https://www.backlash.co.jp/e/item/4570027013940/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30569,6 +30577,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-12T13:11:35+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• [BackLash Original Color] Rodio Craft Spoons (Various Types) BackLash Original Color Ryugen&amp;26NG\n  ¥580\n  https://www.backlash.co.jp/e/item/4573632513508/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-12T13:13:00+03:00"
 }
