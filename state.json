@@ -240,6 +240,22 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4570164762220": {
+      "uid": "bl4570164762220",
+      "name": "New Drawer Hunt Grande 1.0g",
+      "price": 550,
+      "link": "https://www.backlash.co.jp/e/item/4570164762220/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4570164762374": {
+      "uid": "bl4570164762374",
+      "name": "New Drawer Hunt Grande 1.3g",
+      "price": 550,
+      "link": "https://www.backlash.co.jp/e/item/4570164762374/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4580405087708": {
       "uid": "bl4580405087708",
       "name": "BOMBADA Yorozu Spoon,  #Rose Gold",
@@ -253,22 +269,6 @@
       "name": "BOMBADA Yorozu Spoon,  #Rose Gold",
       "price": 900,
       "link": "https://www.backlash.co.jp/e/item/4580405087692/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4570164762374": {
-      "uid": "bl4570164762374",
-      "name": "New Drawer Hunt Grande 1.3g",
-      "price": 550,
-      "link": "https://www.backlash.co.jp/e/item/4570164762374/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4570164762220": {
-      "uid": "bl4570164762220",
-      "name": "New Drawer Hunt Grande 1.0g",
-      "price": 550,
-      "link": "https://www.backlash.co.jp/e/item/4570164762220/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30578,5 +30578,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-12T05:36:13+03:00"
+  "last_check": "2026-11-12T05:41:49+03:00"
 }
