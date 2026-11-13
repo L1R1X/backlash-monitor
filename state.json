@@ -288,14 +288,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4533625155689": {
-      "uid": "bl4533625155689",
-      "name": "[8 Colors Available] Evergreen Crush Diver FEvergreen Crush Diver F 52",
-      "price": 1400,
-      "link": "https://www.backlash.co.jp/e/item/4533625155689/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4570027013926": {
       "uid": "bl4570027013926",
       "name": "Valkein Shine Ride 1091 Color",
@@ -19576,6 +19568,22 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4548393350013": {
+      "uid": "bl4548393350013",
+      "name": "DAYSPROUT EAGLE PLAYER 55DT DAYSPROUT EAGLE PLAYER 55DT",
+      "price": 1395,
+      "link": "https://www.backlash.co.jp/e/item/4548393350013/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4533625155689": {
+      "uid": "bl4533625155689",
+      "name": "[8 Colors Available] Evergreen Crush Diver FEvergreen Crush Diver F 52",
+      "price": 1400,
+      "link": "https://www.backlash.co.jp/e/item/4533625155689/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4582692472342": {
       "uid": "bl4582692472342",
       "name": "NomadicCode Baster 0.7g【2】",
@@ -27968,14 +27976,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4548393350013": {
-      "uid": "bl4548393350013",
-      "name": "DAYSPROUT EAGLE PLAYER 55DT DAYSPROUT EAGLE PLAYER 55DT",
-      "price": 1395,
-      "link": "https://www.backlash.co.jp/e/item/4548393350013/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4548393306294": {
       "uid": "bl4548393306294",
       "name": "Disprout Trout Tune HW-MGT #05",
@@ -30610,5 +30610,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-13T14:26:24+03:00"
+  "last_check": "2026-11-13T14:31:52+03:00"
 }
