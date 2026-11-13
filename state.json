@@ -240,6 +240,54 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4570164762220": {
+      "uid": "bl4570164762220",
+      "name": "New Drawer Hunt Grande 1.0g",
+      "price": 550,
+      "link": "https://www.backlash.co.jp/e/item/4570164762220/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4969363150301": {
+      "uid": "bl4969363150301",
+      "name": "Shimano Dive Rise 45F",
+      "price": 1215,
+      "link": "https://www.backlash.co.jp/e/item/4969363150301/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4570164762374": {
+      "uid": "bl4570164762374",
+      "name": "New Drawer Hunt Grande 1.3g",
+      "price": 550,
+      "link": "https://www.backlash.co.jp/e/item/4570164762374/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4525807327571": {
+      "uid": "bl4525807327571",
+      "name": "Jackall Timon Micro Panicra MR-F Rattle",
+      "price": 1287,
+      "link": "https://www.backlash.co.jp/e/item/4525807327571/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4573151271446": {
+      "uid": "bl4573151271446",
+      "name": "Rodio Craft RC Drift Spin 27 0.7g",
+      "price": 600,
+      "link": "https://www.backlash.co.jp/e/item/4573151271446/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4573151278001": {
+      "uid": "bl4573151278001",
+      "name": "Rodio Craft RC Drift Spin 27 0.7g【2】",
+      "price": 600,
+      "link": "https://www.backlash.co.jp/e/item/4573151278001/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4533625155689": {
       "uid": "bl4533625155689",
       "name": "[8 Colors Available] Evergreen Crush Diver FEvergreen Crush Diver F 52",
@@ -336,22 +384,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4573151271446": {
-      "uid": "bl4573151271446",
-      "name": "Rodio Craft RC Drift Spin 27 0.7g",
-      "price": 600,
-      "link": "https://www.backlash.co.jp/e/item/4573151271446/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4573151278001": {
-      "uid": "bl4573151278001",
-      "name": "Rodio Craft RC Drift Spin 27 0.7g【2】",
-      "price": 600,
-      "link": "https://www.backlash.co.jp/e/item/4573151278001/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4580764715977": {
       "uid": "bl4580764715977",
       "name": "1089 Kobo×DAYSPROUT Sakasanyoro slim 60FS",
@@ -397,14 +429,6 @@
       "name": "Jackall Timon MICRO PANICRA MR-SS",
       "price": 1287,
       "link": "https://www.backlash.co.jp/e/item/4525807327694/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4525807327571": {
-      "uid": "bl4525807327571",
-      "name": "Jackall Timon Micro Panicra MR-F Rattle",
-      "price": 1287,
-      "link": "https://www.backlash.co.jp/e/item/4525807327571/",
       "shop": "BackLash",
       "stock": true
     },
@@ -1205,22 +1229,6 @@
       "name": "deps BUZZJET TROUT MODEL",
       "price": 1305,
       "link": "https://www.backlash.co.jp/e/item/4544565232019/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4570164762220": {
-      "uid": "bl4570164762220",
-      "name": "New Drawer Hunt Grande 1.0g",
-      "price": 550,
-      "link": "https://www.backlash.co.jp/e/item/4570164762220/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4570164762374": {
-      "uid": "bl4570164762374",
-      "name": "New Drawer Hunt Grande 1.3g",
-      "price": 550,
-      "link": "https://www.backlash.co.jp/e/item/4570164762374/",
       "shop": "BackLash",
       "stock": true
     },
@@ -11352,14 +11360,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4969363150301": {
-      "uid": "bl4969363150301",
-      "name": "Shimano Dive Rise 45F",
-      "price": 1215,
-      "link": "https://www.backlash.co.jp/e/item/4969363150301/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4949146030013": {
       "uid": "bl4949146030013",
       "name": "VAN FOOK Leech 1.8g",
@@ -19544,6 +19544,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4573213091463": {
+      "uid": "bl4573213091463",
+      "name": "sumlures Funa Minnow 77",
+      "price": 1750,
+      "link": "https://www.backlash.co.jp/e/item/4573213091463/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4589873977498": {
       "uid": "bl4589873977498",
       "name": "ValkeIN  HYDRAM sinking wholesaler bespoke color",
@@ -20685,14 +20693,6 @@
       "name": "[BACKLASH Original Color] Deep Paradox Gravity Meister Color",
       "price": 630,
       "link": "https://www.backlash.co.jp/e/item/4582782653170/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4573213091463": {
-      "uid": "bl4573213091463",
-      "name": "sumlures Funa Minnow 77",
-      "price": 1750,
-      "link": "https://www.backlash.co.jp/e/item/4573213091463/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30586,5 +30586,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-13T08:51:36+03:00"
+  "last_check": "2026-11-13T08:56:20+03:00"
 }
