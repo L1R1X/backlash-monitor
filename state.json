@@ -240,6 +240,22 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4582671300208": {
+      "uid": "bl4582671300208",
+      "name": "ValkeIN HI BURST Uchoten color 1.3g",
+      "price": 477,
+      "link": "https://www.backlash.co.jp/e/item/4582671300208/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4582671300017": {
+      "uid": "bl4582671300017",
+      "name": "ValkeIN HI BURST Uchoten color 1.6g",
+      "price": 477,
+      "link": "https://www.backlash.co.jp/e/item/4582671300017/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4570027013926": {
       "uid": "bl4570027013926",
       "name": "Valkein Shine Ride 1091 Color",
@@ -944,22 +960,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4582671344035": {
-      "uid": "bl4582671344035",
-      "name": "Valkein Black Blast  2.2g Yasujima Secret Color",
-      "price": 522,
-      "link": "https://www.backlash.co.jp/e/item/4582671344035/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582671342741": {
-      "uid": "bl4582671342741",
-      "name": "ValkeIN　 Black Blast 2.2g 1091Color",
-      "price": 522,
-      "link": "https://www.backlash.co.jp/e/item/4582671342741/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4582671349504": {
       "uid": "bl4582671349504",
       "name": "Valkein Black Blast 2.2g Uchoten Color",
@@ -1173,22 +1173,6 @@
       "name": "deps BUZZJET TROUT MODEL",
       "price": 1305,
       "link": "https://www.backlash.co.jp/e/item/4544565232019/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582671300208": {
-      "uid": "bl4582671300208",
-      "name": "ValkeIN HI BURST Uchoten color 1.3g",
-      "price": 477,
-      "link": "https://www.backlash.co.jp/e/item/4582671300208/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582671300017": {
-      "uid": "bl4582671300017",
-      "name": "ValkeIN HI BURST Uchoten color 1.6g",
-      "price": 477,
-      "link": "https://www.backlash.co.jp/e/item/4582671300017/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30578,5 +30562,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-13T07:16:33+03:00"
+  "last_check": "2026-11-13T07:21:38+03:00"
 }
