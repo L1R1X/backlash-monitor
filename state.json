@@ -240,6 +240,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4573151270371": {
+      "uid": "bl4573151270371",
+      "name": "Rodio Craft Fat MOCA Junior DR（SS) 【2】",
+      "price": 1600,
+      "link": "https://www.backlash.co.jp/e/item/4573151270371/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4570164768666": {
       "uid": "bl4570164768666",
       "name": "New Drawer Hunt 0.7g【3】",
@@ -389,14 +397,6 @@
       "name": "Valkein Shine Ride 1091 Color",
       "price": 1575,
       "link": "https://www.backlash.co.jp/e/item/4570027013926/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4573151270371": {
-      "uid": "bl4573151270371",
-      "name": "Rodio Craft Fat MOCA Junior DR（SS) 【2】",
-      "price": 1600,
-      "link": "https://www.backlash.co.jp/e/item/4573151270371/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30602,5 +30602,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-13T09:56:19+03:00"
+  "last_check": "2026-11-13T10:02:19+03:00"
 }
