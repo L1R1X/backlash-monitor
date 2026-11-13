@@ -240,6 +240,22 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4573151270371": {
+      "uid": "bl4573151270371",
+      "name": "Rodio Craft Fat MOCA Junior DR（SS) 【2】",
+      "price": 1600,
+      "link": "https://www.backlash.co.jp/e/item/4573151270371/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4573151272122": {
+      "uid": "bl4573151272122",
+      "name": "Rodio Craft Fat MOCA Junior SR【2】",
+      "price": 1600,
+      "link": "https://www.backlash.co.jp/e/item/4573151272122/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4573151272375": {
       "uid": "bl4573151272375",
       "name": "Rodio Craft Fat MOCA Junior SR",
@@ -4829,14 +4845,6 @@
       "name": "Mukai Fishing PERE-SUPU 1.7g",
       "price": 522,
       "link": "https://www.backlash.co.jp/e/item/4513907460441/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4573151270371": {
-      "uid": "bl4573151270371",
-      "name": "Rodio Craft Fat MOCA Junior DR（SS) 【2】",
-      "price": 1600,
-      "link": "https://www.backlash.co.jp/e/item/4573151270371/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30569,6 +30577,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-13T05:51:22+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• Rodio Craft Fat MOCA Junior SR【2】\n  ¥1,600\n  https://www.backlash.co.jp/e/item/4573151272122/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-13T05:56:33+03:00"
 }
