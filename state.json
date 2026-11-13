@@ -5088,6 +5088,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4582671354959": {
+      "uid": "bl4582671354959",
+      "name": "ValkeIN Scheila Nano 0.5g",
+      "price": 504,
+      "link": "https://www.backlash.co.jp/e/item/4582671354959/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4571385606935": {
       "uid": "bl4571385606935",
       "name": "Rodio Craft Blind Flanker",
@@ -20208,14 +20216,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4582671354959": {
-      "uid": "bl4582671354959",
-      "name": "ValkeIN Scheila Nano 0.5g",
-      "price": 504,
-      "link": "https://www.backlash.co.jp/e/item/4582671354959/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4573527015261": {
       "uid": "bl4573527015261",
       "name": "HMKL ZAGGER　50B1 Half",
@@ -30610,5 +30610,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-13T13:41:43+03:00"
+  "last_check": "2026-11-13T13:46:46+03:00"
 }
