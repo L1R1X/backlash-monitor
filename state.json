@@ -240,6 +240,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4511474339030": {
+      "uid": "bl4511474339030",
+      "name": "SMITH Tic-Tak lipper HS",
+      "price": 1530,
+      "link": "https://www.backlash.co.jp/e/item/4511474339030/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4573632511108": {
       "uid": "bl4573632511108",
       "name": "[BackLash Original Color] Rodeo Craft Mocha & Fat Mocha Jr. Meister Color",
@@ -10789,14 +10797,6 @@
       "name": "Smith TIC-TAK LIPPER　S",
       "price": 1485,
       "link": "https://www.backlash.co.jp/e/item/4511474338897/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4511474339030": {
-      "uid": "bl4511474339030",
-      "name": "SMITH Tic-Tak lipper HS",
-      "price": 1530,
-      "link": "https://www.backlash.co.jp/e/item/4511474339030/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30610,5 +30610,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-13T13:21:36+03:00"
+  "last_check": "2026-11-13T13:26:27+03:00"
 }
