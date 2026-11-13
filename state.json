@@ -240,6 +240,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4570027013926": {
+      "uid": "bl4570027013926",
+      "name": "Valkein Shine Ride 1091 Color",
+      "price": 1575,
+      "link": "https://www.backlash.co.jp/e/item/4570027013926/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4573151270371": {
       "uid": "bl4573151270371",
       "name": "Rodio Craft Fat MOCA Junior DR（SS) 【2】",
@@ -389,14 +397,6 @@
       "name": "ValkeIN HI BURST Uchoten color 1.6g",
       "price": 477,
       "link": "https://www.backlash.co.jp/e/item/4582671300017/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4570027013926": {
-      "uid": "bl4570027013926",
-      "name": "Valkein Shine Ride 1091 Color",
-      "price": 1575,
-      "link": "https://www.backlash.co.jp/e/item/4570027013926/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30602,5 +30602,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-13T10:21:21+03:00"
+  "last_check": "2026-11-13T10:26:22+03:00"
 }
