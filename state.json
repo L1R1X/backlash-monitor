@@ -240,6 +240,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4573632511108": {
+      "uid": "bl4573632511108",
+      "name": "[BackLash Original Color] Rodeo Craft Mocha & Fat Mocha Jr. Meister Color",
+      "price": 1600,
+      "link": "https://www.backlash.co.jp/e/item/4573632511108/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4582671354089": {
       "uid": "bl4582671354089",
       "name": "VALKEIN Snazer Floating 1091 Color",
@@ -2693,14 +2701,6 @@
       "name": "Mukai PATAPATA BLADE",
       "price": 693,
       "link": "https://www.backlash.co.jp/e/item/4513907459636/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4573632511108": {
-      "uid": "bl4573632511108",
-      "name": "[BackLash Original Color] Rodeo Craft Mocha & Fat Mocha Jr. Meister Color",
-      "price": 1600,
-      "link": "https://www.backlash.co.jp/e/item/4573632511108/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30610,5 +30610,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-13T12:11:27+03:00"
+  "last_check": "2026-11-13T12:16:29+03:00"
 }
