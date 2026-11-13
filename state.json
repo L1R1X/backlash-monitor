@@ -240,11 +240,11 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4580847002680": {
-      "uid": "bl4580847002680",
-      "name": "Rob Lure x KARTELLAS  RURAN",
-      "price": 1500,
-      "link": "https://www.backlash.co.jp/e/item/4580847002680/",
+    "bl4570164768666": {
+      "uid": "bl4570164768666",
+      "name": "New Drawer Hunt 0.7g【3】",
+      "price": 550,
+      "link": "https://www.backlash.co.jp/e/item/4570164768666/",
       "shop": "BackLash",
       "stock": true
     },
@@ -253,6 +253,14 @@
       "name": "New Drawer Hunt 0.9g【3】",
       "price": 550,
       "link": "https://www.backlash.co.jp/e/item/4570164768734/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4580847002680": {
+      "uid": "bl4580847002680",
+      "name": "Rob Lure x KARTELLAS  RURAN",
+      "price": 1500,
+      "link": "https://www.backlash.co.jp/e/item/4580847002680/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30593,6 +30601,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-13T09:36:19+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• New Drawer Hunt 0.7g【3】\n  ¥550\n  https://www.backlash.co.jp/e/item/4570164768666/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-13T09:42:00+03:00"
 }
