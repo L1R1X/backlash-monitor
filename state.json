@@ -240,6 +240,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4570027013926": {
+      "uid": "bl4570027013926",
+      "name": "Valkein Shine Ride 1091 Color",
+      "price": 1575,
+      "link": "https://www.backlash.co.jp/e/item/4570027013926/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4573151270371": {
       "uid": "bl4573151270371",
       "name": "Rodio Craft Fat MOCA Junior DR（SS) 【2】",
@@ -397,14 +405,6 @@
       "name": "ValkeIN Li-Worm Nano'  ValkeIN Li-Worm Nano",
       "price": 1512,
       "link": "https://www.backlash.co.jp/e/item/4570027013964/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4570027013926": {
-      "uid": "bl4570027013926",
-      "name": "Valkein Shine Ride 1091 Color",
-      "price": 1575,
-      "link": "https://www.backlash.co.jp/e/item/4570027013926/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30578,5 +30578,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-13T06:56:10+03:00"
+  "last_check": "2026-11-13T07:02:20+03:00"
 }
