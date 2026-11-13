@@ -240,6 +240,22 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4533625155689": {
+      "uid": "bl4533625155689",
+      "name": "[8 Colors Available] Evergreen Crush Diver FEvergreen Crush Diver F 52",
+      "price": 1400,
+      "link": "https://www.backlash.co.jp/e/item/4533625155689/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4582671355680": {
+      "uid": "bl4582671355680",
+      "name": "Valkein Black Blast 1.3g Uchoten Color",
+      "price": 522,
+      "link": "https://www.backlash.co.jp/e/item/4582671355680/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4582671300208": {
       "uid": "bl4582671300208",
       "name": "ValkeIN HI BURST Uchoten color 1.3g",
@@ -1341,14 +1357,6 @@
       "name": "Mukai Fishing Shachihoko 28S Taniyama Color",
       "price": 1440,
       "link": "https://www.backlash.co.jp/e/item/4513907462698/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4533625155689": {
-      "uid": "bl4533625155689",
-      "name": "[8 Colors Available] Evergreen Crush Diver FEvergreen Crush Diver F 52",
-      "price": 1400,
-      "link": "https://www.backlash.co.jp/e/item/4533625155689/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30577,6 +30585,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-13T08:26:21+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• Valkein Black Blast 1.3g Uchoten Color\n  ¥522\n  https://www.backlash.co.jp/e/item/4582671355680/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-13T08:31:53+03:00"
 }
