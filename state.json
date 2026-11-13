@@ -240,11 +240,11 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4513907458486": {
-      "uid": "bl4513907458486",
-      "name": "Gate × Mukai Tremo Pogo GS2",
+    "bl4513907458455": {
+      "uid": "bl4513907458455",
+      "name": "Gate × Mukai Tremo Slim 28MR GS2 SS",
       "price": 1760,
-      "link": "https://www.backlash.co.jp/e/item/4513907458486/",
+      "link": "https://www.backlash.co.jp/e/item/4513907458455/",
       "shop": "BackLash",
       "stock": true
     },
@@ -256,11 +256,11 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4513907458455": {
-      "uid": "bl4513907458455",
-      "name": "Gate × Mukai Tremo Slim 28MR GS2 SS",
+    "bl4513907458486": {
+      "uid": "bl4513907458486",
+      "name": "Gate × Mukai Tremo Pogo GS2",
       "price": 1760,
-      "link": "https://www.backlash.co.jp/e/item/4513907458455/",
+      "link": "https://www.backlash.co.jp/e/item/4513907458486/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30578,5 +30578,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-13T04:21:25+03:00"
+  "last_check": "2026-11-13T04:26:20+03:00"
 }
