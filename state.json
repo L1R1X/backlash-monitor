@@ -12480,6 +12480,30 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4537628462225": {
+      "uid": "bl4537628462225",
+      "name": "Forest Mew Native Series 4.2g No.12 Green Yamame",
+      "price": 540,
+      "link": "https://www.backlash.co.jp/e/item/4537628462225/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4537628462256": {
+      "uid": "bl4537628462256",
+      "name": "Forest Mew Native Series 4.2g Thick Plate 15",
+      "price": 540,
+      "link": "https://www.backlash.co.jp/e/item/4537628462256/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4537628188255": {
+      "uid": "bl4537628188255",
+      "name": "Forest MIU 5g 2014 #15",
+      "price": 675,
+      "link": "https://www.backlash.co.jp/e/item/4537628188255/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4537628188125": {
       "uid": "bl4537628188125",
       "name": "Forest 14NEW Mu 5g 02",
@@ -14741,6 +14765,14 @@
       "name": "UNDED FACTORY GRIM 51MJ modified",
       "price": 1395,
       "link": "https://www.backlash.co.jp/e/item/4582615650130/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4582671295344": {
+      "uid": "bl4582671295344",
+      "name": "ValkeIN KUGA Dimension L size SS",
+      "price": 1620,
+      "link": "https://www.backlash.co.jp/e/item/4582671295344/",
       "shop": "BackLash",
       "stock": true
     },
@@ -23552,14 +23584,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4582671295344": {
-      "uid": "bl4582671295344",
-      "name": "ValkeIN KUGA Dimension L size SS",
-      "price": 1620,
-      "link": "https://www.backlash.co.jp/e/item/4582671295344/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4582671315660": {
       "uid": "bl4582671315660",
       "name": "Valkein VALCYANOM",
@@ -30553,6 +30577,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-13T04:46:21+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (3)</b>\n\n• Forest Mew Native Series 4.2g No.12 Green Yamame\n  ¥540\n  https://www.backlash.co.jp/e/item/4537628462225/\n\n• Forest Mew Native Series 4.2g Thick Plate 15\n  ¥540\n  https://www.backlash.co.jp/e/item/4537628462256/\n\n• Forest MIU 5g 2014 #15\n  ¥675\n  https://www.backlash.co.jp/e/item/4537628188255/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-13T04:51:47+03:00"
 }
