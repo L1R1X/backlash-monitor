@@ -240,6 +240,62 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4580847002680": {
+      "uid": "bl4580847002680",
+      "name": "Rob Lure x KARTELLAS  RURAN",
+      "price": 1500,
+      "link": "https://www.backlash.co.jp/e/item/4580847002680/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4570164768734": {
+      "uid": "bl4570164768734",
+      "name": "New Drawer Hunt 0.9g【3】",
+      "price": 550,
+      "link": "https://www.backlash.co.jp/e/item/4570164768734/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4580299021758": {
+      "uid": "bl4580299021758",
+      "name": "Nomadic Code Baster 1.2g【1】",
+      "price": 405,
+      "link": "https://www.backlash.co.jp/e/item/4580299021758/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4580299022267": {
+      "uid": "bl4580299022267",
+      "name": "NomadicCode Baster 0.7g【1】",
+      "price": 405,
+      "link": "https://www.backlash.co.jp/e/item/4580299022267/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4580299028795": {
+      "uid": "bl4580299028795",
+      "name": "NomadicCode Baster Staff Color",
+      "price": 405,
+      "link": "https://www.backlash.co.jp/e/item/4580299028795/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4580299028641": {
+      "uid": "bl4580299028641",
+      "name": "NomadicCode Jag Staff color",
+      "price": 405,
+      "link": "https://www.backlash.co.jp/e/item/4580299028641/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4580299029228": {
+      "uid": "bl4580299029228",
+      "name": "NomadicCode Silky Staff color",
+      "price": 405,
+      "link": "https://www.backlash.co.jp/e/item/4580299029228/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4570164762220": {
       "uid": "bl4570164762220",
       "name": "New Drawer Hunt Grande 1.0g",
@@ -2829,14 +2885,6 @@
       "name": "deps BUZZJET TROUT MODEL【2】",
       "price": 1305,
       "link": "https://www.backlash.co.jp/e/item/4544565232217/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4580847002680": {
-      "uid": "bl4580847002680",
-      "name": "Rob Lure x KARTELLAS  RURAN",
-      "price": 1500,
-      "link": "https://www.backlash.co.jp/e/item/4580847002680/",
       "shop": "BackLash",
       "stock": true
     },
@@ -12864,14 +12912,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4580299029228": {
-      "uid": "bl4580299029228",
-      "name": "NomadicCode Silky Staff color",
-      "price": 405,
-      "link": "https://www.backlash.co.jp/e/item/4580299029228/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4580299027859": {
       "uid": "bl4580299027859",
       "name": "NomadicCode　Jag",
@@ -12888,27 +12928,11 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4580299022267": {
-      "uid": "bl4580299022267",
-      "name": "NomadicCode Baster 0.7g【1】",
-      "price": 405,
-      "link": "https://www.backlash.co.jp/e/item/4580299022267/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4580299021956": {
       "uid": "bl4580299021956",
       "name": "Nomadic Code x Kingfisher Buster 1.2g【2】",
       "price": 405,
       "link": "https://www.backlash.co.jp/e/item/4580299021956/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4580299021758": {
-      "uid": "bl4580299021758",
-      "name": "Nomadic Code Baster 1.2g【1】",
-      "price": 405,
-      "link": "https://www.backlash.co.jp/e/item/4580299021758/",
       "shop": "BackLash",
       "stock": true
     },
@@ -13365,14 +13389,6 @@
       "name": "Rodio Craft Noah B (B) 1091 x Peach Bison",
       "price": 522,
       "link": "https://www.backlash.co.jp/e/item/4573151254081/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4580299028795": {
-      "uid": "bl4580299028795",
-      "name": "NomadicCode Baster Staff Color",
-      "price": 405,
-      "link": "https://www.backlash.co.jp/e/item/4580299028795/",
       "shop": "BackLash",
       "stock": true
     },
@@ -18352,14 +18368,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4580299028641": {
-      "uid": "bl4580299028641",
-      "name": "NomadicCode Jag Staff color",
-      "price": 405,
-      "link": "https://www.backlash.co.jp/e/item/4580299028641/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4573399368021": {
       "uid": "bl4573399368021",
       "name": "Saurib Shaath 1091 x Peach Bison",
@@ -19541,6 +19549,14 @@
       "name": "Valkein BlackBlast 1.8g Backlash special color 2024",
       "price": 580,
       "link": "https://www.backlash.co.jp/e/item/4582671327779/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4582692472342": {
+      "uid": "bl4582692472342",
+      "name": "NomadicCode Baster 0.7g【2】",
+      "price": 450,
+      "link": "https://www.backlash.co.jp/e/item/4582692472342/",
       "shop": "BackLash",
       "stock": true
     },
@@ -22709,14 +22725,6 @@
       "name": "NomadicCode Jag 0.8g【2】",
       "price": 450,
       "link": "https://www.backlash.co.jp/e/item/4582692472335/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582692472342": {
-      "uid": "bl4582692472342",
-      "name": "NomadicCode Baster 0.7g【2】",
-      "price": 450,
-      "link": "https://www.backlash.co.jp/e/item/4582692472342/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30585,6 +30593,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-13T09:11:35+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• New Drawer Hunt 0.9g【3】\n  ¥550\n  https://www.backlash.co.jp/e/item/4570164768734/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-13T09:16:33+03:00"
 }
