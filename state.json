@@ -960,6 +960,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4582671336504": {
+      "uid": "bl4582671336504",
+      "name": "Valkein Haze DD (Deep Drive)",
+      "price": 1395,
+      "link": "https://www.backlash.co.jp/e/item/4582671336504/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4582671321272": {
       "uid": "bl4582671321272",
       "name": "VALKEIN Haze Nano Slow Sinking",
@@ -13429,6 +13437,14 @@
       "name": "Mukai Fishing　LITTLE POGO　33 【1】",
       "price": 1170,
       "link": "https://www.backlash.co.jp/e/item/4513907434138/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4582671318777": {
+      "uid": "bl4582671318777",
+      "name": "ValkeIN   VALCYANOM 1.8g",
+      "price": 702,
+      "link": "https://www.backlash.co.jp/e/item/4582671318777/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30593,6 +30609,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-14T04:56:33+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (2)</b>\n\n• Valkein Haze DD (Deep Drive)\n  ¥1,395\n  https://www.backlash.co.jp/e/item/4582671336504/\n\n• ValkeIN   VALCYANOM 1.8g\n  ¥702\n  https://www.backlash.co.jp/e/item/4582671318777/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-14T05:02:00+03:00"
 }
