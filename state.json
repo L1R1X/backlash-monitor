@@ -960,6 +960,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4582671349054": {
+      "uid": "bl4582671349054",
+      "name": "Valkein Haze DD Taniyama Color",
+      "price": 1485,
+      "link": "https://www.backlash.co.jp/e/item/4582671349054/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4582671342857": {
       "uid": "bl4582671342857",
       "name": "Valkein Haze DD 1091",
@@ -2336,14 +2344,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4525807190373": {
-      "uid": "bl4525807190373",
-      "name": "Jackall Timon  Tea Gravel 1.7g [2]",
-      "price": 450,
-      "link": "https://www.backlash.co.jp/e/item/4525807190373/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4525807190267": {
       "uid": "bl4525807190267",
       "name": "Jackall Cibi Quattro Spoon [1]",
@@ -2413,14 +2413,6 @@
       "name": "JACKALL　TIMON　Rekuze",
       "price": 450,
       "link": "https://www.backlash.co.jp/e/item/4525807246049/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582418083654": {
-      "uid": "bl4582418083654",
-      "name": "JACKALL TIMON　T-GROVEL",
-      "price": 450,
-      "link": "https://www.backlash.co.jp/e/item/4582418083654/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30601,6 +30593,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-14T09:06:24+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• Valkein Haze DD Taniyama Color\n  ¥1,485\n  https://www.backlash.co.jp/e/item/4582671349054/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-14T09:11:34+03:00"
 }
