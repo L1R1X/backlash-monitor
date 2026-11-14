@@ -240,6 +240,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4537628147214": {
+      "uid": "bl4537628147214",
+      "name": "Forest MIU 3.5g",
+      "price": 522,
+      "link": "https://www.backlash.co.jp/e/item/4537628147214/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4511474339030": {
       "uid": "bl4511474339030",
       "name": "SMITH Tic-Tak lipper HS",
@@ -949,14 +957,6 @@
       "name": "Valkein Haze DD (Deep Drive)",
       "price": 1395,
       "link": "https://www.backlash.co.jp/e/item/4582671336504/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582671321272": {
-      "uid": "bl4582671321272",
-      "name": "VALKEIN Haze Nano Slow Sinking",
-      "price": 1350,
-      "link": "https://www.backlash.co.jp/e/item/4582671321272/",
       "shop": "BackLash",
       "stock": true
     },
@@ -12821,14 +12821,6 @@
       "name": "Forest MIU 3.5g Glow Color",
       "price": 540,
       "link": "https://www.backlash.co.jp/e/item/4537628147269/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4537628147214": {
-      "uid": "bl4537628147214",
-      "name": "Forest MIU 3.5g",
-      "price": 522,
-      "link": "https://www.backlash.co.jp/e/item/4537628147214/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30610,5 +30602,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-14T04:21:35+03:00"
+  "last_check": "2026-11-14T04:26:12+03:00"
 }
