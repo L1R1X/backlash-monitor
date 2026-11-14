@@ -960,6 +960,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4582671321272": {
+      "uid": "bl4582671321272",
+      "name": "VALKEIN Haze Nano Slow Sinking",
+      "price": 1350,
+      "link": "https://www.backlash.co.jp/e/item/4582671321272/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4582671314304": {
       "uid": "bl4582671314304",
       "name": "VALKEIN Haze Nano Slow Sinking",
@@ -30601,6 +30609,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-14T04:36:26+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• VALKEIN Haze Nano Slow Sinking\n  ¥1,350\n  https://www.backlash.co.jp/e/item/4582671321272/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-14T04:41:25+03:00"
 }
