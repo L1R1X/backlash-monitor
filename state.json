@@ -4800,6 +4800,22 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4562338589412": {
+      "uid": "bl4562338589412",
+      "name": "IVLINE T-Gravits 50s Standard",
+      "price": 1368,
+      "link": "https://www.backlash.co.jp/e/item/4562338589412/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4511729701315": {
+      "uid": "bl4511729701315",
+      "name": "Jackson Bottom Magic Monster",
+      "price": 1260,
+      "link": "https://www.backlash.co.jp/e/item/4511729701315/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4571169084638": {
       "uid": "bl4571169084638",
       "name": "Rodio Craft Jekyll Junior",
@@ -19560,6 +19576,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4589873969769": {
+      "uid": "bl4589873969769",
+      "name": "ValkeIN SCHEILA  1.8g wholesaler bespoke color",
+      "price": 477,
+      "link": "https://www.backlash.co.jp/e/item/4589873969769/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4562299491878": {
       "uid": "bl4562299491878",
       "name": "ValkeIN Ice Fake 1.1g Limited Color",
@@ -23565,14 +23589,6 @@
       "name": "Sauribu Shaath we  1.2g Heros Color",
       "price": 540,
       "link": "https://www.backlash.co.jp/e/item/4582756422917/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4589873969769": {
-      "uid": "bl4589873969769",
-      "name": "ValkeIN SCHEILA  1.8g wholesaler bespoke color",
-      "price": 477,
-      "link": "https://www.backlash.co.jp/e/item/4589873969769/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30593,6 +30609,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-14T10:06:19+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (2)</b>\n\n• IVLINE T-Gravits 50s Standard\n  ¥1,368\n  https://www.backlash.co.jp/e/item/4562338589412/\n\n• Jackson Bottom Magic Monster\n  ¥1,260\n  https://www.backlash.co.jp/e/item/4511729701315/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-14T10:11:24+03:00"
 }
