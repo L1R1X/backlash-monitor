@@ -4792,14 +4792,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4582196299285": {
-      "uid": "bl4582196299285",
-      "name": "IVY LINE Mantis Hook Nano 14 pcs",
-      "price": 522,
-      "link": "https://www.backlash.co.jp/e/item/4582196299285/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4562338619461": {
       "uid": "bl4562338619461",
       "name": "IVLINE Spoon Pallet2",
@@ -15349,14 +15341,6 @@
       "name": "Rob Lure Babel V3 Taniyama Color",
       "price": 450,
       "link": "https://www.backlash.co.jp/e/item/4573581511952/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4573581512423": {
-      "uid": "bl4573581512423",
-      "name": "Rob Lure Babel V3 0.38g 0.8g Lazy Series",
-      "price": 450,
-      "link": "https://www.backlash.co.jp/e/item/4573581512423/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30610,5 +30594,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-14T14:21:34+03:00"
+  "last_check": "2026-11-14T14:26:23+03:00"
 }
