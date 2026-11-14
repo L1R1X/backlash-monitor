@@ -240,6 +240,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4548393367073": {
+      "uid": "bl4548393367073",
+      "name": "DAYSPROUT DS Mini Cicada HF G2",
+      "price": 1550,
+      "link": "https://www.backlash.co.jp/e/item/4548393367073/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4548393350013": {
       "uid": "bl4548393350013",
       "name": "DAYSPROUT EAGLE PLAYER 55DT DAYSPROUT EAGLE PLAYER 55DT",
@@ -7989,14 +7997,6 @@
       "name": "SMITH　DANGOUO　DR-Low",
       "price": 1260,
       "link": "https://www.backlash.co.jp/e/item/4511474332277/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4548393367073": {
-      "uid": "bl4548393367073",
-      "name": "DAYSPROUT DS Mini Cicada HF G2",
-      "price": 1550,
-      "link": "https://www.backlash.co.jp/e/item/4548393367073/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30602,5 +30602,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-14T07:41:39+03:00"
+  "last_check": "2026-11-14T07:46:25+03:00"
 }
