@@ -248,6 +248,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4548393350013": {
+      "uid": "bl4548393350013",
+      "name": "DAYSPROUT EAGLE PLAYER 55DT DAYSPROUT EAGLE PLAYER 55DT",
+      "price": 1395,
+      "link": "https://www.backlash.co.jp/e/item/4548393350013/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4511474339030": {
       "uid": "bl4511474339030",
       "name": "SMITH Tic-Tak lipper HS",
@@ -949,14 +957,6 @@
       "name": "Valkein Haze DD Arakawa Toru Limited Color",
       "price": 1568,
       "link": "https://www.backlash.co.jp/e/item/4582671347425/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582671336504": {
-      "uid": "bl4582671336504",
-      "name": "Valkein Haze DD (Deep Drive)",
-      "price": 1395,
-      "link": "https://www.backlash.co.jp/e/item/4582671336504/",
       "shop": "BackLash",
       "stock": true
     },
@@ -19568,14 +19568,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4548393350013": {
-      "uid": "bl4548393350013",
-      "name": "DAYSPROUT EAGLE PLAYER 55DT DAYSPROUT EAGLE PLAYER 55DT",
-      "price": 1395,
-      "link": "https://www.backlash.co.jp/e/item/4548393350013/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4533625155689": {
       "uid": "bl4533625155689",
       "name": "[8 Colors Available] Evergreen Crush Diver FEvergreen Crush Diver F 52",
@@ -30610,5 +30602,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-14T04:41:25+03:00"
+  "last_check": "2026-11-14T04:46:33+03:00"
 }
