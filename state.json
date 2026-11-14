@@ -4752,22 +4752,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4570040691934": {
-      "uid": "bl4570040691934",
-      "name": "ALFRED ALFRED CLEAR ALF Injection 1091 Color 0.8g",
-      "price": 850,
-      "link": "https://www.backlash.co.jp/e/item/4570040691934/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4571675030365": {
-      "uid": "bl4571675030365",
-      "name": "Hankl Zagger 65FM【2】",
-      "price": 1485,
-      "link": "https://www.backlash.co.jp/e/item/4571675030365/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl0036282159150": {
       "uid": "bl0036282159150",
       "name": "Abu Garcia Toby 21g",
@@ -13408,6 +13392,38 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4573151254081": {
+      "uid": "bl4573151254081",
+      "name": "Rodio Craft Noah B (B) 1091 x Peach Bison",
+      "price": 522,
+      "link": "https://www.backlash.co.jp/e/item/4573151254081/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4573151258751": {
+      "uid": "bl4573151258751",
+      "name": "Rodio Craft Noah B (B) 1091 x Peach Bison",
+      "price": 495,
+      "link": "https://www.backlash.co.jp/e/item/4573151258751/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl0049762043801": {
+      "uid": "bl0049762043801",
+      "name": "Rapala Haslure 4g 0150",
+      "price": 576,
+      "link": "https://www.backlash.co.jp/e/item/0049762043801/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4513907434138": {
+      "uid": "bl4513907434138",
+      "name": "Mukai Fishing　LITTLE POGO　33 【1】",
+      "price": 1170,
+      "link": "https://www.backlash.co.jp/e/item/4513907434138/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4582671318777": {
       "uid": "bl4582671318777",
       "name": "ValkeIN   VALCYANOM 1.8g",
@@ -14421,14 +14437,6 @@
       "name": "ValkeIN HI-BURST 3.6g [1]",
       "price": 495,
       "link": "https://www.backlash.co.jp/e/item/4589934350963/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4589934376529": {
-      "uid": "bl4589934376529",
-      "name": "ValkeIN Ice Fake 1.6g Limited Color",
-      "price": 477,
-      "link": "https://www.backlash.co.jp/e/item/4589934376529/",
       "shop": "BackLash",
       "stock": true
     },
@@ -17464,14 +17472,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4570027040885": {
-      "uid": "bl4570027040885",
-      "name": "ValkeIN ASTRAR  Limited Color 1.6g",
-      "price": 477,
-      "link": "https://www.backlash.co.jp/e/item/4570027040885/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4570027040908": {
       "uid": "bl4570027040908",
       "name": "ValkeIN ASTRAR  Limited Color 1.6g",
@@ -17504,43 +17504,11 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4562299494572": {
-      "uid": "bl4562299494572",
-      "name": "ValkeIN Ice Fake 1.6g  [1]",
-      "price": 450,
-      "link": "https://www.backlash.co.jp/e/item/4562299494572/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4570027028517": {
-      "uid": "bl4570027028517",
-      "name": "ValkeIN ASTRAR  Limited Color 1.6g",
-      "price": 450,
-      "link": "https://www.backlash.co.jp/e/item/4570027028517/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4570027028593": {
       "uid": "bl4570027028593",
       "name": "ValkeIN GIGA BURST  Limited Color 2.0g  (Area Spoon)",
       "price": 450,
       "link": "https://www.backlash.co.jp/e/item/4570027028593/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4562299491588": {
-      "uid": "bl4562299491588",
-      "name": "ValkeIN Ice Fake 1.6g [2]",
-      "price": 450,
-      "link": "https://www.backlash.co.jp/e/item/4562299491588/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4562299491809": {
-      "uid": "bl4562299491809",
-      "name": "ValkeIN Ice Fake 1.6g Limited Color",
-      "price": 450,
-      "link": "https://www.backlash.co.jp/e/item/4562299491809/",
       "shop": "BackLash",
       "stock": true
     },
@@ -17557,14 +17525,6 @@
       "name": "PEACH BISON　GRAPE",
       "price": 450,
       "link": "https://www.backlash.co.jp/e/item/4562375001472/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4570027011595": {
-      "uid": "bl4570027011595",
-      "name": "ValkeIN ASTRAR 1.6g  ValkeIN ASTRAR [1]",
-      "price": 450,
-      "link": "https://www.backlash.co.jp/e/item/4570027011595/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30577,6 +30537,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-14T09:26:27+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (4)</b>\n\n• Rodio Craft Noah B (B) 1091 x Peach Bison\n  ¥522\n  https://www.backlash.co.jp/e/item/4573151254081/\n\n• Rodio Craft Noah B (B) 1091 x Peach Bison\n  ¥495\n  https://www.backlash.co.jp/e/item/4573151258751/\n\n• Rapala Haslure 4g 0150\n  ¥576\n  https://www.backlash.co.jp/e/item/0049762043801/\n\n• Mukai Fishing　LITTLE POGO　33 【1】\n  ¥1,170\n  https://www.backlash.co.jp/e/item/4513907434138/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-14T09:31:52+03:00"
 }
