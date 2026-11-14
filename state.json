@@ -4800,6 +4800,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl0022677000626": {
+      "uid": "bl0022677000626",
+      "name": "RAPALA ORIGINAL FLOATER F9",
+      "price": 1104,
+      "link": "https://www.backlash.co.jp/e/item/0022677000626/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4573527017012": {
       "uid": "bl4573527017012",
       "name": "HMKL ZAGGER 50B1",
@@ -30601,6 +30609,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-14T07:51:28+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• RAPALA ORIGINAL FLOATER F9\n  ¥1,104\n  https://www.backlash.co.jp/e/item/0022677000626/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-14T07:56:19+03:00"
 }
