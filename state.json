@@ -240,6 +240,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4573435100851": {
+      "uid": "bl4573435100851",
+      "name": "PALMS LITTLE DINER GANOFF",
+      "price": 1260,
+      "link": "https://www.backlash.co.jp/e/item/4573435100851/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4570027039582": {
       "uid": "bl4570027039582",
       "name": "ValkeIN ASTRAR",
@@ -949,14 +957,6 @@
       "name": "ValkeIN KuGa Hydra Sinking S",
       "price": 1665,
       "link": "https://www.backlash.co.jp/e/item/4582671352955/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582671321494": {
-      "uid": "bl4582671321494",
-      "name": "VALKEIN KuGa Flat First Sinking FFS",
-      "price": 1395,
-      "link": "https://www.backlash.co.jp/e/item/4582671321494/",
       "shop": "BackLash",
       "stock": true
     },
@@ -5941,14 +5941,6 @@
       "name": "Slow Blatt Cast LONG Lake Shore Slow　20ｇ",
       "price": 891,
       "link": "https://www.backlash.co.jp/e/item/4573435076651/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4573435100851": {
-      "uid": "bl4573435100851",
-      "name": "PALMS LITTLE DINER GANOFF",
-      "price": 1260,
-      "link": "https://www.backlash.co.jp/e/item/4573435100851/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30610,5 +30602,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-14T10:21:43+03:00"
+  "last_check": "2026-11-14T10:26:25+03:00"
 }
