@@ -13408,38 +13408,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4573151254081": {
-      "uid": "bl4573151254081",
-      "name": "Rodio Craft Noah B (B) 1091 x Peach Bison",
-      "price": 522,
-      "link": "https://www.backlash.co.jp/e/item/4573151254081/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4573151258751": {
-      "uid": "bl4573151258751",
-      "name": "Rodio Craft Noah B (B) 1091 x Peach Bison",
-      "price": 495,
-      "link": "https://www.backlash.co.jp/e/item/4573151258751/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl0049762043801": {
-      "uid": "bl0049762043801",
-      "name": "Rapala Haslure 4g 0150",
-      "price": 576,
-      "link": "https://www.backlash.co.jp/e/item/0049762043801/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4513907434138": {
-      "uid": "bl4513907434138",
-      "name": "Mukai Fishing　LITTLE POGO　33 【1】",
-      "price": 1170,
-      "link": "https://www.backlash.co.jp/e/item/4513907434138/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4582671318777": {
       "uid": "bl4582671318777",
       "name": "ValkeIN   VALCYANOM 1.8g",
@@ -19573,6 +19541,22 @@
       "name": "Valkein BlackBlast 1.8g Backlash special color 2024",
       "price": 580,
       "link": "https://www.backlash.co.jp/e/item/4582671327779/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4562299491878": {
+      "uid": "bl4562299491878",
+      "name": "ValkeIN Ice Fake 1.1g Limited Color",
+      "price": 450,
+      "link": "https://www.backlash.co.jp/e/item/4562299491878/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4562299495487": {
+      "uid": "bl4562299495487",
+      "name": "ValkeIN Ice Fake 1.1g",
+      "price": 450,
+      "link": "https://www.backlash.co.jp/e/item/4562299495487/",
       "shop": "BackLash",
       "stock": true
     },
@@ -26840,14 +26824,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4562299491878": {
-      "uid": "bl4562299491878",
-      "name": "ValkeIN Ice Fake 1.1g Limited Color",
-      "price": 450,
-      "link": "https://www.backlash.co.jp/e/item/4562299491878/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4562299496675": {
       "uid": "bl4562299496675",
       "name": "ValkeIN Circle BC 1.5g # 35",
@@ -26981,14 +26957,6 @@
       "name": "ValkeIN Circle BC 2.0g # 40",
       "price": 410,
       "link": "https://www.backlash.co.jp/e/item/4562299496866/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4562299495487": {
-      "uid": "bl4562299495487",
-      "name": "ValkeIN Ice Fake 1.1g",
-      "price": 450,
-      "link": "https://www.backlash.co.jp/e/item/4562299495487/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30610,5 +30578,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-14T09:21:34+03:00"
+  "last_check": "2026-11-14T09:26:27+03:00"
 }
