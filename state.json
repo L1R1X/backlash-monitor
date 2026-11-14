@@ -240,6 +240,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4582671354935": {
+      "uid": "bl4582671354935",
+      "name": "[BackLash Original Color] Valkein Shine Ride & Liome Nano Kikuchi Color ILW",
+      "price": 1500,
+      "link": "https://www.backlash.co.jp/e/item/4582671354935/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4548393350013": {
       "uid": "bl4548393350013",
       "name": "DAYSPROUT EAGLE PLAYER 55DT DAYSPROUT EAGLE PLAYER 55DT",
@@ -30593,6 +30601,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-14T14:26:23+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• [BackLash Original Color] Valkein Shine Ride &amp; Liome Nano Kikuchi Color ILW\n  ¥1,500\n  https://www.backlash.co.jp/e/item/4582671354935/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-14T14:31:41+03:00"
 }
