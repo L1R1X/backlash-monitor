@@ -240,6 +240,22 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4525807190373": {
+      "uid": "bl4525807190373",
+      "name": "Jackall Timon  Tea Gravel 1.7g [2]",
+      "price": 450,
+      "link": "https://www.backlash.co.jp/e/item/4525807190373/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4582418083654": {
+      "uid": "bl4582418083654",
+      "name": "JACKALL TIMON　T-GROVEL",
+      "price": 450,
+      "link": "https://www.backlash.co.jp/e/item/4582418083654/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4582418092717": {
       "uid": "bl4582418092717",
       "name": "Jackall Charm 1.0g",
@@ -30593,6 +30609,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-14T09:11:34+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (2)</b>\n\n• Jackall Timon  Tea Gravel 1.7g [2]\n  ¥450\n  https://www.backlash.co.jp/e/item/4525807190373/\n\n• JACKALL TIMON　T-GROVEL\n  ¥450\n  https://www.backlash.co.jp/e/item/4582418083654/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-14T09:16:36+03:00"
 }
