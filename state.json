@@ -240,6 +240,110 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4589934376482": {
+      "uid": "bl4589934376482",
+      "name": "ValkeIN　HI BURST",
+      "price": 477,
+      "link": "https://www.backlash.co.jp/e/item/4589934376482/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4589873964115": {
+      "uid": "bl4589873964115",
+      "name": "ValkeIN HI-BURST  1.4g Limited Color",
+      "price": 450,
+      "link": "https://www.backlash.co.jp/e/item/4589873964115/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4582671297218": {
+      "uid": "bl4582671297218",
+      "name": "ValkeIN High burst 1.3g",
+      "price": 477,
+      "link": "https://www.backlash.co.jp/e/item/4582671297218/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4589873943424": {
+      "uid": "bl4589873943424",
+      "name": "Valke IN Shannon 1.1g [2]",
+      "price": 450,
+      "link": "https://www.backlash.co.jp/e/item/4589873943424/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4589873940461": {
+      "uid": "bl4589873940461",
+      "name": "Valke IN Shannon Shynon 1.1g [1]",
+      "price": 450,
+      "link": "https://www.backlash.co.jp/e/item/4589873940461/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4589934369453": {
+      "uid": "bl4589934369453",
+      "name": "ValkeIN Scheila 1.2g Limited Color  ValkeIN SCHEILA",
+      "price": 450,
+      "link": "https://www.backlash.co.jp/e/item/4589934369453/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4570027040885": {
+      "uid": "bl4570027040885",
+      "name": "ValkeIN ASTRAR  Limited Color 1.6g",
+      "price": 477,
+      "link": "https://www.backlash.co.jp/e/item/4570027040885/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4570027028517": {
+      "uid": "bl4570027028517",
+      "name": "ValkeIN ASTRAR  Limited Color 1.6g",
+      "price": 450,
+      "link": "https://www.backlash.co.jp/e/item/4570027028517/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4570027011595": {
+      "uid": "bl4570027011595",
+      "name": "ValkeIN ASTRAR 1.6g  ValkeIN ASTRAR [1]",
+      "price": 450,
+      "link": "https://www.backlash.co.jp/e/item/4570027011595/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4589934376529": {
+      "uid": "bl4589934376529",
+      "name": "ValkeIN Ice Fake 1.6g Limited Color",
+      "price": 477,
+      "link": "https://www.backlash.co.jp/e/item/4589934376529/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4562299491809": {
+      "uid": "bl4562299491809",
+      "name": "ValkeIN Ice Fake 1.6g Limited Color",
+      "price": 450,
+      "link": "https://www.backlash.co.jp/e/item/4562299491809/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4562299491588": {
+      "uid": "bl4562299491588",
+      "name": "ValkeIN Ice Fake 1.6g [2]",
+      "price": 450,
+      "link": "https://www.backlash.co.jp/e/item/4562299491588/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4562299494572": {
+      "uid": "bl4562299494572",
+      "name": "ValkeIN Ice Fake 1.6g  [1]",
+      "price": 450,
+      "link": "https://www.backlash.co.jp/e/item/4562299494572/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4525807190373": {
       "uid": "bl4525807190373",
       "name": "Jackall Timon  Tea Gravel 1.7g [2]",
@@ -853,62 +957,6 @@
       "name": "[Power Shop Exclusive Color] VALKEIN LI-worm Nano",
       "price": 1500,
       "link": "https://www.backlash.co.jp/e/item/4582671348842/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582671339529": {
-      "uid": "bl4582671339529",
-      "name": "【8 colors】 Valkein Liome Nano 【3】",
-      "price": 1422,
-      "link": "https://www.backlash.co.jp/e/item/4582671339529/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4570027035560": {
-      "uid": "bl4570027035560",
-      "name": "ValkeIN Li-Worm Nano【2】",
-      "price": 1422,
-      "link": "https://www.backlash.co.jp/e/item/4570027035560/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582671348989": {
-      "uid": "bl4582671348989",
-      "name": "VALKEIN Li-worm Nano Arakawa Limited",
-      "price": 1512,
-      "link": "https://www.backlash.co.jp/e/item/4582671348989/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4570027036970": {
-      "uid": "bl4570027036970",
-      "name": "ValkeIN  Figure Slow Sinking",
-      "price": 1260,
-      "link": "https://www.backlash.co.jp/e/item/4570027036970/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4570027045194": {
-      "uid": "bl4570027045194",
-      "name": "ValkeIN  Figure Slow Sinking",
-      "price": 1350,
-      "link": "https://www.backlash.co.jp/e/item/4570027045194/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4589934366421": {
-      "uid": "bl4589934366421",
-      "name": "ValkeIN JUJU",
-      "price": 1350,
-      "link": "https://www.backlash.co.jp/e/item/4589934366421/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4570027035430": {
-      "uid": "bl4570027035430",
-      "name": "ValkeIN JUJU",
-      "price": 1260,
-      "link": "https://www.backlash.co.jp/e/item/4570027035430/",
       "shop": "BackLash",
       "stock": true
     },
@@ -7896,14 +7944,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4589934369453": {
-      "uid": "bl4589934369453",
-      "name": "ValkeIN Scheila 1.2g Limited Color  ValkeIN SCHEILA",
-      "price": 450,
-      "link": "https://www.backlash.co.jp/e/item/4589934369453/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4589934360337": {
       "uid": "bl4589934360337",
       "name": "ValkeIN HI-BURST  0.8g Limited Color GLT LIMITED",
@@ -11736,14 +11776,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4589873964115": {
-      "uid": "bl4589873964115",
-      "name": "ValkeIN HI-BURST  1.4g Limited Color",
-      "price": 450,
-      "link": "https://www.backlash.co.jp/e/item/4589873964115/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4589934369804": {
       "uid": "bl4589934369804",
       "name": "ValkeIN HI-BURST  1.8g Limited Color GLT LIMITED",
@@ -14336,14 +14368,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4589934376482": {
-      "uid": "bl4589934376482",
-      "name": "ValkeIN　HI BURST",
-      "price": 477,
-      "link": "https://www.backlash.co.jp/e/item/4589934376482/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4589789544951": {
       "uid": "bl4589789544951",
       "name": "rob lure BABEL Weight Tune Gachipere",
@@ -14381,22 +14405,6 @@
       "name": "ValkeIN　SHYNON",
       "price": 477,
       "link": "https://www.backlash.co.jp/e/item/4589873943585/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4589873940461": {
-      "uid": "bl4589873940461",
-      "name": "Valke IN Shannon Shynon 1.1g [1]",
-      "price": 450,
-      "link": "https://www.backlash.co.jp/e/item/4589873940461/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4589873943424": {
-      "uid": "bl4589873943424",
-      "name": "Valke IN Shannon 1.1g [2]",
-      "price": 450,
-      "link": "https://www.backlash.co.jp/e/item/4589873943424/",
       "shop": "BackLash",
       "stock": true
     },
@@ -14821,14 +14829,6 @@
       "name": "Office Eucalyptus Takumi Snap JPS #Black",
       "price": 342,
       "link": "https://www.backlash.co.jp/e/item/4582493548673/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582671297218": {
-      "uid": "bl4582671297218",
-      "name": "ValkeIN High burst 1.3g",
-      "price": 477,
-      "link": "https://www.backlash.co.jp/e/item/4582671297218/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30537,6 +30537,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-14T09:36:21+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (7)</b>\n\n• ValkeIN ASTRAR  Limited Color 1.6g\n  ¥477\n  https://www.backlash.co.jp/e/item/4570027040885/\n\n• ValkeIN ASTRAR  Limited Color 1.6g\n  ¥450\n  https://www.backlash.co.jp/e/item/4570027028517/\n\n• ValkeIN ASTRAR 1.6g  ValkeIN ASTRAR [1]\n  ¥450\n  https://www.backlash.co.jp/e/item/4570027011595/\n\n• ValkeIN Ice Fake 1.6g Limited Color\n  ¥477\n  https://www.backlash.co.jp/e/item/4589934376529/\n\n• ValkeIN Ice Fake 1.6g Limited Color\n  ¥450\n  https://www.backlash.co.jp/e/item/4562299491809/\n\n• ValkeIN Ice Fake 1.6g [2]\n  ¥450\n  https://www.backlash.co.jp/e/item/4562299491588/\n\n• ValkeIN Ice Fake 1.6g  [1]\n  ¥450\n  https://www.backlash.co.jp/e/item/4562299494572/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-14T09:41:30+03:00"
 }
