@@ -960,6 +960,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4582671321494": {
+      "uid": "bl4582671321494",
+      "name": "VALKEIN KuGa Flat First Sinking FFS",
+      "price": 1395,
+      "link": "https://www.backlash.co.jp/e/item/4582671321494/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4582671329575": {
       "uid": "bl4582671329575",
       "name": "VALKEIN KUGA Flat Fast Sinking FFS 1091 Color",
@@ -30601,6 +30609,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-14T10:36:17+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• VALKEIN KuGa Flat First Sinking FFS\n  ¥1,395\n  https://www.backlash.co.jp/e/item/4582671321494/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-14T10:41:34+03:00"
 }
