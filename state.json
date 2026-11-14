@@ -240,6 +240,38 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4570027039582": {
+      "uid": "bl4570027039582",
+      "name": "ValkeIN ASTRAR",
+      "price": 450,
+      "link": "https://www.backlash.co.jp/e/item/4570027039582/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4589873977658": {
+      "uid": "bl4589873977658",
+      "name": "ValkeIN ASTRAR  Limited Color 2.4g",
+      "price": 450,
+      "link": "https://www.backlash.co.jp/e/item/4589873977658/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4570027023222": {
+      "uid": "bl4570027023222",
+      "name": "ValkeIN SCHEILA 1.5g 1091 color",
+      "price": 477,
+      "link": "https://www.backlash.co.jp/e/item/4570027023222/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4570027019621": {
+      "uid": "bl4570027019621",
+      "name": "ValkeIN GIGA BURST  2.0g  (area spoon)",
+      "price": 450,
+      "link": "https://www.backlash.co.jp/e/item/4570027019621/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4589934376482": {
       "uid": "bl4589934376482",
       "name": "ValkeIN　HI BURST",
@@ -30561,6 +30593,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-14T09:56:31+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (4)</b>\n\n• ValkeIN ASTRAR\n  ¥450\n  https://www.backlash.co.jp/e/item/4570027039582/\n\n• ValkeIN ASTRAR  Limited Color 2.4g\n  ¥450\n  https://www.backlash.co.jp/e/item/4589873977658/\n\n• ValkeIN SCHEILA 1.5g 1091 color\n  ¥477\n  https://www.backlash.co.jp/e/item/4570027023222/\n\n• ValkeIN GIGA BURST  2.0g  (area spoon)\n  ¥450\n  https://www.backlash.co.jp/e/item/4570027019621/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-14T10:02:03+03:00"
 }
