@@ -4800,6 +4800,22 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4570040691934": {
+      "uid": "bl4570040691934",
+      "name": "ALFRED ALFRED CLEAR ALF Injection 1091 Color 0.8g",
+      "price": 850,
+      "link": "https://www.backlash.co.jp/e/item/4570040691934/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4571675030365": {
+      "uid": "bl4571675030365",
+      "name": "Hankl Zagger 65FM【2】",
+      "price": 1485,
+      "link": "https://www.backlash.co.jp/e/item/4571675030365/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl0036282159150": {
       "uid": "bl0036282159150",
       "name": "Abu Garcia Toby 21g",
@@ -10944,14 +10960,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4570027023222": {
-      "uid": "bl4570027023222",
-      "name": "ValkeIN SCHEILA 1.5g 1091 color",
-      "price": 477,
-      "link": "https://www.backlash.co.jp/e/item/4570027023222/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4570027023260": {
       "uid": "bl4570027023260",
       "name": "ValkeIN　SHYNON 0.7g 1091 Color",
@@ -13357,46 +13365,6 @@
       "name": "Smith F Select 64   (Trout Minnow)",
       "price": 1665,
       "link": "https://www.backlash.co.jp/e/item/4511474291291/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4511474291284": {
-      "uid": "bl4511474291284",
-      "name": "Smith F Select 51   (Trout Minnow)",
-      "price": 1620,
-      "link": "https://www.backlash.co.jp/e/item/4511474291284/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4511474304717": {
-      "uid": "bl4511474304717",
-      "name": "Smith D Coke 51  SMITH  (Trout Minnow)",
-      "price": 1665,
-      "link": "https://www.backlash.co.jp/e/item/4511474304717/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4511474304885": {
-      "uid": "bl4511474304885",
-      "name": "Smith D Coke 65  SMITH  (Trout Minnow)",
-      "price": 1755,
-      "link": "https://www.backlash.co.jp/e/item/4511474304885/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4589873972158": {
-      "uid": "bl4589873972158",
-      "name": "ValkeIN High Burst 1091 x Peach Bison",
-      "price": 495,
-      "link": "https://www.backlash.co.jp/e/item/4589873972158/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4527938067326": {
-      "uid": "bl4527938067326",
-      "name": "WaterLand　Almin",
-      "price": 1200,
-      "link": "https://www.backlash.co.jp/e/item/4527938067326/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30537,6 +30505,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-14T09:41:30+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (2)</b>\n\n• ALFRED ALFRED CLEAR ALF Injection 1091 Color 0.8g\n  ¥850\n  https://www.backlash.co.jp/e/item/4570040691934/\n\n• Hankl Zagger 65FM【2】\n  ¥1,485\n  https://www.backlash.co.jp/e/item/4571675030365/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-14T09:46:34+03:00"
 }
