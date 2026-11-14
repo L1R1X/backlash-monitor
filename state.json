@@ -240,6 +240,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4582418092717": {
+      "uid": "bl4582418092717",
+      "name": "Jackall Charm 1.0g",
+      "price": 450,
+      "link": "https://www.backlash.co.jp/e/item/4582418092717/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4573581519835": {
       "uid": "bl4573581519835",
       "name": "rob lure　Pipe fishing guy punch (bottom)",
@@ -949,14 +957,6 @@
       "name": "ValkeIN Haze MD",
       "price": 1350,
       "link": "https://www.backlash.co.jp/e/item/4582671319859/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582671349054": {
-      "uid": "bl4582671349054",
-      "name": "Valkein Haze DD Taniyama Color",
-      "price": 1485,
-      "link": "https://www.backlash.co.jp/e/item/4582671349054/",
       "shop": "BackLash",
       "stock": true
     },
@@ -2421,14 +2421,6 @@
       "name": "JACKALL TIMON　T-GROVEL",
       "price": 450,
       "link": "https://www.backlash.co.jp/e/item/4582418083654/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582418092717": {
-      "uid": "bl4582418092717",
-      "name": "Jackall Charm 1.0g",
-      "price": 450,
-      "link": "https://www.backlash.co.jp/e/item/4582418092717/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30610,5 +30602,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-14T08:51:26+03:00"
+  "last_check": "2026-11-14T08:56:18+03:00"
 }
