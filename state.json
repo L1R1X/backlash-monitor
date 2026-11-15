@@ -240,6 +240,22 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4573151270111": {
+      "uid": "bl4573151270111",
+      "name": "Rodio Craft x SMITH　 Still Area T2 Rodio Color",
+      "price": 1650,
+      "link": "https://www.backlash.co.jp/e/item/4573151270111/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4511474342504": {
+      "uid": "bl4511474342504",
+      "name": "[BackLash Exclusive] Smith Dangouo (Dumpling Fish) Meister Color BackLash Original Color",
+      "price": 1540,
+      "link": "https://www.backlash.co.jp/e/item/4511474342504/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4582671354935": {
       "uid": "bl4582671354935",
       "name": "[BackLash Original Color] Valkein Shine Ride & Liome Nano Kikuchi Color ILW",
@@ -3253,14 +3269,6 @@
       "name": "[BACKLASH Original Color] Jackson Heko Heko Magic",
       "price": 1400,
       "link": "https://www.backlash.co.jp/e/item/4511729697625/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4573151270111": {
-      "uid": "bl4573151270111",
-      "name": "Rodio Craft x SMITH　 Still Area T2 Rodio Color",
-      "price": 1650,
-      "link": "https://www.backlash.co.jp/e/item/4573151270111/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30617,6 +30625,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-15T11:06:24+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• [BackLash Exclusive] Smith Dangouo (Dumpling Fish) Meister Color BackLash Original Color\n  ¥1,540\n  https://www.backlash.co.jp/e/item/4511474342504/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-15T11:11:33+03:00"
 }
