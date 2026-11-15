@@ -7680,6 +7680,22 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4589789548539": {
+      "uid": "bl4589789548539",
+      "name": "rob lure\tMOST BARBIE HALF",
+      "price": 1350,
+      "link": "https://www.backlash.co.jp/e/item/4589789548539/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4589789545019": {
+      "uid": "bl4589789545019",
+      "name": "Rob Lure Babel Z Zero 0.45g Gachi Pere",
+      "price": 450,
+      "link": "https://www.backlash.co.jp/e/item/4589789545019/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4573399369189": {
       "uid": "bl4573399369189",
       "name": "sauribu　Shaath　1.9g",
@@ -30641,6 +30657,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-15T12:41:33+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (2)</b>\n\n• rob lure\tMOST BARBIE HALF\n  ¥1,350\n  https://www.backlash.co.jp/e/item/4589789548539/\n\n• Rob Lure Babel Z Zero 0.45g Gachi Pere\n  ¥450\n  https://www.backlash.co.jp/e/item/4589789545019/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-15T12:46:44+03:00"
 }
