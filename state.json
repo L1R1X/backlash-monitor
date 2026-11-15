@@ -3208,14 +3208,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4582782394486": {
-      "uid": "bl4582782394486",
-      "name": "[BackLash Original Color] Taishaku Fishing Area Splash Top Clear Splash Rattle Meister Color",
-      "price": 1720,
-      "link": "https://www.backlash.co.jp/e/item/4582782394486/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4573632515502": {
       "uid": "bl4573632515502",
       "name": "[BackLash Original Color] Rodio Craft Ussa XS MKW Color BackLash Original Color",
@@ -30618,5 +30610,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-15T10:21:33+03:00"
+  "last_check": "2026-11-15T10:26:16+03:00"
 }
