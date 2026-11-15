@@ -5304,14 +5304,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4580790861211": {
-      "uid": "bl4580790861211",
-      "name": "Velvet Arts Daisy 0.8g",
-      "price": 546,
-      "link": "https://www.backlash.co.jp/e/item/4580790861211/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4573632515014": {
       "uid": "bl4573632515014",
       "name": "Rodio Craft NOA 1.5g / 1.8g - FORODOX Colors",
@@ -30618,5 +30610,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-15T10:41:28+03:00"
+  "last_check": "2026-11-15T10:46:31+03:00"
 }
