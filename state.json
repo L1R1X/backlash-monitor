@@ -240,19 +240,19 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4573151270111": {
-      "uid": "bl4573151270111",
-      "name": "Rodio Craft x SMITH　 Still Area T2 Rodio Color",
-      "price": 1650,
-      "link": "https://www.backlash.co.jp/e/item/4573151270111/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4511474342504": {
       "uid": "bl4511474342504",
       "name": "[BackLash Exclusive] Smith Dangouo (Dumpling Fish) Meister Color BackLash Original Color",
       "price": 1540,
       "link": "https://www.backlash.co.jp/e/item/4511474342504/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4573151270111": {
+      "uid": "bl4573151270111",
+      "name": "Rodio Craft x SMITH　 Still Area T2 Rodio Color",
+      "price": 1650,
+      "link": "https://www.backlash.co.jp/e/item/4573151270111/",
       "shop": "BackLash",
       "stock": true
     },
@@ -3637,14 +3637,6 @@
       "name": "Fishing Area Taishaku   Joint Brothers",
       "price": 1800,
       "link": "https://www.backlash.co.jp/e/item/4582782392406/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582671357288": {
-      "uid": "bl4582671357288",
-      "name": "Freex × Valkein Shine Ride Beat BAYASHI Color",
-      "price": 1600,
-      "link": "https://www.backlash.co.jp/e/item/4582671357288/",
       "shop": "BackLash",
       "stock": true
     },
@@ -7677,6 +7669,14 @@
       "name": "sauribu　Shaath　2.3g",
       "price": 522,
       "link": "https://www.backlash.co.jp/e/item/4573399369240/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4573399362012": {
+      "uid": "bl4573399362012",
+      "name": "sauribu Shaath 1.9g",
+      "price": 522,
+      "link": "https://www.backlash.co.jp/e/item/4573399362012/",
       "shop": "BackLash",
       "stock": true
     },
@@ -19912,6 +19912,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4582671357288": {
+      "uid": "bl4582671357288",
+      "name": "Freex × Valkein Shine Ride Beat BAYASHI Color",
+      "price": 1600,
+      "link": "https://www.backlash.co.jp/e/item/4582671357288/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4511474331768": {
       "uid": "bl4511474331768",
       "name": "SMITH D-Contact 63 Type 2",
@@ -30617,6 +30625,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-15T11:26:13+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• sauribu Shaath 1.9g\n  ¥522\n  https://www.backlash.co.jp/e/item/4573399362012/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-15T11:31:54+03:00"
 }
