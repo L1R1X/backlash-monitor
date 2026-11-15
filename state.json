@@ -15000,14 +15000,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4582671321715": {
-      "uid": "bl4582671321715",
-      "name": "ValkeIN GIGA BURST UCHOTEN color  (area spoon)",
-      "price": 477,
-      "link": "https://www.backlash.co.jp/e/item/4582671321715/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4582671321685": {
       "uid": "bl4582671321685",
       "name": "ValkeIN SERVANT SPEAR Uchoten Color 1.4g",
@@ -23712,6 +23704,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4582671321715": {
+      "uid": "bl4582671321715",
+      "name": "ValkeIN GIGA BURST UCHOTEN color  (area spoon)",
+      "price": 477,
+      "link": "https://www.backlash.co.jp/e/item/4582671321715/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4580299041442": {
       "uid": "bl4580299041442",
       "name": "SSY LABEL　Provia Holo",
@@ -30658,5 +30658,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-15T18:21:21+03:00"
+  "last_check": "2026-11-15T18:26:39+03:00"
 }
