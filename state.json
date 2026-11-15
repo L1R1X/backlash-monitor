@@ -240,6 +240,86 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4525807316636": {
+      "uid": "bl4525807316636",
+      "name": "Timon Panikura Dash DR Rattle",
+      "price": 1287,
+      "link": "https://www.backlash.co.jp/e/item/4525807316636/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4525807266887": {
+      "uid": "bl4525807266887",
+      "name": "[Special price while stocks last] Jackall Timon Panicla DR Rattle",
+      "price": 891,
+      "link": "https://www.backlash.co.jp/e/item/4525807266887/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4525807191288": {
+      "uid": "bl4525807191288",
+      "name": "JACKALL TIMON Panicura DR  [2]",
+      "price": 891,
+      "link": "https://www.backlash.co.jp/e/item/4525807191288/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4560212121512": {
+      "uid": "bl4560212121512",
+      "name": "JACKALL TIMON Panicura DR [1]",
+      "price": 891,
+      "link": "https://www.backlash.co.jp/e/item/4560212121512/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4582418080837": {
+      "uid": "bl4582418080837",
+      "name": "JACKALL TIMON PaniCra SR",
+      "price": 891,
+      "link": "https://www.backlash.co.jp/e/item/4582418080837/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4560212127736": {
+      "uid": "bl4560212127736",
+      "name": "JACKALL　TIMON　PaniCra　DR-HF",
+      "price": 891,
+      "link": "https://www.backlash.co.jp/e/item/4560212127736/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4525807299120": {
+      "uid": "bl4525807299120",
+      "name": "TIEMON  MItts DRY 2hook",
+      "price": 1287,
+      "link": "https://www.backlash.co.jp/e/item/4525807299120/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4525807266825": {
+      "uid": "bl4525807266825",
+      "name": "[Special price while stocks last] Timon Buri Buri Minnow HF Rattle",
+      "price": 950,
+      "link": "https://www.backlash.co.jp/e/item/4525807266825/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4525807299137": {
+      "uid": "bl4525807299137",
+      "name": "TIEMON  MItts DRY 2hook Rattle",
+      "price": 950,
+      "link": "https://www.backlash.co.jp/e/item/4525807299137/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4560212115900": {
+      "uid": "bl4560212115900",
+      "name": "JACKALL Mitts SR Dry",
+      "price": 891,
+      "link": "https://www.backlash.co.jp/e/item/4560212115900/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4571675033649": {
       "uid": "bl4571675033649",
       "name": "HMKL ZAGGER 38 B1 Rattling Bone",
@@ -2048,22 +2128,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4560212127736": {
-      "uid": "bl4560212127736",
-      "name": "JACKALL　TIMON　PaniCra　DR-HF",
-      "price": 891,
-      "link": "https://www.backlash.co.jp/e/item/4560212127736/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4525807299120": {
-      "uid": "bl4525807299120",
-      "name": "TIEMON  MItts DRY 2hook",
-      "price": 1287,
-      "link": "https://www.backlash.co.jp/e/item/4525807299120/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4525807316339": {
       "uid": "bl4525807316339",
       "name": "Timon Panicra Dash DR",
@@ -2136,30 +2200,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4525807266887": {
-      "uid": "bl4525807266887",
-      "name": "[Special price while stocks last] Jackall Timon Panicla DR Rattle",
-      "price": 891,
-      "link": "https://www.backlash.co.jp/e/item/4525807266887/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4525807191288": {
-      "uid": "bl4525807191288",
-      "name": "JACKALL TIMON Panicura DR  [2]",
-      "price": 891,
-      "link": "https://www.backlash.co.jp/e/item/4525807191288/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4525807299137": {
-      "uid": "bl4525807299137",
-      "name": "TIEMON  MItts DRY 2hook Rattle",
-      "price": 950,
-      "link": "https://www.backlash.co.jp/e/item/4525807299137/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4525807191370": {
       "uid": "bl4525807191370",
       "name": "JACKALL TIMON Chibi Panicura DR-SS",
@@ -2192,14 +2232,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4525807316636": {
-      "uid": "bl4525807316636",
-      "name": "Timon Panikura Dash DR Rattle",
-      "price": 1287,
-      "link": "https://www.backlash.co.jp/e/item/4525807316636/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4525807289336": {
       "uid": "bl4525807289336",
       "name": "JACKALL Timon Pepino MR-SS",
@@ -2221,22 +2253,6 @@
       "name": "JACKALL　TIMON",
       "price": 1287,
       "link": "https://www.backlash.co.jp/e/item/4525807225839/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4560212121512": {
-      "uid": "bl4560212121512",
-      "name": "JACKALL TIMON Panicura DR [1]",
-      "price": 891,
-      "link": "https://www.backlash.co.jp/e/item/4560212121512/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582418080837": {
-      "uid": "bl4582418080837",
-      "name": "JACKALL TIMON PaniCra SR",
-      "price": 891,
-      "link": "https://www.backlash.co.jp/e/item/4582418080837/",
       "shop": "BackLash",
       "stock": true
     },
@@ -2304,14 +2320,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4560212115900": {
-      "uid": "bl4560212115900",
-      "name": "JACKALL Mitts SR Dry",
-      "price": 891,
-      "link": "https://www.backlash.co.jp/e/item/4560212115900/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4525807188844": {
       "uid": "bl4525807188844",
       "name": "Jackall TIMON CHIBI DARTRUN",
@@ -2365,14 +2373,6 @@
       "name": "JACKALL TIMON TC Reigen DR",
       "price": 1287,
       "link": "https://www.backlash.co.jp/e/item/4525807277265/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4525807266825": {
-      "uid": "bl4525807266825",
-      "name": "[Special price while stocks last] Timon Buri Buri Minnow HF Rattle",
-      "price": 950,
-      "link": "https://www.backlash.co.jp/e/item/4525807266825/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30658,5 +30658,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-15T13:21:19+03:00"
+  "last_check": "2026-11-15T13:26:22+03:00"
 }
