@@ -20240,6 +20240,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4580790861211": {
+      "uid": "bl4580790861211",
+      "name": "Velvet Arts Daisy 0.8g",
+      "price": 546,
+      "link": "https://www.backlash.co.jp/e/item/4580790861211/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4589873968328": {
       "uid": "bl4589873968328",
       "name": "ValkeIN HYDRAM",
@@ -30609,6 +30617,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-15T10:51:26+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• Velvet Arts Daisy 0.8g\n  ¥546\n  https://www.backlash.co.jp/e/item/4580790861211/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-15T10:56:36+03:00"
 }
