@@ -7680,14 +7680,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4573399362012": {
-      "uid": "bl4573399362012",
-      "name": "sauribu Shaath 1.9g",
-      "price": 522,
-      "link": "https://www.backlash.co.jp/e/item/4573399362012/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4573399362432": {
       "uid": "bl4573399362432",
       "name": "sauribu Shaath 2.3g",
@@ -30626,5 +30618,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-15T11:11:33+03:00"
+  "last_check": "2026-11-15T11:16:48+03:00"
 }
