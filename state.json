@@ -16464,14 +16464,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4511729649839": {
-      "uid": "bl4511729649839",
-      "name": "Jackson Bottom Magic 5.3g",
-      "price": 1260,
-      "link": "https://www.backlash.co.jp/e/item/4511729649839/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4511729658824": {
       "uid": "bl4511729658824",
       "name": "Jackson Bottom Magic 3.8g",
@@ -24112,6 +24104,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4511729649839": {
+      "uid": "bl4511729649839",
+      "name": "Jackson Bottom Magic 5.3g",
+      "price": 1260,
+      "link": "https://www.backlash.co.jp/e/item/4511729649839/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4573166827423": {
       "uid": "bl4573166827423",
       "name": "Ijet Link Ijet Sword  0.9g 1.4g HERO’S color",
@@ -30658,5 +30658,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-15T20:51:33+03:00"
+  "last_check": "2026-11-15T20:56:39+03:00"
 }
