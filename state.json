@@ -6688,14 +6688,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl5580109261731": {
-      "uid": "bl5580109261731",
-      "name": "Shonan Zero R134 Jr　0.9g【2】",
-      "price": 528,
-      "link": "https://www.backlash.co.jp/e/item/5580109261731/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl5580109258243": {
       "uid": "bl5580109258243",
       "name": "Shonan Zero R134　1.3g【1】",
@@ -30618,5 +30610,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-15T09:11:27+03:00"
+  "last_check": "2026-11-15T09:16:34+03:00"
 }
