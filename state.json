@@ -240,6 +240,46 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4560212121413": {
+      "uid": "bl4560212121413",
+      "name": "JACKALL TIMON PaniCra MR [1]",
+      "price": 891,
+      "link": "https://www.backlash.co.jp/e/item/4560212121413/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4525807191240": {
+      "uid": "bl4525807191240",
+      "name": "JACKALL　TIMON PaniCra MR",
+      "price": 891,
+      "link": "https://www.backlash.co.jp/e/item/4525807191240/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4582671338690": {
+      "uid": "bl4582671338690",
+      "name": "[BACKLASH Original Color] Valkyne Servant Spear 0.7g 1.1g 1.4g Backlash Special Color 2025",
+      "price": 530,
+      "link": "https://www.backlash.co.jp/e/item/4582671338690/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4573151249339": {
+      "uid": "bl4573151249339",
+      "name": "Rodio Craft Ussa XS 1091 Color",
+      "price": 1750,
+      "link": "https://www.backlash.co.jp/e/item/4573151249339/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4580764715274": {
+      "uid": "bl4580764715274",
+      "name": "1089 Kobo Sakasa Nyoro Slim 70XS",
+      "price": 1600,
+      "link": "https://www.backlash.co.jp/e/item/4580764715274/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4511474342504": {
       "uid": "bl4511474342504",
       "name": "[BackLash Exclusive] Smith Dangouo (Dumpling Fish) Meister Color BackLash Original Color",
@@ -1992,14 +2032,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4560212121413": {
-      "uid": "bl4560212121413",
-      "name": "JACKALL TIMON PaniCra MR [1]",
-      "price": 891,
-      "link": "https://www.backlash.co.jp/e/item/4560212121413/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4560212127736": {
       "uid": "bl4560212127736",
       "name": "JACKALL　TIMON　PaniCra　DR-HF",
@@ -2253,14 +2285,6 @@
       "name": "JACKALL Timon ChibiFutten FS",
       "price": 1449,
       "link": "https://www.backlash.co.jp/e/item/4525807328677/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4525807191240": {
-      "uid": "bl4525807191240",
-      "name": "JACKALL　TIMON PaniCra MR",
-      "price": 891,
-      "link": "https://www.backlash.co.jp/e/item/4525807191240/",
       "shop": "BackLash",
       "stock": true
     },
@@ -7653,30 +7677,6 @@
       "name": "Rob Lure Babel Z Zero 0.45g Gachi Pere",
       "price": 450,
       "link": "https://www.backlash.co.jp/e/item/4589789545019/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4573399369189": {
-      "uid": "bl4573399369189",
-      "name": "sauribu　Shaath　1.9g",
-      "price": 522,
-      "link": "https://www.backlash.co.jp/e/item/4573399369189/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4573399369240": {
-      "uid": "bl4573399369240",
-      "name": "sauribu　Shaath　2.3g",
-      "price": 522,
-      "link": "https://www.backlash.co.jp/e/item/4573399369240/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4573399362012": {
-      "uid": "bl4573399362012",
-      "name": "sauribu Shaath 1.9g",
-      "price": 522,
-      "link": "https://www.backlash.co.jp/e/item/4573399362012/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30625,6 +30625,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-15T12:11:27+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (3)</b>\n\n• [BACKLASH Original Color] Valkyne Servant Spear 0.7g 1.1g 1.4g Backlash Special Color 2025\n  ¥530\n  https://www.backlash.co.jp/e/item/4582671338690/\n\n• Rodio Craft Ussa XS 1091 Color\n  ¥1,750\n  https://www.backlash.co.jp/e/item/4573151249339/\n\n• 1089 Kobo Sakasa Nyoro Slim 70XS\n  ¥1,600\n  https://www.backlash.co.jp/e/item/4580764715274/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-15T12:16:29+03:00"
 }
