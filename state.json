@@ -7680,6 +7680,30 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4573399369189": {
+      "uid": "bl4573399369189",
+      "name": "sauribu　Shaath　1.9g",
+      "price": 522,
+      "link": "https://www.backlash.co.jp/e/item/4573399369189/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4573399369240": {
+      "uid": "bl4573399369240",
+      "name": "sauribu　Shaath　2.3g",
+      "price": 522,
+      "link": "https://www.backlash.co.jp/e/item/4573399369240/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4573399362012": {
+      "uid": "bl4573399362012",
+      "name": "sauribu Shaath 1.9g",
+      "price": 522,
+      "link": "https://www.backlash.co.jp/e/item/4573399362012/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4573399362432": {
       "uid": "bl4573399362432",
       "name": "sauribu Shaath 2.3g",
@@ -30625,6 +30649,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-15T12:21:30+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (3)</b>\n\n• sauribu　Shaath　1.9g\n  ¥522\n  https://www.backlash.co.jp/e/item/4573399369189/\n\n• sauribu　Shaath　2.3g\n  ¥522\n  https://www.backlash.co.jp/e/item/4573399369240/\n\n• sauribu Shaath 1.9g\n  ¥522\n  https://www.backlash.co.jp/e/item/4573399362012/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-15T12:26:40+03:00"
 }
