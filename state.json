@@ -240,6 +240,22 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4571675033649": {
+      "uid": "bl4571675033649",
+      "name": "HMKL ZAGGER 38 B1 Rattling Bone",
+      "price": 1395,
+      "link": "https://www.backlash.co.jp/e/item/4571675033649/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4514447319916": {
+      "uid": "bl4514447319916",
+      "name": "[BackLash Original Color] Lucky Craft Wow 33SDS Fuwa Meister Color - BackLash Special Order",
+      "price": 1600,
+      "link": "https://www.backlash.co.jp/e/item/4514447319916/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4560212121413": {
       "uid": "bl4560212121413",
       "name": "JACKALL TIMON PaniCra MR [1]",
@@ -7664,22 +7680,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4589789548539": {
-      "uid": "bl4589789548539",
-      "name": "rob lure\tMOST BARBIE HALF",
-      "price": 1350,
-      "link": "https://www.backlash.co.jp/e/item/4589789548539/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4589789545019": {
-      "uid": "bl4589789545019",
-      "name": "Rob Lure Babel Z Zero 0.45g Gachi Pere",
-      "price": 450,
-      "link": "https://www.backlash.co.jp/e/item/4589789545019/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4573399369189": {
       "uid": "bl4573399369189",
       "name": "sauribu　Shaath　1.9g",
@@ -10565,14 +10565,6 @@
       "name": "MUKAI FISHING Tremo POGO 38WG",
       "price": 1350,
       "link": "https://www.backlash.co.jp/e/item/4513907453641/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4571675033649": {
-      "uid": "bl4571675033649",
-      "name": "HMKL ZAGGER 38 B1 Rattling Bone",
-      "price": 1395,
-      "link": "https://www.backlash.co.jp/e/item/4571675033649/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30649,6 +30641,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-15T12:36:27+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• [BackLash Original Color] Lucky Craft Wow 33SDS Fuwa Meister Color - BackLash Special Order\n  ¥1,600\n  https://www.backlash.co.jp/e/item/4514447319916/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-15T12:41:33+03:00"
 }
