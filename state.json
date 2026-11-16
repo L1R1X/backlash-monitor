@@ -240,6 +240,22 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4573435105818": {
+      "uid": "bl4573435105818",
+      "name": "PALMS LITTLE DINER GANOFF GA-24HS",
+      "price": 1260,
+      "link": "https://www.backlash.co.jp/e/item/4573435105818/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4573435100851": {
+      "uid": "bl4573435100851",
+      "name": "PALMS LITTLE DINER GANOFF GA-24S",
+      "price": 1260,
+      "link": "https://www.backlash.co.jp/e/item/4573435100851/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4571169084638": {
       "uid": "bl4571169084638",
       "name": "Rodio Craft Jekyll Junior",
@@ -437,14 +453,6 @@
       "name": "DAYSPROUT EAGLE PLAYER 55DT DAYSPROUT EAGLE PLAYER 55DT",
       "price": 1395,
       "link": "https://www.backlash.co.jp/e/item/4548393350013/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4573435100851": {
-      "uid": "bl4573435100851",
-      "name": "PALMS LITTLE DINER GANOFF GA-24S",
-      "price": 1260,
-      "link": "https://www.backlash.co.jp/e/item/4573435100851/",
       "shop": "BackLash",
       "stock": true
     },
@@ -1909,14 +1917,6 @@
       "name": "Jackall Timon  Tricoroll 47HW",
       "price": 1395,
       "link": "https://www.backlash.co.jp/e/item/4525807207750/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4525807190168": {
-      "uid": "bl4525807190168",
-      "name": "Jackall TIMON Tricoroll GT 56MD-F （2）",
-      "price": 1422,
-      "link": "https://www.backlash.co.jp/e/item/4525807190168/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30657,6 +30657,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-16T10:41:29+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• PALMS LITTLE DINER GANOFF GA-24HS\n  ¥1,260\n  https://www.backlash.co.jp/e/item/4573435105818/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-16T10:46:45+03:00"
 }
