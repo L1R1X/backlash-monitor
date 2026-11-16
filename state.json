@@ -1920,6 +1920,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4525807207750": {
+      "uid": "bl4525807207750",
+      "name": "Jackall Timon  Tricoroll 47HW",
+      "price": 1395,
+      "link": "https://www.backlash.co.jp/e/item/4525807207750/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4525807190168": {
       "uid": "bl4525807190168",
       "name": "Jackall TIMON Tricoroll GT 56MD-F （2）",
@@ -30665,6 +30673,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-16T11:11:31+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• Jackall Timon  Tricoroll 47HW\n  ¥1,395\n  https://www.backlash.co.jp/e/item/4525807207750/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-16T11:17:08+03:00"
 }
