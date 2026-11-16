@@ -22136,6 +22136,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4573151271026": {
+      "uid": "bl4573151271026",
+      "name": "Rodio Craft Jekyll Jr. 1091x Peach Bison #Green Chart",
+      "price": 495,
+      "link": "https://www.backlash.co.jp/e/item/4573151271026/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4573119924155": {
       "uid": "bl4573119924155",
       "name": "Naburaya Accuracy Limited Color",
@@ -30665,6 +30673,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-16T17:01:53+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• Rodio Craft Jekyll Jr. 1091x Peach Bison #Green Chart\n  ¥495\n  https://www.backlash.co.jp/e/item/4573151271026/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-16T17:06:19+03:00"
 }
