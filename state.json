@@ -240,6 +240,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4571169084638": {
+      "uid": "bl4571169084638",
+      "name": "Rodio Craft Jekyll Junior",
+      "price": 495,
+      "link": "https://www.backlash.co.jp/e/item/4571169084638/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4595058475017": {
       "uid": "bl4595058475017",
       "name": "Umimasu Craft  Sea Trout Spiral Pro Right Handed 2.3g",
@@ -30649,6 +30657,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-16T07:21:52+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• Rodio Craft Jekyll Junior\n  ¥495\n  https://www.backlash.co.jp/e/item/4571169084638/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-16T07:26:21+03:00"
 }
