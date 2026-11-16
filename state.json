@@ -12144,14 +12144,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4573151271026": {
-      "uid": "bl4573151271026",
-      "name": "Rodio Craft Jekyll Jr. 1091x Peach Bison #Green Chart",
-      "price": 495,
-      "link": "https://www.backlash.co.jp/e/item/4573151271026/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4539625215477": {
       "uid": "bl4539625215477",
       "name": "ima sukari GHOST 43",
@@ -30674,5 +30666,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-16T16:56:24+03:00"
+  "last_check": "2026-11-16T17:01:53+03:00"
 }
