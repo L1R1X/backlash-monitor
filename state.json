@@ -1920,6 +1920,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4525807227178": {
+      "uid": "bl4525807227178",
+      "name": "JACKALL　TIMON Tricoroll GT　72SR-F【2】",
+      "price": 1440,
+      "link": "https://www.backlash.co.jp/e/item/4525807227178/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4525807227215": {
       "uid": "bl4525807227215",
       "name": "Jackall Timon  Tricoroll GT 88MD-F  【2】",
@@ -4861,14 +4869,6 @@
       "name": "Jackson Bottom Magic Monster",
       "price": 1260,
       "link": "https://www.backlash.co.jp/e/item/4511729701315/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4571169084638": {
-      "uid": "bl4571169084638",
-      "name": "Rodio Craft Jekyll Junior",
-      "price": 495,
-      "link": "https://www.backlash.co.jp/e/item/4571169084638/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30649,6 +30649,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-16T07:06:25+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• JACKALL　TIMON Tricoroll GT　72SR-F【2】\n  ¥1,440\n  https://www.backlash.co.jp/e/item/4525807227178/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-16T07:11:56+03:00"
 }
