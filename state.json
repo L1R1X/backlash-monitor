@@ -624,6 +624,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4533625155689": {
+      "uid": "bl4533625155689",
+      "name": "[8 Colors Available] Evergreen Crush Diver FEvergreen Crush Diver F 52",
+      "price": 1400,
+      "link": "https://www.backlash.co.jp/e/item/4533625155689/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4537628147214": {
       "uid": "bl4537628147214",
       "name": "Forest MIU 3.5g",
@@ -1909,14 +1917,6 @@
       "name": "Jackall TIMON Tricoroll GT 56MD-F （2）",
       "price": 1422,
       "link": "https://www.backlash.co.jp/e/item/4525807190168/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582418099211": {
-      "uid": "bl4582418099211",
-      "name": "Jackall Timon  Tricoroll GT 72SR-F [1]",
-      "price": 1440,
-      "link": "https://www.backlash.co.jp/e/item/4582418099211/",
       "shop": "BackLash",
       "stock": true
     },
@@ -19592,14 +19592,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4533625155689": {
-      "uid": "bl4533625155689",
-      "name": "[8 Colors Available] Evergreen Crush Diver FEvergreen Crush Diver F 52",
-      "price": 1400,
-      "link": "https://www.backlash.co.jp/e/item/4533625155689/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4582692472342": {
       "uid": "bl4582692472342",
       "name": "NomadicCode Baster 0.7g【2】",
@@ -30658,5 +30650,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-16T07:41:28+03:00"
+  "last_check": "2026-11-16T07:46:30+03:00"
 }
