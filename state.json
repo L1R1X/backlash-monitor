@@ -960,14 +960,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4570027013940": {
-      "uid": "bl4570027013940",
-      "name": "ValkeIN Shine Ride Nano",
-      "price": 1512,
-      "link": "https://www.backlash.co.jp/e/item/4570027013940/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4570027034532": {
       "uid": "bl4570027034532",
       "name": "ValkeIN Schwan Shad Sinking",
@@ -30674,5 +30666,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-16T12:11:44+03:00"
+  "last_check": "2026-11-16T12:16:34+03:00"
 }
