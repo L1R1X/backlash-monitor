@@ -960,6 +960,22 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4582671349764": {
+      "uid": "bl4582671349764",
+      "name": "VALKEIN Snazer Floating",
+      "price": 1530,
+      "link": "https://www.backlash.co.jp/e/item/4582671349764/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4582671299885": {
+      "uid": "bl4582671299885",
+      "name": "ValkeIN HYDRAM S【2】",
+      "price": 1800,
+      "link": "https://www.backlash.co.jp/e/item/4582671299885/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4582671299847": {
       "uid": "bl4582671299847",
       "name": "ValkeIN HYDRAM F【2】",
@@ -1949,14 +1965,6 @@
       "name": "Jackall Timon  Tricoroll GT 72SR-F [1]",
       "price": 1440,
       "link": "https://www.backlash.co.jp/e/item/4582418099211/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4525807227215": {
-      "uid": "bl4525807227215",
-      "name": "Jackall Timon  Tricoroll GT 88MD-F  【2】",
-      "price": 1584,
-      "link": "https://www.backlash.co.jp/e/item/4525807227215/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30665,6 +30673,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-17T09:41:32+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (2)</b>\n\n• VALKEIN Snazer Floating\n  ¥1,530\n  https://www.backlash.co.jp/e/item/4582671349764/\n\n• ValkeIN HYDRAM S【2】\n  ¥1,800\n  https://www.backlash.co.jp/e/item/4582671299885/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-17T09:47:03+03:00"
 }
