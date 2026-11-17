@@ -464,6 +464,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4589873969769": {
+      "uid": "bl4589873969769",
+      "name": "ValkeIN SCHEILA  1.8g wholesaler bespoke color",
+      "price": 477,
+      "link": "https://www.backlash.co.jp/e/item/4589873969769/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4570027039582": {
       "uid": "bl4570027039582",
       "name": "ValkeIN ASTRAR",
@@ -13976,6 +13984,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4589934377106": {
+      "uid": "bl4589934377106",
+      "name": "ValkeIN HI-BURST 1.3g 1091 Color Green Majora",
+      "price": 477,
+      "link": "https://www.backlash.co.jp/e/item/4589934377106/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4589934377144": {
       "uid": "bl4589934377144",
       "name": "ValkeIN HI-BURST 1.6g 1091 Color Green Majora",
@@ -19568,14 +19584,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4589873969769": {
-      "uid": "bl4589873969769",
-      "name": "ValkeIN SCHEILA  1.8g wholesaler bespoke color",
-      "price": 477,
-      "link": "https://www.backlash.co.jp/e/item/4589873969769/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4562299491878": {
       "uid": "bl4562299491878",
       "name": "ValkeIN Ice Fake 1.1g Limited Color",
@@ -23517,14 +23525,6 @@
       "name": "ValkeIN Ice Fake 2.6g  [2]",
       "price": 450,
       "link": "https://www.backlash.co.jp/e/item/4589934355807/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4589934377106": {
-      "uid": "bl4589934377106",
-      "name": "ValkeIN HI-BURST 1.3g 1091 Color Green Majora",
-      "price": 477,
-      "link": "https://www.backlash.co.jp/e/item/4589934377106/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30674,5 +30674,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-17T04:51:27+03:00"
+  "last_check": "2026-11-17T04:54:22+03:00"
 }
