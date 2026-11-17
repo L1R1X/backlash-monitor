@@ -240,6 +240,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4525807227178": {
+      "uid": "bl4525807227178",
+      "name": "JACKALL　TIMON Tricoroll GT　72SR-F【2】",
+      "price": 1440,
+      "link": "https://www.backlash.co.jp/e/item/4525807227178/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4573435106143": {
       "uid": "bl4573435106143",
       "name": "PALMS Little Diner Poire  SiN Rattle PO-32FR",
@@ -949,14 +957,6 @@
       "name": "ValkeIN HYDRAM F【2】",
       "price": 1800,
       "link": "https://www.backlash.co.jp/e/item/4582671299847/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4570027013964": {
-      "uid": "bl4570027013964",
-      "name": "ValkeIN Li-Worm Nano'  ValkeIN Li-Worm Nano",
-      "price": 1512,
-      "link": "https://www.backlash.co.jp/e/item/4570027013964/",
       "shop": "BackLash",
       "stock": true
     },
@@ -1941,14 +1941,6 @@
       "name": "JACKALL TIMON　Tricoroll GT 72DR-F",
       "price": 1485,
       "link": "https://www.backlash.co.jp/e/item/4525807243987/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4525807227178": {
-      "uid": "bl4525807227178",
-      "name": "JACKALL　TIMON Tricoroll GT　72SR-F【2】",
-      "price": 1440,
-      "link": "https://www.backlash.co.jp/e/item/4525807227178/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30674,5 +30666,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-17T09:16:35+03:00"
+  "last_check": "2026-11-17T09:21:34+03:00"
 }
