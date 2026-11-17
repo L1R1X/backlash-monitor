@@ -240,6 +240,30 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4525807227239": {
+      "uid": "bl4525807227239",
+      "name": "JACKALL　TIMON Tricoroll GT　88SR-F【2】",
+      "price": 1530,
+      "link": "https://www.backlash.co.jp/e/item/4525807227239/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4525807243987": {
+      "uid": "bl4525807243987",
+      "name": "JACKALL TIMON　Tricoroll GT 72DR-F",
+      "price": 1485,
+      "link": "https://www.backlash.co.jp/e/item/4525807243987/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4525807227192": {
+      "uid": "bl4525807227192",
+      "name": "JACKALL　TIMON Tricoroll GT　72MD-F 【2】",
+      "price": 1440,
+      "link": "https://www.backlash.co.jp/e/item/4525807227192/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4525807227178": {
       "uid": "bl4525807227178",
       "name": "JACKALL　TIMON Tricoroll GT　72SR-F【2】",
@@ -933,22 +957,6 @@
       "name": "Jackall Timon MICRO PANICRA MR-SS",
       "price": 1287,
       "link": "https://www.backlash.co.jp/e/item/4525807327694/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582671349764": {
-      "uid": "bl4582671349764",
-      "name": "VALKEIN Snazer Floating",
-      "price": 1530,
-      "link": "https://www.backlash.co.jp/e/item/4582671349764/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582671299885": {
-      "uid": "bl4582671299885",
-      "name": "ValkeIN HYDRAM S【2】",
-      "price": 1800,
-      "link": "https://www.backlash.co.jp/e/item/4582671299885/",
       "shop": "BackLash",
       "stock": true
     },
@@ -1944,14 +1952,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4525807243987": {
-      "uid": "bl4525807243987",
-      "name": "JACKALL TIMON　Tricoroll GT 72DR-F",
-      "price": 1485,
-      "link": "https://www.backlash.co.jp/e/item/4525807243987/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4525807227215": {
       "uid": "bl4525807227215",
       "name": "Jackall Timon  Tricoroll GT 88MD-F  【2】",
@@ -2005,14 +2005,6 @@
       "name": "JACKALL TIMON　Tricoroll GT　88DR-F",
       "price": 1665,
       "link": "https://www.backlash.co.jp/e/item/4525807244083/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4525807227239": {
-      "uid": "bl4525807227239",
-      "name": "JACKALL　TIMON Tricoroll GT　88SR-F【2】",
-      "price": 1530,
-      "link": "https://www.backlash.co.jp/e/item/4525807227239/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30673,6 +30665,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-17T09:36:19+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• JACKALL　TIMON Tricoroll GT　72MD-F 【2】\n  ¥1,440\n  https://www.backlash.co.jp/e/item/4525807227192/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-17T09:41:32+03:00"
 }
