@@ -4656,14 +4656,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4525807298352": {
-      "uid": "bl4525807298352",
-      "name": "Jackal C&R Buri Buri Minnow Floating",
-      "price": 1287,
-      "link": "https://www.backlash.co.jp/e/item/4525807298352/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4525807298406": {
       "uid": "bl4525807298406",
       "name": "Jackal C&R Buri Buri Minnow DR",
@@ -20072,6 +20064,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4525807298352": {
+      "uid": "bl4525807298352",
+      "name": "Jackal C&R Buri Buri Minnow Floating",
+      "price": 1287,
+      "link": "https://www.backlash.co.jp/e/item/4525807298352/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4589934357139": {
       "uid": "bl4589934357139",
       "name": "ValkeIN Shine Ride # M042",
@@ -30682,5 +30682,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-17T20:51:35+03:00"
+  "last_check": "2026-11-17T20:56:38+03:00"
 }
