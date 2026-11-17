@@ -240,6 +240,22 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4525807244083": {
+      "uid": "bl4525807244083",
+      "name": "JACKALL TIMON　Tricoroll GT　88DR-F",
+      "price": 1665,
+      "link": "https://www.backlash.co.jp/e/item/4525807244083/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4525807227215": {
+      "uid": "bl4525807227215",
+      "name": "Jackall Timon  Tricoroll GT 88MD-F  【2】",
+      "price": 1584,
+      "link": "https://www.backlash.co.jp/e/item/4525807227215/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4525807227239": {
       "uid": "bl4525807227239",
       "name": "JACKALL　TIMON Tricoroll GT　88SR-F【2】",
@@ -941,14 +957,6 @@
       "name": "LUCKY CRAFT　Wah 37F　1091 colors",
       "price": 1350,
       "link": "https://www.backlash.co.jp/e/item/4514447301362/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4571169082108": {
-      "uid": "bl4571169082108",
-      "name": "Rodio Craft NOA Jr",
-      "price": 495,
-      "link": "https://www.backlash.co.jp/e/item/4571169082108/",
       "shop": "BackLash",
       "stock": true
     },
@@ -2005,14 +2013,6 @@
       "name": "Jackall Timon  Tricoroll 55HW",
       "price": 1395,
       "link": "https://www.backlash.co.jp/e/item/4525807207675/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4525807244083": {
-      "uid": "bl4525807244083",
-      "name": "JACKALL TIMON　Tricoroll GT　88DR-F",
-      "price": 1665,
-      "link": "https://www.backlash.co.jp/e/item/4525807244083/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30673,6 +30673,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-17T09:56:30+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• Jackall Timon  Tricoroll GT 88MD-F  【2】\n  ¥1,584\n  https://www.backlash.co.jp/e/item/4525807227215/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-17T10:01:58+03:00"
 }
