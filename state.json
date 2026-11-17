@@ -960,6 +960,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4570027013964": {
+      "uid": "bl4570027013964",
+      "name": "ValkeIN Li-Worm Nano'  ValkeIN Li-Worm Nano",
+      "price": 1512,
+      "link": "https://www.backlash.co.jp/e/item/4570027013964/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4570027034532": {
       "uid": "bl4570027034532",
       "name": "ValkeIN Schwan Shad Sinking",
@@ -1973,14 +1981,6 @@
       "name": "Jackal Timon Tricolor Ryushin Knocker 43HW",
       "price": 1395,
       "link": "https://www.backlash.co.jp/e/item/4525807270419/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4525807227192": {
-      "uid": "bl4525807227192",
-      "name": "JACKALL　TIMON Tricoroll GT　72MD-F 【2】",
-      "price": 1440,
-      "link": "https://www.backlash.co.jp/e/item/4525807227192/",
       "shop": "BackLash",
       "stock": true
     },
@@ -19544,6 +19544,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4525807342581": {
+      "uid": "bl4525807342581",
+      "name": "Timon Tricoroll 83HW",
+      "price": 1485,
+      "link": "https://www.backlash.co.jp/e/item/4525807342581/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4562299491878": {
       "uid": "bl4562299491878",
       "name": "ValkeIN Ice Fake 1.1g Limited Color",
@@ -30665,6 +30673,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-17T09:21:34+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (2)</b>\n\n• ValkeIN Li-Worm Nano&#x27;  ValkeIN Li-Worm Nano\n  ¥1,512\n  https://www.backlash.co.jp/e/item/4570027013964/\n\n• Timon Tricoroll 83HW\n  ¥1,485\n  https://www.backlash.co.jp/e/item/4525807342581/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-17T09:26:41+03:00"
 }
