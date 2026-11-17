@@ -960,6 +960,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4571169082108": {
+      "uid": "bl4571169082108",
+      "name": "Rodio Craft NOA Jr",
+      "price": 495,
+      "link": "https://www.backlash.co.jp/e/item/4571169082108/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4525807327694": {
       "uid": "bl4525807327694",
       "name": "Jackall Timon MICRO PANICRA MR-SS",
@@ -30673,6 +30681,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-17T10:06:18+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• Rodio Craft NOA Jr\n  ¥495\n  https://www.backlash.co.jp/e/item/4571169082108/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-17T10:11:49+03:00"
 }
