@@ -18712,14 +18712,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4582493547553": {
-      "uid": "bl4582493547553",
-      "name": "Office Eucalyptus The Unyo F55 #5 Olive",
-      "price": 1260,
-      "link": "https://www.backlash.co.jp/e/item/4582493547553/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4582493547591": {
       "uid": "bl4582493547591",
       "name": "Office Eucalyptus The Unyo F55 #9 Eucalyptus Tea",
@@ -23997,14 +23989,6 @@
       "name": "Megabass GT HARUZEMI",
       "price": 1413,
       "link": "https://www.backlash.co.jp/e/item/4513473512384/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4513907443918": {
-      "uid": "bl4513907443918",
-      "name": "Mukai fishing Rod stand SPOT-4 for 4 rods",
-      "price": 12000,
-      "link": "https://www.backlash.co.jp/e/item/4513907443918/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30682,5 +30666,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-18T04:51:40+03:00"
+  "last_check": "2026-11-18T04:56:22+03:00"
 }
