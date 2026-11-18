@@ -19520,6 +19520,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4580790861211": {
+      "uid": "bl4580790861211",
+      "name": "Velvet Arts Daisy 0.8g",
+      "price": 546,
+      "link": "https://www.backlash.co.jp/e/item/4580790861211/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4525807342581": {
       "uid": "bl4525807342581",
       "name": "Timon Tricoroll 83HW",
@@ -20237,14 +20245,6 @@
       "name": "HMKL ZAGGER　50B1 Half",
       "price": 1422,
       "link": "https://www.backlash.co.jp/e/item/4573527015261/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4580790861211": {
-      "uid": "bl4580790861211",
-      "name": "Velvet Arts Daisy 0.8g",
-      "price": 546,
-      "link": "https://www.backlash.co.jp/e/item/4580790861211/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30682,5 +30682,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-18T10:06:13+03:00"
+  "last_check": "2026-11-18T10:11:31+03:00"
 }
