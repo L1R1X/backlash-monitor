@@ -22080,14 +22080,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4527938061904": {
-      "uid": "bl4527938061904",
-      "name": "Waterland Deep Copper #Copper 2.7g (Made of copper)",
-      "price": 500,
-      "link": "https://www.backlash.co.jp/e/item/4527938061904/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4527938061928": {
       "uid": "bl4527938061928",
       "name": "Waterland Deep Copper #Copper 4.7g (Made of copper)",
@@ -30690,5 +30682,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-18T13:16:20+03:00"
+  "last_check": "2026-11-18T13:21:40+03:00"
 }
