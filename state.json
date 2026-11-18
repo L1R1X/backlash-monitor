@@ -22072,14 +22072,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4527938061904": {
-      "uid": "bl4527938061904",
-      "name": "Waterland Deep Copper #Copper 2.7g (Made of copper)",
-      "price": 500,
-      "link": "https://www.backlash.co.jp/e/item/4527938061904/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4527938061928": {
       "uid": "bl4527938061928",
       "name": "Waterland Deep Copper #Copper 4.7g (Made of copper)",
@@ -27832,14 +27824,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4548393306041": {
-      "uid": "bl4548393306041",
-      "name": "Disprout Medium Crappy G2 D04 Flower Tea",
-      "price": 1200,
-      "link": "https://www.backlash.co.jp/e/item/4548393306041/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4548393306058": {
       "uid": "bl4548393306058",
       "name": "Disprout Medium Crappy G2 D05 Shizuoka Green Tea",
@@ -30682,5 +30666,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-18T11:11:19+03:00"
+  "last_check": "2026-11-18T11:16:42+03:00"
 }
