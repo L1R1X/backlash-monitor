@@ -240,14 +240,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4580790862776": {
-      "uid": "bl4580790862776",
-      "name": "[Set of 20 colors] Velvet Arts Daisy 0.7g (Changes and combined shipping not available after order placement)",
-      "price": 10920,
-      "link": "https://www.backlash.co.jp/e/item/4580790862776/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4525807244083": {
       "uid": "bl4525807244083",
       "name": "JACKALL TIMON　Tricoroll GT　88DR-F",
@@ -19536,6 +19528,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4580790862776": {
+      "uid": "bl4580790862776",
+      "name": "[Set of 20 colors] Velvet Arts Daisy 0.7g (Changes and combined shipping not available after order placement)",
+      "price": 10920,
+      "link": "https://www.backlash.co.jp/e/item/4580790862776/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4580790861211": {
       "uid": "bl4580790861211",
       "name": "Velvet Arts Daisy 0.8g",
@@ -30698,5 +30698,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-19T11:11:27+03:00"
+  "last_check": "2026-11-19T11:16:46+03:00"
 }
