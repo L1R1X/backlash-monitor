@@ -19528,6 +19528,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4582671358049": {
+      "uid": "bl4582671358049",
+      "name": "Valkein Shine Ride 55",
+      "price": 1530,
+      "link": "https://www.backlash.co.jp/e/item/4582671358049/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4580790861211": {
       "uid": "bl4580790861211",
       "name": "Velvet Arts Daisy 0.8g",
@@ -30689,6 +30697,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-19T05:16:29+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• Valkein Shine Ride 55\n  ¥1,530\n  https://www.backlash.co.jp/e/item/4582671358049/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-19T05:21:32+03:00"
 }
