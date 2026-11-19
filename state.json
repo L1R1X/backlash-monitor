@@ -3248,6 +3248,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4582756423815": {
+      "uid": "bl4582756423815",
+      "name": "Sauribu Shaath 0.75g",
+      "price": 522,
+      "link": "https://www.backlash.co.jp/e/item/4582756423815/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4562299492219": {
       "uid": "bl4562299492219",
       "name": "ValkeIN HI-BURST 0.8g [1]",
@@ -19784,14 +19792,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4582756423815": {
-      "uid": "bl4582756423815",
-      "name": "Sauribu Shaath 0.75g",
-      "price": 522,
-      "link": "https://www.backlash.co.jp/e/item/4582756423815/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4573632513874": {
       "uid": "bl4573632513874",
       "name": "RodioCraft RC Drift Spin 32 1.0g 【2】",
@@ -30698,5 +30698,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-19T05:56:24+03:00"
+  "last_check": "2026-11-19T06:02:02+03:00"
 }
