@@ -23992,14 +23992,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4515744178237": {
-      "uid": "bl4515744178237",
-      "name": "Tackle house mini cicada floating Uchoten",
-      "price": 1260,
-      "link": "https://www.backlash.co.jp/e/item/4515744178237/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4514447295951": {
       "uid": "bl4514447295951",
       "name": "LUCKY CRAFT　WAH　40F",
@@ -30722,5 +30714,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-20T11:06:21+03:00"
+  "last_check": "2026-11-20T11:11:34+03:00"
 }
