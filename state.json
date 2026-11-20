@@ -23992,14 +23992,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4514447295951": {
-      "uid": "bl4514447295951",
-      "name": "LUCKY CRAFT　WAH　40F",
-      "price": 1260,
-      "link": "https://www.backlash.co.jp/e/item/4514447295951/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4514447296866": {
       "uid": "bl4514447296866",
       "name": "[3 colors] Lucky Craft x Disprout Pokopoko Crapie",
@@ -30714,5 +30706,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-20T10:46:27+03:00"
+  "last_check": "2026-11-20T10:51:33+03:00"
 }
