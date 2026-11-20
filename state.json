@@ -240,6 +240,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4582671353976": {
+      "uid": "bl4582671353976",
+      "name": "ValkeIN　 Black Blast 1.3g 1091Color",
+      "price": 580,
+      "link": "https://www.backlash.co.jp/e/item/4582671353976/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4582671319668": {
       "uid": "bl4582671319668",
       "name": "ValkeIN　 Black Blast 1.8g 1091Color",
@@ -23992,6 +24000,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4514447295951": {
+      "uid": "bl4514447295951",
+      "name": "LUCKY CRAFT　WAH　40F",
+      "price": 1260,
+      "link": "https://www.backlash.co.jp/e/item/4514447295951/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4514447296866": {
       "uid": "bl4514447296866",
       "name": "[3 colors] Lucky Craft x Disprout Pokopoko Crapie",
@@ -30705,6 +30721,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-20T10:51:33+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (2)</b>\n\n• ValkeIN　 Black Blast 1.3g 1091Color\n  ¥580\n  https://www.backlash.co.jp/e/item/4582671353976/\n\n• LUCKY CRAFT　WAH　40F\n  ¥1,260\n  https://www.backlash.co.jp/e/item/4514447295951/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-20T10:56:50+03:00"
 }
