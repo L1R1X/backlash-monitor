@@ -1632,14 +1632,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4582671349450": {
-      "uid": "bl4582671349450",
-      "name": "ValkeIN Hydram S (Uchouten Color)",
-      "price": 2000,
-      "link": "https://www.backlash.co.jp/e/item/4582671349450/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4589873968410": {
       "uid": "bl4589873968410",
       "name": "ValkeIN HYDRAM nano F",
@@ -6848,14 +6840,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4573151212753": {
-      "uid": "bl4573151212753",
-      "name": "Rodio Craft QM 2.8g Heroes Color",
-      "price": 550,
-      "link": "https://www.backlash.co.jp/e/item/4573151212753/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4548393377010": {
       "uid": "bl4548393377010",
       "name": "Disprout x Ivy Line Eagle Player 50 Slim GJ",
@@ -8037,14 +8021,6 @@
       "name": "Valkein RaXma 55S",
       "price": 1710,
       "link": "https://www.backlash.co.jp/e/item/4582671343489/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4573151262130": {
-      "uid": "bl4573151262130",
-      "name": "RodioCraft NOA B Heros Color",
-      "price": 495,
-      "link": "https://www.backlash.co.jp/e/item/4573151262130/",
       "shop": "BackLash",
       "stock": true
     },
@@ -13752,14 +13728,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4573151258669": {
-      "uid": "bl4573151258669",
-      "name": "RodioCraft Noah Micro 0.6g New Drawer Color",
-      "price": 477,
-      "link": "https://www.backlash.co.jp/e/item/4573151258669/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4514447303960": {
       "uid": "bl4514447303960",
       "name": "Lucky Craft Unfair 63 Slim Max Slow Sinking",
@@ -16317,6 +16285,38 @@
       "name": "Mukai Fishing Quick25SR HFWG Ecstatic Color",
       "price": 1350,
       "link": "https://www.backlash.co.jp/e/item/4513907451333/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4513907452507": {
+      "uid": "bl4513907452507",
+      "name": "Mukai Fishing Quick 25SR SSWG",
+      "price": 1260,
+      "link": "https://www.backlash.co.jp/e/item/4513907452507/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4513907442232": {
+      "uid": "bl4513907442232",
+      "name": "Mukai Fishing Zanmu 35MR Uchoten",
+      "price": 1400,
+      "link": "https://www.backlash.co.jp/e/item/4513907442232/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4513473528699": {
+      "uid": "bl4513473528699",
+      "name": "Megabass Great Hunting Butterfly GH52 BAT A FRY",
+      "price": 1620,
+      "link": "https://www.backlash.co.jp/e/item/4513473528699/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4513907439386": {
+      "uid": "bl4513907439386",
+      "name": "Mukai Fishing Pogo Smaller 28",
+      "price": 1170,
+      "link": "https://www.backlash.co.jp/e/item/4513907439386/",
       "shop": "BackLash",
       "stock": true
     },
@@ -19632,6 +19632,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4582671349450": {
+      "uid": "bl4582671349450",
+      "name": "ValkeIN Hydram S (Uchouten Color)",
+      "price": 2000,
+      "link": "https://www.backlash.co.jp/e/item/4582671349450/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4589873977498": {
       "uid": "bl4589873977498",
       "name": "ValkeIN  HYDRAM sinking wholesaler bespoke color",
@@ -20744,6 +20752,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4573151212753": {
+      "uid": "bl4573151212753",
+      "name": "Rodio Craft QM 2.8g Heroes Color",
+      "price": 550,
+      "link": "https://www.backlash.co.jp/e/item/4573151212753/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4580764710873": {
       "uid": "bl4580764710873",
       "name": "1089 Kobo Reverse Slim 35FS",
@@ -20861,6 +20877,14 @@
       "name": "Jackson Maimai 1091 Color",
       "price": 1080,
       "link": "https://www.backlash.co.jp/e/item/4511729234769/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4573151262130": {
+      "uid": "bl4573151262130",
+      "name": "RodioCraft NOA B Heros Color",
+      "price": 495,
+      "link": "https://www.backlash.co.jp/e/item/4573151262130/",
       "shop": "BackLash",
       "stock": true
     },
@@ -23461,6 +23485,14 @@
       "name": "Forest M2 1091",
       "price": 495,
       "link": "https://www.backlash.co.jp/e/item/4537628699775/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4573151258669": {
+      "uid": "bl4573151258669",
+      "name": "RodioCraft Noah Micro 0.6g New Drawer Color",
+      "price": 477,
+      "link": "https://www.backlash.co.jp/e/item/4573151258669/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30697,6 +30729,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-20T11:56:19+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (4)</b>\n\n• Mukai Fishing Quick 25SR SSWG\n  ¥1,260\n  https://www.backlash.co.jp/e/item/4513907452507/\n\n• Mukai Fishing Zanmu 35MR Uchoten\n  ¥1,400\n  https://www.backlash.co.jp/e/item/4513907442232/\n\n• Megabass Great Hunting Butterfly GH52 BAT A FRY\n  ¥1,620\n  https://www.backlash.co.jp/e/item/4513473528699/\n\n• Mukai Fishing Pogo Smaller 28\n  ¥1,170\n  https://www.backlash.co.jp/e/item/4513907439386/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-20T12:02:13+03:00"
 }
