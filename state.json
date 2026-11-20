@@ -16320,6 +16320,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4513907439386": {
+      "uid": "bl4513907439386",
+      "name": "Mukai Fishing Pogo Smaller 28",
+      "price": 1170,
+      "link": "https://www.backlash.co.jp/e/item/4513907439386/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4513907436514": {
       "uid": "bl4513907436514",
       "name": "Mukai Fishing Pogo Vibe 33",
@@ -30721,6 +30729,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-20T13:56:34+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• Mukai Fishing Pogo Smaller 28\n  ¥1,170\n  https://www.backlash.co.jp/e/item/4513907439386/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-20T14:02:13+03:00"
 }
