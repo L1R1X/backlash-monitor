@@ -240,6 +240,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4582671319668": {
+      "uid": "bl4582671319668",
+      "name": "ValkeIN　 Black Blast 1.8g 1091Color",
+      "price": 522,
+      "link": "https://www.backlash.co.jp/e/item/4582671319668/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4573435105733": {
       "uid": "bl4573435105733",
       "name": "PALMS LITTLE DINER GANOFF",
@@ -325,14 +333,6 @@
       "name": "SMITH Kurun Type 1",
       "price": 720,
       "link": "https://www.backlash.co.jp/e/item/4511474340944/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582671319668": {
-      "uid": "bl4582671319668",
-      "name": "ValkeIN　 Black Blast 1.8g 1091Color",
-      "price": 522,
-      "link": "https://www.backlash.co.jp/e/item/4582671319668/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30714,5 +30714,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-20T10:26:30+03:00"
+  "last_check": "2026-11-20T10:31:53+03:00"
 }
