@@ -240,6 +240,30 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4533625152640": {
+      "uid": "bl4533625152640",
+      "name": "Evergreen Namu 0.9g",
+      "price": 540,
+      "link": "https://www.backlash.co.jp/e/item/4533625152640/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4533625152497": {
+      "uid": "bl4533625152497",
+      "name": "Evergreen Namu 0.6g",
+      "price": 540,
+      "link": "https://www.backlash.co.jp/e/item/4533625152497/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4511474340944": {
+      "uid": "bl4511474340944",
+      "name": "SMITH Kurun Type 1",
+      "price": 720,
+      "link": "https://www.backlash.co.jp/e/item/4511474340944/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4582671319668": {
       "uid": "bl4582671319668",
       "name": "ValkeIN　 Black Blast 1.8g 1091Color",
@@ -3640,14 +3664,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4511474340944": {
-      "uid": "bl4511474340944",
-      "name": "SMITH Kurun Type 1",
-      "price": 720,
-      "link": "https://www.backlash.co.jp/e/item/4511474340944/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4573119918932": {
       "uid": "bl4573119918932",
       "name": "Naburaya 2 WIN 2g  1091 color",
@@ -5533,14 +5549,6 @@
       "name": "Evergreen Artisan Jet Beater 30",
       "price": 1100,
       "link": "https://www.backlash.co.jp/e/item/4533625149084/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4533625152497": {
-      "uid": "bl4533625152497",
-      "name": "Evergreen Namu 0.6g",
-      "price": 540,
-      "link": "https://www.backlash.co.jp/e/item/4533625152497/",
       "shop": "BackLash",
       "stock": true
     },
@@ -12157,14 +12165,6 @@
       "name": "HMKL ZAGGER 38 B1 1091 Color",
       "price": 1395,
       "link": "https://www.backlash.co.jp/e/item/4571675032000/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4533625152640": {
-      "uid": "bl4533625152640",
-      "name": "Evergreen Namu 0.9g",
-      "price": 540,
-      "link": "https://www.backlash.co.jp/e/item/4533625152640/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30698,5 +30698,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-20T07:51:18+03:00"
+  "last_check": "2026-11-20T07:56:40+03:00"
 }
