@@ -4840,14 +4840,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4589873950545": {
-      "uid": "bl4589873950545",
-      "name": "ValkeIN Li-Worm Nano【1】",
-      "price": 1422,
-      "link": "https://www.backlash.co.jp/e/item/4589873950545/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4562338621730": {
       "uid": "bl4562338621730",
       "name": "IVL　T-Gravits　50SD",
@@ -20104,6 +20096,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4589873950545": {
+      "uid": "bl4589873950545",
+      "name": "ValkeIN Li-Worm Nano【1】",
+      "price": 1422,
+      "link": "https://www.backlash.co.jp/e/item/4589873950545/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4562338620962": {
       "uid": "bl4562338620962",
       "name": "IVLINE T-Gravits 70s Real print",
@@ -30698,5 +30698,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-20T04:26:22+03:00"
+  "last_check": "2026-11-20T04:31:58+03:00"
 }
