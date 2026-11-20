@@ -240,6 +240,22 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4582671342741": {
+      "uid": "bl4582671342741",
+      "name": "ValkeIN　 Black Blast 2.2g 1091Color",
+      "price": 522,
+      "link": "https://www.backlash.co.jp/e/item/4582671342741/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4582671319668": {
+      "uid": "bl4582671319668",
+      "name": "ValkeIN　 Black Blast 1.8g 1091Color",
+      "price": 522,
+      "link": "https://www.backlash.co.jp/e/item/4582671319668/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4525807244083": {
       "uid": "bl4525807244083",
       "name": "JACKALL TIMON　Tricoroll GT　88DR-F",
@@ -1552,14 +1568,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4582671342741": {
-      "uid": "bl4582671342741",
-      "name": "ValkeIN　 Black Blast 2.2g 1091Color",
-      "price": 522,
-      "link": "https://www.backlash.co.jp/e/item/4582671342741/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4582671349504": {
       "uid": "bl4582671349504",
       "name": "Valkein Black Blast 2.2g Uchoten Color",
@@ -1629,14 +1637,6 @@
       "name": "ValkeIN　 Black Blast 1.8g Taniyama Color",
       "price": 522,
       "link": "https://www.backlash.co.jp/e/item/4582671321746/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582671319668": {
-      "uid": "bl4582671319668",
-      "name": "ValkeIN　 Black Blast 1.8g 1091Color",
-      "price": 522,
-      "link": "https://www.backlash.co.jp/e/item/4582671319668/",
       "shop": "BackLash",
       "stock": true
     },
@@ -6541,14 +6541,6 @@
       "name": "Waterland Gator Spoon Select Color 3g",
       "price": 600,
       "link": "https://www.backlash.co.jp/e/item/4527938071095/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582493558979": {
-      "uid": "bl4582493558979",
-      "name": "HMKL ZAGGER　50F1",
-      "price": 1490,
-      "link": "https://www.backlash.co.jp/e/item/4582493558979/",
       "shop": "BackLash",
       "stock": true
     },
@@ -20544,6 +20536,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4582493558979": {
+      "uid": "bl4582493558979",
+      "name": "HMKL ZAGGER　50F1",
+      "price": 1490,
+      "link": "https://www.backlash.co.jp/e/item/4582493558979/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4525918224462": {
       "uid": "bl4525918224462",
       "name": "DUO x MAIRE Spearhead Ryuki38S",
@@ -30698,5 +30698,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-20T04:51:21+03:00"
+  "last_check": "2026-11-20T04:56:20+03:00"
 }
