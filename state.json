@@ -240,19 +240,19 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4582671342741": {
-      "uid": "bl4582671342741",
-      "name": "ValkeIN　 Black Blast 2.2g 1091Color",
-      "price": 522,
-      "link": "https://www.backlash.co.jp/e/item/4582671342741/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4582671319668": {
       "uid": "bl4582671319668",
       "name": "ValkeIN　 Black Blast 1.8g 1091Color",
       "price": 522,
       "link": "https://www.backlash.co.jp/e/item/4582671319668/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4582671342741": {
+      "uid": "bl4582671342741",
+      "name": "ValkeIN　 Black Blast 2.2g 1091Color",
+      "price": 522,
+      "link": "https://www.backlash.co.jp/e/item/4582671342741/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30698,5 +30698,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-20T05:56:17+03:00"
+  "last_check": "2026-11-20T06:02:14+03:00"
 }
