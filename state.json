@@ -3272,6 +3272,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4573151264653": {
+      "uid": "bl4573151264653",
+      "name": "Rodio Craft x New Drawer Noa 1.5g",
+      "price": 450,
+      "link": "https://www.backlash.co.jp/e/item/4573151264653/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4571385597929": {
       "uid": "bl4571385597929",
       "name": "Rodio Craft Blind Flanker",
@@ -30721,6 +30729,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-20T14:56:16+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• Rodio Craft x New Drawer Noa 1.5g\n  ¥450\n  https://www.backlash.co.jp/e/item/4573151264653/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-20T15:02:02+03:00"
 }
