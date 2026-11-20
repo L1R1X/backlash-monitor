@@ -19624,6 +19624,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4525807327571": {
+      "uid": "bl4525807327571",
+      "name": "Jackall Timon Micro Panicra MR-F Rattle",
+      "price": 1287,
+      "link": "https://www.backlash.co.jp/e/item/4525807327571/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4570027013940": {
       "uid": "bl4570027013940",
       "name": "ValkeIN Shine Ride Nano",
@@ -20909,6 +20917,14 @@
       "name": "DAYSPROUT Reccoa 1.6g",
       "price": 522,
       "link": "https://www.backlash.co.jp/e/item/4548393366137/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4570040678935": {
+      "uid": "bl4570040678935",
+      "name": "Alfred ALF Spoon 1.8g",
+      "price": 530,
+      "link": "https://www.backlash.co.jp/e/item/4570040678935/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30713,6 +30729,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-20T15:26:26+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (2)</b>\n\n• Jackall Timon Micro Panicra MR-F Rattle\n  ¥1,287\n  https://www.backlash.co.jp/e/item/4525807327571/\n\n• Alfred ALF Spoon 1.8g\n  ¥530\n  https://www.backlash.co.jp/e/item/4570040678935/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-20T15:32:04+03:00"
 }
