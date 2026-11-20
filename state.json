@@ -240,6 +240,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4525807346152": {
+      "uid": "bl4525807346152",
+      "name": "Jackall TIMON KUROBALL 2.0g 1091 Color",
+      "price": 660,
+      "link": "https://www.backlash.co.jp/e/item/4525807346152/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4582671353976": {
       "uid": "bl4582671353976",
       "name": "ValkeIN　 Black Blast 1.3g 1091Color",
@@ -4789,14 +4797,6 @@
       "name": "Recent X Lure Workshop Guruguru X",
       "price": 585,
       "link": "https://www.backlash.co.jp/e/item/4560201622808/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4560201628725": {
-      "uid": "bl4560201628725",
-      "name": "Recent X Lure Workshop Guruguru X",
-      "price": 585,
-      "link": "https://www.backlash.co.jp/e/item/4560201628725/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30713,6 +30713,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-20T11:11:34+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• Jackall TIMON KUROBALL 2.0g 1091 Color\n  ¥660\n  https://www.backlash.co.jp/e/item/4525807346152/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-20T11:16:31+03:00"
 }
