@@ -240,6 +240,46 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4525807205220": {
+      "uid": "bl4525807205220",
+      "name": "JACKALL TIMON Pepino DR",
+      "price": 1305,
+      "link": "https://www.backlash.co.jp/e/item/4525807205220/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4525807327250": {
+      "uid": "bl4525807327250",
+      "name": "TIMON Chibi Pepino MR",
+      "price": 1305,
+      "link": "https://www.backlash.co.jp/e/item/4525807327250/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4570068294988": {
+      "uid": "bl4570068294988",
+      "name": "FPB Lures Pesca Crafts Spoon Build Base Mini",
+      "price": 9800,
+      "link": "https://www.backlash.co.jp/e/item/4570068294988/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4570068294995": {
+      "uid": "bl4570068294995",
+      "name": "FPB Lures Pesca Crafts Tip Teardrop 2.0g",
+      "price": 1000,
+      "link": "https://www.backlash.co.jp/e/item/4570068294995/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4570068294858": {
+      "uid": "bl4570068294858",
+      "name": "FPB Lures Pesca Crafts Pesca Stick 01",
+      "price": 1000,
+      "link": "https://www.backlash.co.jp/e/item/4570068294858/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4573581515608": {
       "uid": "bl4573581515608",
       "name": "rob lure　Punch explosive fishing tune",
@@ -917,46 +957,6 @@
       "name": "New Drawer Hunt 0.9g【3】",
       "price": 550,
       "link": "https://www.backlash.co.jp/e/item/4570164768734/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4580847002680": {
-      "uid": "bl4580847002680",
-      "name": "Rob Lure x KARTELLAS  RURAN",
-      "price": 1500,
-      "link": "https://www.backlash.co.jp/e/item/4580847002680/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4580299021758": {
-      "uid": "bl4580299021758",
-      "name": "Nomadic Code Baster 1.2g【1】",
-      "price": 405,
-      "link": "https://www.backlash.co.jp/e/item/4580299021758/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4580299022267": {
-      "uid": "bl4580299022267",
-      "name": "NomadicCode Baster 0.7g【1】",
-      "price": 405,
-      "link": "https://www.backlash.co.jp/e/item/4580299022267/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4580299028795": {
-      "uid": "bl4580299028795",
-      "name": "NomadicCode Baster Staff Color",
-      "price": 405,
-      "link": "https://www.backlash.co.jp/e/item/4580299028795/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4580299028641": {
-      "uid": "bl4580299028641",
-      "name": "NomadicCode Jag Staff color",
-      "price": 405,
-      "link": "https://www.backlash.co.jp/e/item/4580299028641/",
       "shop": "BackLash",
       "stock": true
     },
@@ -2432,14 +2432,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4525807327250": {
-      "uid": "bl4525807327250",
-      "name": "TIMON Chibi Pepino MR",
-      "price": 1305,
-      "link": "https://www.backlash.co.jp/e/item/4525807327250/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4525807243888": {
       "uid": "bl4525807243888",
       "name": "JACKALL TIMON　KIBIPani　MR",
@@ -2533,14 +2525,6 @@
       "name": "Buri Buri Minnow F",
       "price": 1287,
       "link": "https://www.backlash.co.jp/e/item/4582418096562/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4525807205220": {
-      "uid": "bl4525807205220",
-      "name": "JACKALL TIMON Pepino DR",
-      "price": 1305,
-      "link": "https://www.backlash.co.jp/e/item/4525807205220/",
       "shop": "BackLash",
       "stock": true
     },
@@ -17192,30 +17176,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4570068294988": {
-      "uid": "bl4570068294988",
-      "name": "FPB Lures Pesca Crafts Spoon Build Base Mini",
-      "price": 9800,
-      "link": "https://www.backlash.co.jp/e/item/4570068294988/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4570068294995": {
-      "uid": "bl4570068294995",
-      "name": "FPB Lures Pesca Crafts Tip Teardrop 2.0g",
-      "price": 1000,
-      "link": "https://www.backlash.co.jp/e/item/4570068294995/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4570068294858": {
-      "uid": "bl4570068294858",
-      "name": "FPB Lures Pesca Crafts Pesca Stick 01",
-      "price": 1000,
-      "link": "https://www.backlash.co.jp/e/item/4570068294858/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4570150697413": {
       "uid": "bl4570150697413",
       "name": "Angler’z System DOHNA Limited Color 1.3g-3.0g",
@@ -30730,5 +30690,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-21T09:36:25+03:00"
+  "last_check": "2026-11-21T09:41:34+03:00"
 }
