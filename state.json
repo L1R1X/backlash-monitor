@@ -16312,14 +16312,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4513907446452": {
-      "uid": "bl4513907446452",
-      "name": "Mukai Fishing Smash 25MR Floating HEROS color",
-      "price": 1400,
-      "link": "https://www.backlash.co.jp/e/item/4513907446452/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4513907447114": {
       "uid": "bl4513907447114",
       "name": "Mukai Fishing POGO BEAN 23 Mame Pogo",
@@ -30722,5 +30714,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-21T07:11:35+03:00"
+  "last_check": "2026-11-21T07:16:49+03:00"
 }
