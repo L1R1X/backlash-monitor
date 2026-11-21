@@ -11600,22 +11600,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4949146026726": {
-      "uid": "bl4949146026726",
-      "name": "Van Fook LC-13BL Reach 1.2 Black",
-      "price": 405,
-      "link": "https://www.backlash.co.jp/e/item/4949146026726/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4949146031294": {
-      "uid": "bl4949146031294",
-      "name": "Van Fook LC-17BL Reach 1.2 Glow White",
-      "price": 405,
-      "link": "https://www.backlash.co.jp/e/item/4949146031294/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4571393640013": {
       "uid": "bl4571393640013",
       "name": "Zact Craft Senor Tornado",
@@ -30730,5 +30714,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-21T04:11:25+03:00"
+  "last_check": "2026-11-21T04:16:26+03:00"
 }
