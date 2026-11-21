@@ -960,6 +960,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4580299029228": {
+      "uid": "bl4580299029228",
+      "name": "NomadicCode Silky Staff color",
+      "price": 405,
+      "link": "https://www.backlash.co.jp/e/item/4580299029228/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4570164762220": {
       "uid": "bl4570164762220",
       "name": "New Drawer Hunt Grande 1.0g",
@@ -30721,6 +30729,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-21T07:36:22+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• NomadicCode Silky Staff color\n  ¥405\n  https://www.backlash.co.jp/e/item/4580299029228/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-21T07:41:34+03:00"
 }
