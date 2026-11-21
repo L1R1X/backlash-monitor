@@ -15640,14 +15640,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4537628699713": {
-      "uid": "bl4537628699713",
-      "name": "Forest MIU Native 1091 Color",
-      "price": 567,
-      "link": "https://www.backlash.co.jp/e/item/4537628699713/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4537628436318": {
       "uid": "bl4537628436318",
       "name": "Forest Dive Deep 1091 Color",
@@ -16317,6 +16309,14 @@
       "name": "Mukai Fishing Smash EX 26【1】",
       "price": 1170,
       "link": "https://www.backlash.co.jp/e/item/4513907440078/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4513907446452": {
+      "uid": "bl4513907446452",
+      "name": "Mukai Fishing Smash 25MR Floating HEROS color",
+      "price": 1400,
+      "link": "https://www.backlash.co.jp/e/item/4513907446452/",
       "shop": "BackLash",
       "stock": true
     },
@@ -23032,6 +23032,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4582692471970": {
+      "uid": "bl4582692471970",
+      "name": "Nomadic Cord x Kingfisher Silky 0.45g",
+      "price": 414,
+      "link": "https://www.backlash.co.jp/e/item/4582692471970/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4511270811655": {
       "uid": "bl4511270811655",
       "name": "Neo Style NST MAME 0.8g",
@@ -23829,6 +23837,14 @@
       "name": "Forest MIU Native 1091 Color",
       "price": 495,
       "link": "https://www.backlash.co.jp/e/item/4537628699652/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4537628699713": {
+      "uid": "bl4537628699713",
+      "name": "Forest MIU Native 1091 Color",
+      "price": 567,
+      "link": "https://www.backlash.co.jp/e/item/4537628699713/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30713,6 +30729,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-21T06:51:23+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (2)</b>\n\n• Mukai Fishing Smash 25MR Floating HEROS color\n  ¥1,400\n  https://www.backlash.co.jp/e/item/4513907446452/\n\n• Nomadic Cord x Kingfisher Silky 0.45g\n  ¥414\n  https://www.backlash.co.jp/e/item/4582692471970/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-21T06:56:18+03:00"
 }
