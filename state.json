@@ -240,6 +240,22 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4573581515608": {
+      "uid": "bl4573581515608",
+      "name": "rob lure　Punch explosive fishing tune",
+      "price": 990,
+      "link": "https://www.backlash.co.jp/e/item/4573581515608/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4573581519835": {
+      "uid": "bl4573581519835",
+      "name": "rob lure　Pipe fishing guy punch (bottom)",
+      "price": 1080,
+      "link": "https://www.backlash.co.jp/e/item/4573581519835/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4525807346152": {
       "uid": "bl4525807346152",
       "name": "Jackall TIMON KUROBALL 2.0g 1091 Color",
@@ -800,14 +816,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4573581519835": {
-      "uid": "bl4573581519835",
-      "name": "rob lure　Pipe fishing guy punch (bottom)",
-      "price": 1080,
-      "link": "https://www.backlash.co.jp/e/item/4573581519835/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4548393367073": {
       "uid": "bl4548393367073",
       "name": "DAYSPROUT DS Mini Cicada HF G2",
@@ -949,14 +957,6 @@
       "name": "NomadicCode Jag Staff color",
       "price": 405,
       "link": "https://www.backlash.co.jp/e/item/4580299028641/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4580299029228": {
-      "uid": "bl4580299029228",
-      "name": "NomadicCode Silky Staff color",
-      "price": 405,
-      "link": "https://www.backlash.co.jp/e/item/4580299029228/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30713,6 +30713,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-21T07:21:29+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• rob lure　Punch explosive fishing tune\n  ¥990\n  https://www.backlash.co.jp/e/item/4573581515608/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-21T07:26:09+03:00"
 }
