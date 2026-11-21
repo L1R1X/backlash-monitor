@@ -21992,6 +21992,22 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4949146026726": {
+      "uid": "bl4949146026726",
+      "name": "Van Fook LC-13BL Reach 1.2 Black",
+      "price": 405,
+      "link": "https://www.backlash.co.jp/e/item/4949146026726/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4949146031294": {
+      "uid": "bl4949146031294",
+      "name": "Van Fook LC-17BL Reach 1.2 Glow White",
+      "price": 405,
+      "link": "https://www.backlash.co.jp/e/item/4949146031294/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4949146030938": {
       "uid": "bl4949146030938",
       "name": "Van Fook LL-11BL Leather Reach White 1.2g",
@@ -30713,6 +30729,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-21T04:16:26+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (2)</b>\n\n• Van Fook LC-13BL Reach 1.2 Black\n  ¥405\n  https://www.backlash.co.jp/e/item/4949146026726/\n\n• Van Fook LC-17BL Reach 1.2 Glow White\n  ¥405\n  https://www.backlash.co.jp/e/item/4949146031294/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-21T04:21:45+03:00"
 }
