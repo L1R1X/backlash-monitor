@@ -8400,14 +8400,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4573151210759": {
-      "uid": "bl4573151210759",
-      "name": "Rodio Craft Ussa S RodioCraft",
-      "price": 1700,
-      "link": "https://www.backlash.co.jp/e/item/4573151210759/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4589789555490": {
       "uid": "bl4589789555490",
       "name": "rob lure　BABEL WZ ZERO",
@@ -30754,5 +30746,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-21T12:06:18+03:00"
+  "last_check": "2026-11-21T12:11:34+03:00"
 }
