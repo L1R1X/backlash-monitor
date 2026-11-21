@@ -240,6 +240,22 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4573151271125": {
+      "uid": "bl4573151271125",
+      "name": "Rodio Craft Ussa XS Rattle Inn【2】",
+      "price": 1750,
+      "link": "https://www.backlash.co.jp/e/item/4573151271125/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4573151210759": {
+      "uid": "bl4573151210759",
+      "name": "Rodio Craft Ussa S RodioCraft",
+      "price": 1700,
+      "link": "https://www.backlash.co.jp/e/item/4573151210759/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4525807266825": {
       "uid": "bl4525807266825",
       "name": "[Special price while stocks last] Timon Buri Buri Minnow HF Rattle",
@@ -941,14 +957,6 @@
       "name": "ValkeIN SCHEILA 1.5g 1091 color",
       "price": 477,
       "link": "https://www.backlash.co.jp/e/item/4570027023222/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4570027019621": {
-      "uid": "bl4570027019621",
-      "name": "ValkeIN GIGA BURST  2.0g  (area spoon)",
-      "price": 450,
-      "link": "https://www.backlash.co.jp/e/item/4570027019621/",
       "shop": "BackLash",
       "stock": true
     },
@@ -4629,14 +4637,6 @@
       "name": "Nabura Two Win Heroes Color 2g",
       "price": 730,
       "link": "https://www.backlash.co.jp/e/item/4573119928108/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4573151271125": {
-      "uid": "bl4573151271125",
-      "name": "Rodio Craft Ussa XS Rattle Inn【2】",
-      "price": 1750,
-      "link": "https://www.backlash.co.jp/e/item/4573151271125/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30745,6 +30745,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-21T12:11:34+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• Rodio Craft Ussa S RodioCraft\n  ¥1,700\n  https://www.backlash.co.jp/e/item/4573151210759/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-21T12:16:28+03:00"
 }
