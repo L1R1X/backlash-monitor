@@ -960,6 +960,46 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4580847002680": {
+      "uid": "bl4580847002680",
+      "name": "Rob Lure x KARTELLAS  RURAN",
+      "price": 1500,
+      "link": "https://www.backlash.co.jp/e/item/4580847002680/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4580299021758": {
+      "uid": "bl4580299021758",
+      "name": "Nomadic Code Baster 1.2g【1】",
+      "price": 405,
+      "link": "https://www.backlash.co.jp/e/item/4580299021758/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4580299022267": {
+      "uid": "bl4580299022267",
+      "name": "NomadicCode Baster 0.7g【1】",
+      "price": 405,
+      "link": "https://www.backlash.co.jp/e/item/4580299022267/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4580299028795": {
+      "uid": "bl4580299028795",
+      "name": "NomadicCode Baster Staff Color",
+      "price": 405,
+      "link": "https://www.backlash.co.jp/e/item/4580299028795/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4580299028641": {
+      "uid": "bl4580299028641",
+      "name": "NomadicCode Jag Staff color",
+      "price": 405,
+      "link": "https://www.backlash.co.jp/e/item/4580299028641/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4580299029228": {
       "uid": "bl4580299029228",
       "name": "NomadicCode Silky Staff color",
@@ -2272,22 +2312,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4525807285765": {
-      "uid": "bl4525807285765",
-      "name": "JACKALL Timon Chibi Panicura SR-SS",
-      "price": 1287,
-      "link": "https://www.backlash.co.jp/e/item/4525807285765/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4525807316339": {
-      "uid": "bl4525807316339",
-      "name": "Timon Panicra Dash DR",
-      "price": 1287,
-      "link": "https://www.backlash.co.jp/e/item/4525807316339/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4525807191332": {
       "uid": "bl4525807191332",
       "name": "Jackal Timon Chibi Panicula DR [2]",
@@ -2301,14 +2325,6 @@
       "name": "Jackal Timon Pepino SR",
       "price": 1305,
       "link": "https://www.backlash.co.jp/e/item/4525807256291/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582418085832": {
-      "uid": "bl4582418085832",
-      "name": "JACKALL TIMON Chibi Panicura DR  [1]",
-      "price": 1287,
-      "link": "https://www.backlash.co.jp/e/item/4582418085832/",
       "shop": "BackLash",
       "stock": true
     },
@@ -2336,22 +2352,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4573151269894": {
-      "uid": "bl4573151269894",
-      "name": "RodioCract×TIMON TIMON PaniCra MR",
-      "price": 1350,
-      "link": "https://www.backlash.co.jp/e/item/4573151269894/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4573151269993": {
-      "uid": "bl4573151269993",
-      "name": "RodioCraft×TIMON　Panicura DR",
-      "price": 1500,
-      "link": "https://www.backlash.co.jp/e/item/4573151269993/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4525807191370": {
       "uid": "bl4525807191370",
       "name": "JACKALL TIMON Chibi Panicura DR-SS",
@@ -2360,43 +2360,11 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4525807286090": {
-      "uid": "bl4525807286090",
-      "name": "Timon Panicla´ SR",
-      "price": 1287,
-      "link": "https://www.backlash.co.jp/e/item/4525807286090/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4525807316186": {
-      "uid": "bl4525807316186",
-      "name": "Timon Panicla Dash MR",
-      "price": 1287,
-      "link": "https://www.backlash.co.jp/e/item/4525807316186/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4525807279337": {
-      "uid": "bl4525807279337",
-      "name": "Timon Panicra Dash　DDR",
-      "price": 1287,
-      "link": "https://www.backlash.co.jp/e/item/4525807279337/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4525807289336": {
       "uid": "bl4525807289336",
       "name": "JACKALL Timon Pepino MR-SS",
       "price": 1305,
       "link": "https://www.backlash.co.jp/e/item/4525807289336/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4525807316483": {
-      "uid": "bl4525807316483",
-      "name": "Jackall Timon Panicra Dash DR-HF",
-      "price": 1287,
-      "link": "https://www.backlash.co.jp/e/item/4525807316483/",
       "shop": "BackLash",
       "stock": true
     },
@@ -18176,6 +18144,30 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4570089783775": {
+      "uid": "bl4570089783775",
+      "name": "Office Eucalyptus Mini kura HF",
+      "price": 1305,
+      "link": "https://www.backlash.co.jp/e/item/4570089783775/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4550133543463": {
+      "uid": "bl4550133543463",
+      "name": "Daiwa Presso double clutch 45F1",
+      "price": 1310,
+      "link": "https://www.backlash.co.jp/e/item/4550133543463/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4571239704947": {
+      "uid": "bl4571239704947",
+      "name": "Supremo　Baila 50XMD",
+      "price": 1530,
+      "link": "https://www.backlash.co.jp/e/item/4571239704947/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4570004770057": {
       "uid": "bl4570004770057",
       "name": "Supremo　Baila 50HMD",
@@ -30665,6 +30657,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-21T09:51:18+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (8)</b>\n\n• Rob Lure x KARTELLAS  RURAN\n  ¥1,500\n  https://www.backlash.co.jp/e/item/4580847002680/\n\n• Nomadic Code Baster 1.2g【1】\n  ¥405\n  https://www.backlash.co.jp/e/item/4580299021758/\n\n• NomadicCode Baster 0.7g【1】\n  ¥405\n  https://www.backlash.co.jp/e/item/4580299022267/\n\n• NomadicCode Baster Staff Color\n  ¥405\n  https://www.backlash.co.jp/e/item/4580299028795/\n\n• NomadicCode Jag Staff color\n  ¥405\n  https://www.backlash.co.jp/e/item/4580299028641/\n\n• Office Eucalyptus Mini kura HF\n  ¥1,305\n  https://www.backlash.co.jp/e/item/4570089783775/\n\n• Daiwa Presso double clutch 45F1\n  ¥1,310\n  https://www.backlash.co.jp/e/item/4550133543463/\n\n• Supremo　Baila 50XMD\n  ¥1,530\n  https://www.backlash.co.jp/e/item/4571239704947/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-21T09:56:59+03:00"
 }
