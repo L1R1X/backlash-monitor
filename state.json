@@ -24824,14 +24824,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4573581515608": {
-      "uid": "bl4573581515608",
-      "name": "rob lure　Punch explosive fishing tune",
-      "price": 990,
-      "link": "https://www.backlash.co.jp/e/item/4573581515608/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4573166816670": {
       "uid": "bl4573166816670",
       "name": "I JET LINK Blast It Minnow 66S Area Hot Tune",
@@ -30730,5 +30722,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-21T07:06:30+03:00"
+  "last_check": "2026-11-21T07:11:35+03:00"
 }
