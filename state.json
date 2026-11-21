@@ -16320,14 +16320,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4513907446452": {
-      "uid": "bl4513907446452",
-      "name": "Mukai Fishing Smash 25MR Floating HEROS color",
-      "price": 1400,
-      "link": "https://www.backlash.co.jp/e/item/4513907446452/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4513907447114": {
       "uid": "bl4513907447114",
       "name": "Mukai Fishing POGO BEAN 23 Mame Pogo",
@@ -23037,14 +23029,6 @@
       "name": "Mukai Fishing Henoji Crank 38MR",
       "price": 700,
       "link": "https://www.backlash.co.jp/e/item/4513907436040/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582692471970": {
-      "uid": "bl4582692471970",
-      "name": "Nomadic Cord x Kingfisher Silky 0.45g",
-      "price": 414,
-      "link": "https://www.backlash.co.jp/e/item/4582692471970/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30730,5 +30714,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-21T06:41:20+03:00"
+  "last_check": "2026-11-21T06:46:35+03:00"
 }
