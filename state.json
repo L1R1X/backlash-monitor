@@ -240,6 +240,134 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4525807266825": {
+      "uid": "bl4525807266825",
+      "name": "[Special price while stocks last] Timon Buri Buri Minnow HF Rattle",
+      "price": 950,
+      "link": "https://www.backlash.co.jp/e/item/4525807266825/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4525807188691": {
+      "uid": "bl4525807188691",
+      "name": "Chibi Buri Minnow",
+      "price": 1287,
+      "link": "https://www.backlash.co.jp/e/item/4525807188691/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4582418096562": {
+      "uid": "bl4582418096562",
+      "name": "Buri Buri Minnow F",
+      "price": 1287,
+      "link": "https://www.backlash.co.jp/e/item/4582418096562/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4582418099525": {
+      "uid": "bl4582418099525",
+      "name": "JACKALL TIMON Brill Minnow DR",
+      "price": 1287,
+      "link": "https://www.backlash.co.jp/e/item/4582418099525/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4582418096661": {
+      "uid": "bl4582418096661",
+      "name": "Jackall Timon Dekamits DRY Rattle",
+      "price": 1287,
+      "link": "https://www.backlash.co.jp/e/item/4582418096661/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4582418085597": {
+      "uid": "bl4582418085597",
+      "name": "JACKALL TIMON DEKA mitts DRY",
+      "price": 1287,
+      "link": "https://www.backlash.co.jp/e/item/4582418085597/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4525807299120": {
+      "uid": "bl4525807299120",
+      "name": "TIEMON  MItts DRY 2hook",
+      "price": 1287,
+      "link": "https://www.backlash.co.jp/e/item/4525807299120/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4582418088833": {
+      "uid": "bl4582418088833",
+      "name": "Jackall Timon Tap Dancer 1091 Color",
+      "price": 1300,
+      "link": "https://www.backlash.co.jp/e/item/4582418088833/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4525807188813": {
+      "uid": "bl4525807188813",
+      "name": "Jackall Chibi Tap Dancer",
+      "price": 1260,
+      "link": "https://www.backlash.co.jp/e/item/4525807188813/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4582418091093": {
+      "uid": "bl4582418091093",
+      "name": "JACKALL TIMONTAP DANCER[1]",
+      "price": 1260,
+      "link": "https://www.backlash.co.jp/e/item/4582418091093/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4582418087522": {
+      "uid": "bl4582418087522",
+      "name": "JACKALL TIMON",
+      "price": 1260,
+      "link": "https://www.backlash.co.jp/e/item/4582418087522/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4525807227345": {
+      "uid": "bl4525807227345",
+      "name": "Jackall TIMON DARTRUN [2]",
+      "price": 1260,
+      "link": "https://www.backlash.co.jp/e/item/4525807227345/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4582418083449": {
+      "uid": "bl4582418083449",
+      "name": "Jackall TIMON DARTRUN [1]",
+      "price": 1260,
+      "link": "https://www.backlash.co.jp/e/item/4582418083449/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4582418091291": {
+      "uid": "bl4582418091291",
+      "name": "Jackall Timon Dartrun HW",
+      "price": 1260,
+      "link": "https://www.backlash.co.jp/e/item/4582418091291/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4525807315790": {
+      "uid": "bl4525807315790",
+      "name": "Timon Kibipani MR-SS",
+      "price": 1287,
+      "link": "https://www.backlash.co.jp/e/item/4525807315790/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4525807327472": {
+      "uid": "bl4525807327472",
+      "name": "TIMON SLIDON 60F",
+      "price": 1305,
+      "link": "https://www.backlash.co.jp/e/item/4525807327472/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4525807225839": {
       "uid": "bl4525807225839",
       "name": "JACKALL　TIMON",
@@ -656,14 +784,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4525807315790": {
-      "uid": "bl4525807315790",
-      "name": "Timon Kibipani MR-SS",
-      "price": 1287,
-      "link": "https://www.backlash.co.jp/e/item/4525807315790/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4514447319916": {
       "uid": "bl4514447319916",
       "name": "[BackLash Original Color] Lucky Craft Wow 33SDS Fuwa Meister Color - BackLash Special Order",
@@ -693,22 +813,6 @@
       "name": "JACKALL TIMON PaniCra SR",
       "price": 891,
       "link": "https://www.backlash.co.jp/e/item/4582418080837/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4525807299120": {
-      "uid": "bl4525807299120",
-      "name": "TIEMON  MItts DRY 2hook",
-      "price": 1287,
-      "link": "https://www.backlash.co.jp/e/item/4525807299120/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4525807266825": {
-      "uid": "bl4525807266825",
-      "name": "[Special price while stocks last] Timon Buri Buri Minnow HF Rattle",
-      "price": 950,
-      "link": "https://www.backlash.co.jp/e/item/4525807266825/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30649,6 +30753,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-21T10:21:25+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (13)</b>\n\n• Chibi Buri Minnow\n  ¥1,287\n  https://www.backlash.co.jp/e/item/4525807188691/\n\n• Buri Buri Minnow F\n  ¥1,287\n  https://www.backlash.co.jp/e/item/4582418096562/\n\n• JACKALL TIMON Brill Minnow DR\n  ¥1,287\n  https://www.backlash.co.jp/e/item/4582418099525/\n\n• Jackall Timon Dekamits DRY Rattle\n  ¥1,287\n  https://www.backlash.co.jp/e/item/4582418096661/\n\n• JACKALL TIMON DEKA mitts DRY\n  ¥1,287\n  https://www.backlash.co.jp/e/item/4582418085597/\n\n• Jackall Timon Tap Dancer 1091 Color\n  ¥1,300\n  https://www.backlash.co.jp/e/item/4582418088833/\n\n• Jackall Chibi Tap Dancer\n  ¥1,260\n  https://www.backlash.co.jp/e/item/4525807188813/\n\n• JACKALL TIMONTAP DANCER[1]\n  ¥1,260\n  https://www.backlash.co.jp/e/item/4582418091093/\n\n• JACKALL TIMON\n  ¥1,260\n  https://www.backlash.co.jp/e/item/4582418087522/\n\n• Jackall TIMON DARTRUN [2]\n  ¥1,260\n  https://www.backlash.co.jp/e/item/4525807227345/\n\n• Jackall TIMON DARTRUN [1]\n  ¥1,260\n  https://www.backlash.co.jp/e/item/4582418083449/\n\n• Jackall Timon Dartrun HW\n  ¥1,260\n  https://www.backlash.co.jp/e/item/4582418091291/\n\n• TIMON SLIDON 60F\n  ¥1,305\n  https://www.backlash.co.jp/e/item/4525807327472/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-21T10:26:26+03:00"
 }
