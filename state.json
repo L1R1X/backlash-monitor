@@ -960,6 +960,30 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4582418083654": {
+      "uid": "bl4582418083654",
+      "name": "JACKALL TIMON　T-GROVEL",
+      "price": 450,
+      "link": "https://www.backlash.co.jp/e/item/4582418083654/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4582418092717": {
+      "uid": "bl4582418092717",
+      "name": "Jackall Charm 1.0g",
+      "price": 450,
+      "link": "https://www.backlash.co.jp/e/item/4582418092717/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4548393367073": {
+      "uid": "bl4548393367073",
+      "name": "DAYSPROUT DS Mini Cicada HF G2",
+      "price": 1550,
+      "link": "https://www.backlash.co.jp/e/item/4548393367073/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4533625155689": {
       "uid": "bl4533625155689",
       "name": "[8 Colors Available] Evergreen Crush Diver FEvergreen Crush Diver F 52",
@@ -2432,22 +2456,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4582418085597": {
-      "uid": "bl4582418085597",
-      "name": "JACKALL TIMON DEKA mitts DRY",
-      "price": 1287,
-      "link": "https://www.backlash.co.jp/e/item/4582418085597/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582418096661": {
-      "uid": "bl4582418096661",
-      "name": "Jackall Timon Dekamits DRY Rattle",
-      "price": 1287,
-      "link": "https://www.backlash.co.jp/e/item/4582418096661/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4525807191370": {
       "uid": "bl4525807191370",
       "name": "JACKALL TIMON Chibi Panicura DR-SS",
@@ -2520,30 +2528,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4582418083449": {
-      "uid": "bl4582418083449",
-      "name": "Jackall TIMON DARTRUN [1]",
-      "price": 1260,
-      "link": "https://www.backlash.co.jp/e/item/4582418083449/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582418099525": {
-      "uid": "bl4582418099525",
-      "name": "JACKALL TIMON Brill Minnow DR",
-      "price": 1287,
-      "link": "https://www.backlash.co.jp/e/item/4582418099525/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582418091291": {
-      "uid": "bl4582418091291",
-      "name": "Jackall Timon Dartrun HW",
-      "price": 1260,
-      "link": "https://www.backlash.co.jp/e/item/4582418091291/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4525807277265": {
       "uid": "bl4525807277265",
       "name": "JACKALL TIMON TC Reigen DR",
@@ -2552,51 +2536,11 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4525807227345": {
-      "uid": "bl4525807227345",
-      "name": "Jackall TIMON DARTRUN [2]",
-      "price": 1260,
-      "link": "https://www.backlash.co.jp/e/item/4525807227345/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582418096562": {
-      "uid": "bl4582418096562",
-      "name": "Buri Buri Minnow F",
-      "price": 1287,
-      "link": "https://www.backlash.co.jp/e/item/4582418096562/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4525807327472": {
-      "uid": "bl4525807327472",
-      "name": "TIMON SLIDON 60F",
-      "price": 1305,
-      "link": "https://www.backlash.co.jp/e/item/4525807327472/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4525807188691": {
-      "uid": "bl4525807188691",
-      "name": "Chibi Buri Minnow",
-      "price": 1287,
-      "link": "https://www.backlash.co.jp/e/item/4525807188691/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4582418095459": {
       "uid": "bl4582418095459",
       "name": "Jackall TIMON KUROBALL 3.0g",
       "price": 594,
       "link": "https://www.backlash.co.jp/e/item/4582418095459/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582418091093": {
-      "uid": "bl4582418091093",
-      "name": "JACKALL TIMONTAP DANCER[1]",
-      "price": 1260,
-      "link": "https://www.backlash.co.jp/e/item/4582418091093/",
       "shop": "BackLash",
       "stock": true
     },
@@ -2616,14 +2560,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4582418087522": {
-      "uid": "bl4582418087522",
-      "name": "JACKALL TIMON",
-      "price": 1260,
-      "link": "https://www.backlash.co.jp/e/item/4582418087522/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4582418098498": {
       "uid": "bl4582418098498",
       "name": "Jackall Timmon  Metal Black Ball 3.5g  Jackall TIMON METAL KUROBALL",
@@ -2640,27 +2576,11 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4525807188813": {
-      "uid": "bl4525807188813",
-      "name": "Jackall Chibi Tap Dancer",
-      "price": 1260,
-      "link": "https://www.backlash.co.jp/e/item/4525807188813/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4525807243581": {
       "uid": "bl4525807243581",
       "name": "JACKALL　TIMON KUROBALL",
       "price": 720,
       "link": "https://www.backlash.co.jp/e/item/4525807243581/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582418088833": {
-      "uid": "bl4582418088833",
-      "name": "Jackall Timon Tap Dancer 1091 Color",
-      "price": 1300,
-      "link": "https://www.backlash.co.jp/e/item/4582418088833/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30729,6 +30649,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-21T10:11:30+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (3)</b>\n\n• JACKALL TIMON　T-GROVEL\n  ¥450\n  https://www.backlash.co.jp/e/item/4582418083654/\n\n• Jackall Charm 1.0g\n  ¥450\n  https://www.backlash.co.jp/e/item/4582418092717/\n\n• DAYSPROUT DS Mini Cicada HF G2\n  ¥1,550\n  https://www.backlash.co.jp/e/item/4548393367073/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-21T10:16:42+03:00"
 }
