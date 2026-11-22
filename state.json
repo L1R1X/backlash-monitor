@@ -11496,14 +11496,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4571675033366": {
-      "uid": "bl4571675033366",
-      "name": "HMKL ZAGGER 38 B1 HERO'S Color",
-      "price": 1600,
-      "link": "https://www.backlash.co.jp/e/item/4571675033366/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4573527016961": {
       "uid": "bl4573527016961",
       "name": "HMKL inch Crank Une-R",
@@ -30754,5 +30746,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-22T14:11:26+03:00"
+  "last_check": "2026-11-22T14:16:21+03:00"
 }
