@@ -240,6 +240,46 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4548393332569": {
+      "uid": "bl4548393332569",
+      "name": "DISPROUT PICO EAGLE PLAYER F G2",
+      "price": 1305,
+      "link": "https://www.backlash.co.jp/e/item/4548393332569/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4548393352260": {
+      "uid": "bl4548393352260",
+      "name": "DAYSPROUT Pico Eagle Player F【2】",
+      "price": 1305,
+      "link": "https://www.backlash.co.jp/e/item/4548393352260/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4514447301362": {
+      "uid": "bl4514447301362",
+      "name": "LUCKY CRAFT　Wah 37F　1091 colors",
+      "price": 1350,
+      "link": "https://www.backlash.co.jp/e/item/4514447301362/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4514447298648": {
+      "uid": "bl4514447298648",
+      "name": "LUCKY CRAFT　Wah 37F",
+      "price": 1260,
+      "link": "https://www.backlash.co.jp/e/item/4514447298648/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4514447308552": {
+      "uid": "bl4514447308552",
+      "name": "Lucky Craft 　 WAH 37F",
+      "price": 1400,
+      "link": "https://www.backlash.co.jp/e/item/4514447308552/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4573581494835": {
       "uid": "bl4573581494835",
       "name": "rob lure　 BARBIE LONG Floating",
@@ -421,14 +461,6 @@
       "name": "ValkeIN Li-Worm Nano'  ValkeIN Li-Worm Nano",
       "price": 1512,
       "link": "https://www.backlash.co.jp/e/item/4570027013964/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4514447301362": {
-      "uid": "bl4514447301362",
-      "name": "LUCKY CRAFT　Wah 37F　1091 colors",
-      "price": 1350,
-      "link": "https://www.backlash.co.jp/e/item/4514447301362/",
       "shop": "BackLash",
       "stock": true
     },
@@ -5565,22 +5597,6 @@
       "name": "[18 colors in total] Disprout Pico Eagle Player F DAYSPROUT [1]",
       "price": 1305,
       "link": "https://www.backlash.co.jp/e/item/4548393332019/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4548393352260": {
-      "uid": "bl4548393352260",
-      "name": "DAYSPROUT Pico Eagle Player F【2】",
-      "price": 1305,
-      "link": "https://www.backlash.co.jp/e/item/4548393352260/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4548393332569": {
-      "uid": "bl4548393332569",
-      "name": "DISPROUT PICO EAGLE PLAYER F G2",
-      "price": 1305,
-      "link": "https://www.backlash.co.jp/e/item/4548393332569/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30737,6 +30753,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-22T10:41:28+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (2)</b>\n\n• LUCKY CRAFT　Wah 37F\n  ¥1,260\n  https://www.backlash.co.jp/e/item/4514447298648/\n\n• Lucky Craft 　 WAH 37F\n  ¥1,400\n  https://www.backlash.co.jp/e/item/4514447308552/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-22T10:46:22+03:00"
 }
