@@ -240,6 +240,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4514447299041": {
+      "uid": "bl4514447299041",
+      "name": "LUCKY CRAFT　Wah 33F",
+      "price": 1260,
+      "link": "https://www.backlash.co.jp/e/item/4514447299041/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4573151245058": {
       "uid": "bl4573151245058",
       "name": "Rodio Craft Ussa XS Non Rattle",
@@ -3789,14 +3797,6 @@
       "name": "Valkein Shine Ride S Backlash Custom Color 2024",
       "price": 1600,
       "link": "https://www.backlash.co.jp/e/item/4582671343731/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4514447299041": {
-      "uid": "bl4514447299041",
-      "name": "LUCKY CRAFT　Wah 33F",
-      "price": 1260,
-      "link": "https://www.backlash.co.jp/e/item/4514447299041/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30754,5 +30754,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-22T08:51:28+03:00"
+  "last_check": "2026-11-22T08:56:28+03:00"
 }
