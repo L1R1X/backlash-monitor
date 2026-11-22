@@ -240,6 +240,78 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4533625153036": {
+      "uid": "bl4533625153036",
+      "name": "Evergreen BRUCO 50",
+      "price": 1215,
+      "link": "https://www.backlash.co.jp/e/item/4533625153036/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4533625149084": {
+      "uid": "bl4533625149084",
+      "name": "Evergreen Artisan Jet Beater 30",
+      "price": 1100,
+      "link": "https://www.backlash.co.jp/e/item/4533625149084/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4969363124234": {
+      "uid": "bl4969363124234",
+      "name": "Shimano Dive Rise 55F",
+      "price": 1215,
+      "link": "https://www.backlash.co.jp/e/item/4969363124234/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4550133543500": {
+      "uid": "bl4550133543500",
+      "name": "Daiwa Presso double clutch 60F1【2】",
+      "price": 1440,
+      "link": "https://www.backlash.co.jp/e/item/4550133543500/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4515744095343": {
+      "uid": "bl4515744095343",
+      "name": "[10 colors in total] Tackle House Elfin Micro Cicada Sinking (Area Trout)",
+      "price": 1330,
+      "link": "https://www.backlash.co.jp/e/item/4515744095343/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4515744178824": {
+      "uid": "bl4515744178824",
+      "name": "Office Eucalyptus x Tackle House Micro Cicada S",
+      "price": 1500,
+      "link": "https://www.backlash.co.jp/e/item/4515744178824/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4515744095022": {
+      "uid": "bl4515744095022",
+      "name": "Tackle House Elfin Micro Cicada Floating #1 Clear",
+      "price": 1260,
+      "link": "https://www.backlash.co.jp/e/item/4515744095022/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4548393377010": {
+      "uid": "bl4548393377010",
+      "name": "Disprout x Ivy Line Eagle Player 50 Slim GJ",
+      "price": 1323,
+      "link": "https://www.backlash.co.jp/e/item/4548393377010/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4571675034790": {
+      "uid": "bl4571675034790",
+      "name": "HMKL Rattlin' K-I Minnow 50",
+      "price": 1395,
+      "link": "https://www.backlash.co.jp/e/item/4571675034790/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4573151268125": {
       "uid": "bl4573151268125",
       "name": "Lucky Craft X Rodio Craft　 WAH 37HF",
@@ -3952,14 +4024,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4533625153036": {
-      "uid": "bl4533625153036",
-      "name": "Evergreen BRUCO 50",
-      "price": 1215,
-      "link": "https://www.backlash.co.jp/e/item/4533625153036/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4595987685303": {
       "uid": "bl4595987685303",
       "name": "[Special price while stocks last]IKECRA REVERSE NYORO 500S Injection Model",
@@ -4808,14 +4872,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4515744095022": {
-      "uid": "bl4515744095022",
-      "name": "Tackle House Elfin Micro Cicada Floating #1 Clear",
-      "price": 1330,
-      "link": "https://www.backlash.co.jp/e/item/4515744095022/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4589873970246": {
       "uid": "bl4589873970246",
       "name": "ValkeIN GIGA BURST  2.8g  (area spoon)",
@@ -5440,14 +5496,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4571675034790": {
-      "uid": "bl4571675034790",
-      "name": "HMKL Rattlin' K-I Minnow 50",
-      "price": 1395,
-      "link": "https://www.backlash.co.jp/e/item/4571675034790/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4539625229122": {
       "uid": "bl4539625229122",
       "name": "ima SUKARI 85DXS 18g",
@@ -5485,14 +5533,6 @@
       "name": "DUO　LUAYU　110F",
       "price": 1600,
       "link": "https://www.backlash.co.jp/e/item/4525918178673/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4515744178824": {
-      "uid": "bl4515744178824",
-      "name": "Office Eucalyptus x Tackle House Micro Cicada S",
-      "price": 1500,
-      "link": "https://www.backlash.co.jp/e/item/4515744178824/",
       "shop": "BackLash",
       "stock": true
     },
@@ -5629,14 +5669,6 @@
       "name": "DAIWA Presso Double Clutch 60SHF【2】",
       "price": 1440,
       "link": "https://www.backlash.co.jp/e/item/4550133761690/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4550133543500": {
-      "uid": "bl4550133543500",
-      "name": "Daiwa Presso double clutch 60F1【2】",
-      "price": 1440,
-      "link": "https://www.backlash.co.jp/e/item/4550133543500/",
       "shop": "BackLash",
       "stock": true
     },
@@ -5821,14 +5853,6 @@
       "name": "EVERGREEN Killer Bug23",
       "price": 1080,
       "link": "https://www.backlash.co.jp/e/item/4533625146656/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4533625149084": {
-      "uid": "bl4533625149084",
-      "name": "Evergreen Artisan Jet Beater 30",
-      "price": 1100,
-      "link": "https://www.backlash.co.jp/e/item/4533625149084/",
       "shop": "BackLash",
       "stock": true
     },
@@ -7048,14 +7072,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4548393377010": {
-      "uid": "bl4548393377010",
-      "name": "Disprout x Ivy Line Eagle Player 50 Slim GJ",
-      "price": 1323,
-      "link": "https://www.backlash.co.jp/e/item/4548393377010/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4548393350792": {
       "uid": "bl4548393350792",
       "name": "Disprout Eagle Player 50slim/GJ Loco Color",
@@ -7664,22 +7680,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4513907447435": {
-      "uid": "bl4513907447435",
-      "name": "Mukai Fishing POGOCRA 30DR-F Limited Edition",
-      "price": 1350,
-      "link": "https://www.backlash.co.jp/e/item/4513907447435/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4511474208794": {
-      "uid": "bl4511474208794",
-      "name": "SMITH　STILL  Area Tune2",
-      "price": 1215,
-      "link": "https://www.backlash.co.jp/e/item/4511474208794/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4573648243413": {
       "uid": "bl4573648243413",
       "name": "Naburaya 2WIN Double-Sided Plated Color",
@@ -7781,14 +7781,6 @@
       "name": "Yarie x Naburaya Nabukura F",
       "price": 1620,
       "link": "https://www.backlash.co.jp/e/item/4511135833549/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4969363124234": {
-      "uid": "bl4969363124234",
-      "name": "Shimano Dive Rise 55F",
-      "price": 1215,
-      "link": "https://www.backlash.co.jp/e/item/4969363124234/",
       "shop": "BackLash",
       "stock": true
     },
@@ -10301,14 +10293,6 @@
       "name": "[Total 12 colors] Tackle House Elfin Mini Cicada Sinking (Area Trout)",
       "price": 1330,
       "link": "https://www.backlash.co.jp/e/item/4515744071361/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4515744095343": {
-      "uid": "bl4515744095343",
-      "name": "[10 colors in total] Tackle House Elfin Micro Cicada Sinking (Area Trout)",
-      "price": 1330,
-      "link": "https://www.backlash.co.jp/e/item/4515744095343/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30753,6 +30737,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-22T13:21:37+03:00"
+  "pending_notifications": [
+    {
+      "text": "📉 <b>BackLash — снижение цены (1)</b>\n\n• Tackle House Elfin Micro Cicada Floating #1 Clear\n  ¥1,330 → ¥1,260\n  https://www.backlash.co.jp/e/item/4515744095022/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-22T13:26:21+03:00"
 }
