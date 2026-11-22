@@ -240,6 +240,22 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4573632516899": {
+      "uid": "bl4573632516899",
+      "name": "Rodeo Craft RC WAH 37 HF - HERO'S Color",
+      "price": 1600,
+      "link": "https://www.backlash.co.jp/e/item/4573632516899/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4573151276519": {
+      "uid": "bl4573151276519",
+      "name": "Lucky Craft x Rodio Craft Wow 37HF 1091 Color",
+      "price": 1350,
+      "link": "https://www.backlash.co.jp/e/item/4573151276519/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4573632516509": {
       "uid": "bl4573632516509",
       "name": "Lucky Craft X Rodio Craft　 WAH 37F2 1091",
@@ -5624,14 +5640,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4573632516899": {
-      "uid": "bl4573632516899",
-      "name": "Rodeo Craft RC WAH 37 HF - HERO'S Color",
-      "price": 1600,
-      "link": "https://www.backlash.co.jp/e/item/4573632516899/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4571385606935": {
       "uid": "bl4571385606935",
       "name": "Rodio Craft Blind Flanker",
@@ -7672,14 +7680,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4573648243413": {
-      "uid": "bl4573648243413",
-      "name": "Naburaya 2WIN Double-Sided Plated Color",
-      "price": 612,
-      "link": "https://www.backlash.co.jp/e/item/4573648243413/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4573648241631": {
       "uid": "bl4573648241631",
       "name": "Naburaya Accuracy Chubu Region Managed Fishing Ground Supervised Color",
@@ -8525,14 +8525,6 @@
       "name": "Jackson Tube Magic 50 Sinking",
       "price": 765,
       "link": "https://www.backlash.co.jp/e/item/4511729698981/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4573151276519": {
-      "uid": "bl4573151276519",
-      "name": "Lucky Craft x Rodio Craft Wow 37HF 1091 Color",
-      "price": 1350,
-      "link": "https://www.backlash.co.jp/e/item/4573151276519/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30754,5 +30746,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-22T11:51:27+03:00"
+  "last_check": "2026-11-22T11:56:31+03:00"
 }
