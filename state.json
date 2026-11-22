@@ -240,6 +240,38 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4573632516509": {
+      "uid": "bl4573632516509",
+      "name": "Lucky Craft X Rodio Craft　 WAH 37F2 1091",
+      "price": 1600,
+      "link": "https://www.backlash.co.jp/e/item/4573632516509/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4573632514567": {
+      "uid": "bl4573632514567",
+      "name": "Lucky Craft x Rodio Craft RC WAH 37F2 2026 Signature Color",
+      "price": 1600,
+      "link": "https://www.backlash.co.jp/e/item/4573632514567/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4573632516929": {
+      "uid": "bl4573632516929",
+      "name": "Lucky Craft X Rodio Craft　 WAH 37F2",
+      "price": 1600,
+      "link": "https://www.backlash.co.jp/e/item/4573632516929/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4573151277776": {
+      "uid": "bl4573151277776",
+      "name": "Lucky Craft X Rodio Craft　 WAH 37F2",
+      "price": 1440,
+      "link": "https://www.backlash.co.jp/e/item/4573151277776/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4548393350600": {
       "uid": "bl4548393350600",
       "name": "【Sale】DAYSPROUT Eagle Player 40 Slim GJ",
@@ -509,14 +541,6 @@
       "name": "ValkeIN Li-Worm Nano'  ValkeIN Li-Worm Nano",
       "price": 1512,
       "link": "https://www.backlash.co.jp/e/item/4570027013964/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4573632516509": {
-      "uid": "bl4573632516509",
-      "name": "Lucky Craft X Rodio Craft　 WAH 37F2 1091",
-      "price": 1600,
-      "link": "https://www.backlash.co.jp/e/item/4573632516509/",
       "shop": "BackLash",
       "stock": true
     },
@@ -4800,14 +4824,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4573632516929": {
-      "uid": "bl4573632516929",
-      "name": "Lucky Craft X Rodio Craft　 WAH 37F2",
-      "price": 1600,
-      "link": "https://www.backlash.co.jp/e/item/4573632516929/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4573119928108": {
       "uid": "bl4573119928108",
       "name": "Nabura Two Win Heroes Color 2g",
@@ -5477,14 +5493,6 @@
       "name": "Lucky Craft xGATE　Deep Crappie　GS2",
       "price": 1440,
       "link": "https://www.backlash.co.jp/e/item/4514447304844/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4573632514567": {
-      "uid": "bl4573632514567",
-      "name": "Lucky Craft x Rodio Craft RC WAH 37F2 2026 Signature Color",
-      "price": 1600,
-      "link": "https://www.backlash.co.jp/e/item/4573632514567/",
       "shop": "BackLash",
       "stock": true
     },
@@ -7533,14 +7541,6 @@
       "name": "Lucky Craft x Rodio Craft Deep Crappie LCMAX-F",
       "price": 1650,
       "link": "https://www.backlash.co.jp/e/item/4573151268231/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4573151277776": {
-      "uid": "bl4573151277776",
-      "name": "Lucky Craft X Rodio Craft　 WAH 37F2",
-      "price": 1600,
-      "link": "https://www.backlash.co.jp/e/item/4573151277776/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30753,6 +30753,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-22T11:26:24+03:00"
+  "pending_notifications": [
+    {
+      "text": "📉 <b>BackLash — снижение цены (1)</b>\n\n• Lucky Craft X Rodio Craft　 WAH 37F2\n  ¥1,600 → ¥1,440\n  https://www.backlash.co.jp/e/item/4573151277776/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-22T11:31:56+03:00"
 }
