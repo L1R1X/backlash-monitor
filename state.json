@@ -7680,6 +7680,22 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4571393643816": {
+      "uid": "bl4571393643816",
+      "name": "Zact Craft Senor Tornado Limited Edition Color",
+      "price": 486,
+      "link": "https://www.backlash.co.jp/e/item/4571393643816/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4571675031898": {
+      "uid": "bl4571675031898",
+      "name": "HMKL Zagger 50F1 Bone",
+      "price": 1395,
+      "link": "https://www.backlash.co.jp/e/item/4571675031898/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4571382990402": {
       "uid": "bl4571382990402",
       "name": "HMKL x Earl Glatt ZAGGER 50F1-R Heroes Color",
@@ -9853,22 +9869,6 @@
       "name": "Alfred Clear Alfred Injection 0.8g",
       "price": 800,
       "link": "https://www.backlash.co.jp/e/item/4570040691286/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl5580109260994": {
-      "uid": "bl5580109260994",
-      "name": "SulaSula Cho-Glass Spoon",
-      "price": 1280,
-      "link": "https://www.backlash.co.jp/e/item/5580109260994/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl5580109256492": {
-      "uid": "bl5580109256492",
-      "name": "SulaSula Glassp iS　1.0g",
-      "price": 1182,
-      "link": "https://www.backlash.co.jp/e/item/5580109256492/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30737,6 +30737,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-22T14:36:17+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (2)</b>\n\n• Zact Craft Senor Tornado Limited Edition Color\n  ¥486\n  https://www.backlash.co.jp/e/item/4571393643816/\n\n• HMKL Zagger 50F1 Bone\n  ¥1,395\n  https://www.backlash.co.jp/e/item/4571675031898/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-22T14:41:42+03:00"
 }
