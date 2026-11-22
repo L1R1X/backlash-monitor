@@ -20056,6 +20056,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4514447316496": {
+      "uid": "bl4514447316496",
+      "name": "Lucky Craft Wow 33SDS Fuwau",
+      "price": 1350,
+      "link": "https://www.backlash.co.jp/e/item/4514447316496/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4513907454334": {
       "uid": "bl4513907454334",
       "name": "Mukai Fishing Smash 25MR SSWG Taniyama Color",
@@ -30745,6 +30753,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-22T07:26:11+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• Lucky Craft Wow 33SDS Fuwau\n  ¥1,350\n  https://www.backlash.co.jp/e/item/4514447316496/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-22T07:32:02+03:00"
 }
