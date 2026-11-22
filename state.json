@@ -256,6 +256,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4582671759273": {
+      "uid": "bl4582671759273",
+      "name": "Retrix Metallo Crank 30 Type F-R",
+      "price": 1150,
+      "link": "https://www.backlash.co.jp/e/item/4582671759273/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4513964756013": {
       "uid": "bl4513964756013",
       "name": "Bassday Fly Hatch HF",
@@ -30745,6 +30753,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-22T09:36:32+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• Retrix Metallo Crank 30 Type F-R\n  ¥1,150\n  https://www.backlash.co.jp/e/item/4582671759273/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-22T09:41:21+03:00"
 }
