@@ -240,6 +240,54 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4548393350600": {
+      "uid": "bl4548393350600",
+      "name": "【Sale】DAYSPROUT Eagle Player 40 Slim GJ",
+      "price": 950,
+      "link": "https://www.backlash.co.jp/e/item/4548393350600/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4573581504756": {
+      "uid": "bl4573581504756",
+      "name": "Rob Lure Babecon Giant Shimokin devised color",
+      "price": 630,
+      "link": "https://www.backlash.co.jp/e/item/4573581504756/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4573581497447": {
+      "uid": "bl4573581497447",
+      "name": "[Special price while stocks last]rob lure BaBeCon Giant Uchoten",
+      "price": 560,
+      "link": "https://www.backlash.co.jp/e/item/4573581497447/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4573581493685": {
+      "uid": "bl4573581493685",
+      "name": "rob lure\tBaBeCON　Giant",
+      "price": 720,
+      "link": "https://www.backlash.co.jp/e/item/4573581493685/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4573581493807": {
+      "uid": "bl4573581493807",
+      "name": "rob lure BaBeCon Giant 1091 Color",
+      "price": 720,
+      "link": "https://www.backlash.co.jp/e/item/4573581493807/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4573581494811": {
+      "uid": "bl4573581494811",
+      "name": "rob lure BaBeCon Giant HERO’S color",
+      "price": 720,
+      "link": "https://www.backlash.co.jp/e/item/4573581494811/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4548393332569": {
       "uid": "bl4548393332569",
       "name": "DISPROUT PICO EAGLE PLAYER F G2",
@@ -4045,14 +4093,6 @@
       "name": "Fishing Area Taishaku   Joint Brothers",
       "price": 1800,
       "link": "https://www.backlash.co.jp/e/item/4582782392406/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4548393350600": {
-      "uid": "bl4548393350600",
-      "name": "【Sale】DAYSPROUT Eagle Player 40 Slim GJ",
-      "price": 900,
-      "link": "https://www.backlash.co.jp/e/item/4548393350600/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30713,6 +30753,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-22T11:06:21+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (5)</b>\n\n• Rob Lure Babecon Giant Shimokin devised color\n  ¥630\n  https://www.backlash.co.jp/e/item/4573581504756/\n\n• [Special price while stocks last]rob lure BaBeCon Giant Uchoten\n  ¥560\n  https://www.backlash.co.jp/e/item/4573581497447/\n\n• rob lure\tBaBeCON　Giant\n  ¥720\n  https://www.backlash.co.jp/e/item/4573581493685/\n\n• rob lure BaBeCon Giant 1091 Color\n  ¥720\n  https://www.backlash.co.jp/e/item/4573581493807/\n\n• rob lure BaBeCon Giant HERO’S color\n  ¥720\n  https://www.backlash.co.jp/e/item/4573581494811/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-22T11:11:24+03:00"
 }
