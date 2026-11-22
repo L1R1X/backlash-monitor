@@ -240,6 +240,54 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4582671759969": {
+      "uid": "bl4582671759969",
+      "name": "Retreex Metallo Crank 30 Type F-R 1091 Color",
+      "price": 1440,
+      "link": "https://www.backlash.co.jp/e/item/4582671759969/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4573687820088": {
+      "uid": "bl4573687820088",
+      "name": "Retreex Metal Crank 30 Type F-R Ecstatic Color",
+      "price": 1440,
+      "link": "https://www.backlash.co.jp/e/item/4573687820088/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4513964756013": {
+      "uid": "bl4513964756013",
+      "name": "Bassday Fly Hatch HF",
+      "price": 1152,
+      "link": "https://www.backlash.co.jp/e/item/4513964756013/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4573608253483": {
+      "uid": "bl4573608253483",
+      "name": "KARTELLAS x Rob Lure: RURAN",
+      "price": 1500,
+      "link": "https://www.backlash.co.jp/e/item/4573608253483/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4549769273073": {
+      "uid": "bl4549769273073",
+      "name": "TIEMCO x Lucky Craft WAH 33F",
+      "price": 1350,
+      "link": "https://www.backlash.co.jp/e/item/4549769273073/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4514447315772": {
+      "uid": "bl4514447315772",
+      "name": "Lucky Craft WAH 33F Heroes Color",
+      "price": 1400,
+      "link": "https://www.backlash.co.jp/e/item/4514447315772/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4514447299041": {
       "uid": "bl4514447299041",
       "name": "LUCKY CRAFT　Wah 33F",
@@ -3912,14 +3960,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4582671759273": {
-      "uid": "bl4582671759273",
-      "name": "Retrix Metallo Crank 30 Type F-R",
-      "price": 1150,
-      "link": "https://www.backlash.co.jp/e/item/4582671759273/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4573151276298": {
       "uid": "bl4573151276298",
       "name": "Rodio Craft Noah 1.5g Matsumoto Nobu Select Color 2025",
@@ -4405,14 +4445,6 @@
       "name": "Lucky Craft xGATE　 Medium crappie",
       "price": 1600,
       "link": "https://www.backlash.co.jp/e/item/4514447300839/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4573608253483": {
-      "uid": "bl4573608253483",
-      "name": "KARTELLAS x Rob Lure: RURAN",
-      "price": 1500,
-      "link": "https://www.backlash.co.jp/e/item/4573608253483/",
       "shop": "BackLash",
       "stock": true
     },
@@ -5616,22 +5648,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4582671759969": {
-      "uid": "bl4582671759969",
-      "name": "Retreex Metallo Crank 30 Type F-R 1091 Color",
-      "price": 1600,
-      "link": "https://www.backlash.co.jp/e/item/4582671759969/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4573687820088": {
-      "uid": "bl4573687820088",
-      "name": "Retreex Metal Crank 30 Type F-R Ecstatic Color",
-      "price": 1600,
-      "link": "https://www.backlash.co.jp/e/item/4573687820088/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4582782651479": {
       "uid": "bl4582782651479",
       "name": "Nocentic Gabu 24S",
@@ -6720,14 +6736,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4514447315772": {
-      "uid": "bl4514447315772",
-      "name": "Lucky Craft WAH 33F Heroes Color",
-      "price": 1400,
-      "link": "https://www.backlash.co.jp/e/item/4514447315772/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4573213090008": {
       "uid": "bl4573213090008",
       "name": "Samu Lures FB65 Ver.2",
@@ -7157,14 +7165,6 @@
       "name": "God Hands Fuga Tournament Edition 0.4g【2】",
       "price": 540,
       "link": "https://www.backlash.co.jp/e/item/4582759114956/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4549769273073": {
-      "uid": "bl4549769273073",
-      "name": "TIEMCO x Lucky Craft WAH 33F",
-      "price": 1350,
-      "link": "https://www.backlash.co.jp/e/item/4549769273073/",
       "shop": "BackLash",
       "stock": true
     },
@@ -7669,14 +7669,6 @@
       "name": "Yarie x Naburaya Nabukura F",
       "price": 1620,
       "link": "https://www.backlash.co.jp/e/item/4511135833549/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4969363124234": {
-      "uid": "bl4969363124234",
-      "name": "Shimano Dive Rise 55F",
-      "price": 1215,
-      "link": "https://www.backlash.co.jp/e/item/4969363124234/",
       "shop": "BackLash",
       "stock": true
     },
@@ -16149,14 +16141,6 @@
       "name": "Lucky Craft B’ Freeze 48LB FJ",
       "price": 1350,
       "link": "https://www.backlash.co.jp/e/item/4514447295449/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4513964756013": {
-      "uid": "bl4513964756013",
-      "name": "Bassday Fly Hatch HF",
-      "price": 1152,
-      "link": "https://www.backlash.co.jp/e/item/4513964756013/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30753,6 +30737,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-22T09:11:30+03:00"
+  "pending_notifications": [
+    {
+      "text": "📉 <b>BackLash — снижение цены (2)</b>\n\n• Retreex Metallo Crank 30 Type F-R 1091 Color\n  ¥1,600 → ¥1,440\n  https://www.backlash.co.jp/e/item/4582671759969/\n\n• Retreex Metal Crank 30 Type F-R Ecstatic Color\n  ¥1,600 → ¥1,440\n  https://www.backlash.co.jp/e/item/4573687820088/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-22T09:16:33+03:00"
 }
