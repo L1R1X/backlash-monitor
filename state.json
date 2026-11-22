@@ -240,6 +240,38 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4548393306720": {
+      "uid": "bl4548393306720",
+      "name": "[8 colors] Disprout DS Baby Vibe Daddy 50?DAYSPROUT",
+      "price": 1440,
+      "link": "https://www.backlash.co.jp/e/item/4548393306720/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4548393306393": {
+      "uid": "bl4548393306393",
+      "name": "Daysprout DS Baby Vibe",
+      "price": 1305,
+      "link": "https://www.backlash.co.jp/e/item/4548393306393/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4548393336192": {
+      "uid": "bl4548393336192",
+      "name": "DAYSPROUT DS Baby Vibe G2",
+      "price": 1305,
+      "link": "https://www.backlash.co.jp/e/item/4548393336192/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4549769260141": {
+      "uid": "bl4549769260141",
+      "name": "TIEMCO FLiCra DR30F",
+      "price": 1500,
+      "link": "https://www.backlash.co.jp/e/item/4549769260141/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4533625153036": {
       "uid": "bl4533625153036",
       "name": "Evergreen BRUCO 50",
@@ -4032,14 +4064,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4549769260141": {
-      "uid": "bl4549769260141",
-      "name": "TIEMCO FLiCra DR30F",
-      "price": 1500,
-      "link": "https://www.backlash.co.jp/e/item/4549769260141/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4549769246305": {
       "uid": "bl4549769246305",
       "name": "TIEMCO Shumari 55F Area",
@@ -5821,30 +5845,6 @@
       "name": "DAYSPROUT NIKI Rita DR-F",
       "price": 1440,
       "link": "https://www.backlash.co.jp/e/item/4548393365017/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4548393306720": {
-      "uid": "bl4548393306720",
-      "name": "[8 colors] Disprout DS Baby Vibe Daddy 50?DAYSPROUT",
-      "price": 1440,
-      "link": "https://www.backlash.co.jp/e/item/4548393306720/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4548393306393": {
-      "uid": "bl4548393306393",
-      "name": "Daysprout DS Baby Vibe",
-      "price": 1305,
-      "link": "https://www.backlash.co.jp/e/item/4548393306393/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4548393336192": {
-      "uid": "bl4548393336192",
-      "name": "DAYSPROUT DS Baby Vibe G2",
-      "price": 1305,
-      "link": "https://www.backlash.co.jp/e/item/4548393336192/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30754,5 +30754,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-22T13:41:31+03:00"
+  "last_check": "2026-11-22T13:46:24+03:00"
 }
