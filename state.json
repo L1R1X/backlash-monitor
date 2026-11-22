@@ -240,6 +240,94 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4580838922539": {
+      "uid": "bl4580838922539",
+      "name": "Sauribu esca 2026 Passion Color",
+      "price": 1600,
+      "link": "https://www.backlash.co.jp/e/item/4580838922539/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4582756427219": {
+      "uid": "bl4582756427219",
+      "name": "Sauribu esca Slow Sinking 1.2g (area trout crank baits)",
+      "price": 1350,
+      "link": "https://www.backlash.co.jp/e/item/4582756427219/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4582756427295": {
+      "uid": "bl4582756427295",
+      "name": "Sauribu esca Slow Floating 1.1g  (area crank)",
+      "price": 1350,
+      "link": "https://www.backlash.co.jp/e/item/4582756427295/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4582756428537": {
+      "uid": "bl4582756428537",
+      "name": "Sauribu esca SF/SS 1091 Color",
+      "price": 1350,
+      "link": "https://www.backlash.co.jp/e/item/4582756428537/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4582756427370": {
+      "uid": "bl4582756427370",
+      "name": "Sauribu esca Hero´s Color",
+      "price": 1500,
+      "link": "https://www.backlash.co.jp/e/item/4582756427370/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4573435105733": {
+      "uid": "bl4573435105733",
+      "name": "PALMS LITTLE DINER GANOFF",
+      "price": 1300,
+      "link": "https://www.backlash.co.jp/e/item/4573435105733/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4573435106143": {
+      "uid": "bl4573435106143",
+      "name": "PALMS Little Diner Poire  SiN Rattle PO-32FR",
+      "price": 1260,
+      "link": "https://www.backlash.co.jp/e/item/4573435106143/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4573435105818": {
+      "uid": "bl4573435105818",
+      "name": "PALMS LITTLE DINER GANOFF GA-24HS",
+      "price": 1260,
+      "link": "https://www.backlash.co.jp/e/item/4573435105818/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4573435100851": {
+      "uid": "bl4573435100851",
+      "name": "PALMS LITTLE DINER GANOFF GA-24S",
+      "price": 1260,
+      "link": "https://www.backlash.co.jp/e/item/4573435100851/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4573435101087": {
+      "uid": "bl4573435101087",
+      "name": "PALMS Little Diner Powale",
+      "price": 1260,
+      "link": "https://www.backlash.co.jp/e/item/4573435101087/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4571675033366": {
+      "uid": "bl4571675033366",
+      "name": "HMKL ZAGGER 38 B1 HERO'S Color",
+      "price": 1600,
+      "link": "https://www.backlash.co.jp/e/item/4571675033366/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4548393306720": {
       "uid": "bl4548393306720",
       "name": "[8 colors] Disprout DS Baby Vibe Daddy 50?DAYSPROUT",
@@ -1080,14 +1168,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4573435105733": {
-      "uid": "bl4573435105733",
-      "name": "PALMS LITTLE DINER GANOFF",
-      "price": 1300,
-      "link": "https://www.backlash.co.jp/e/item/4573435105733/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4525918237561": {
       "uid": "bl4525918237561",
       "name": "DUO Onimasu Kagura 44F",
@@ -1213,30 +1293,6 @@
       "name": "JACKALL　TIMON Tricoroll GT　72SR-F【2】",
       "price": 1440,
       "link": "https://www.backlash.co.jp/e/item/4525807227178/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4573435106143": {
-      "uid": "bl4573435106143",
-      "name": "PALMS Little Diner Poire  SiN Rattle PO-32FR",
-      "price": 1260,
-      "link": "https://www.backlash.co.jp/e/item/4573435106143/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4573435105818": {
-      "uid": "bl4573435105818",
-      "name": "PALMS LITTLE DINER GANOFF GA-24HS",
-      "price": 1260,
-      "link": "https://www.backlash.co.jp/e/item/4573435105818/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4573435100851": {
-      "uid": "bl4573435100851",
-      "name": "PALMS LITTLE DINER GANOFF GA-24S",
-      "price": 1260,
-      "link": "https://www.backlash.co.jp/e/item/4573435100851/",
       "shop": "BackLash",
       "stock": true
     },
@@ -4824,14 +4880,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4573435101087": {
-      "uid": "bl4573435101087",
-      "name": "PALMS Little Diner Powale",
-      "price": 1260,
-      "link": "https://www.backlash.co.jp/e/item/4573435101087/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4573435089279": {
       "uid": "bl4573435089279",
       "name": "Palms Halper Vibe HV-0.7",
@@ -7336,35 +7384,11 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4580838922539": {
-      "uid": "bl4580838922539",
-      "name": "Sauribu esca 2026 Passion Color",
-      "price": 1600,
-      "link": "https://www.backlash.co.jp/e/item/4580838922539/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4571675030440": {
       "uid": "bl4571675030440",
       "name": "HMKL Power Minnow 50 Area Ver.",
       "price": 1395,
       "link": "https://www.backlash.co.jp/e/item/4571675030440/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582756427219": {
-      "uid": "bl4582756427219",
-      "name": "Sauribu esca Slow Sinking 1.2g (area trout crank baits)",
-      "price": 1350,
-      "link": "https://www.backlash.co.jp/e/item/4582756427219/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582756427295": {
-      "uid": "bl4582756427295",
-      "name": "Sauribu esca Slow Floating 1.1g  (area crank)",
-      "price": 1350,
-      "link": "https://www.backlash.co.jp/e/item/4582756427295/",
       "shop": "BackLash",
       "stock": true
     },
@@ -7653,22 +7677,6 @@
       "name": "ZactCraft Senor Tornado Slim  Limited Edition Color",
       "price": 630,
       "link": "https://www.backlash.co.jp/e/item/4571393643854/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4571393643816": {
-      "uid": "bl4571393643816",
-      "name": "Zact Craft Senor Tornado Limited Edition Color",
-      "price": 486,
-      "link": "https://www.backlash.co.jp/e/item/4571393643816/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4571675031898": {
-      "uid": "bl4571675031898",
-      "name": "HMKL Zagger 50F1 Bone",
-      "price": 1395,
-      "link": "https://www.backlash.co.jp/e/item/4571675031898/",
       "shop": "BackLash",
       "stock": true
     },
@@ -8493,22 +8501,6 @@
       "name": "Alfred Alfspoon 0.55g",
       "price": 500,
       "link": "https://www.backlash.co.jp/e/item/4570040678485/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582756428537": {
-      "uid": "bl4582756428537",
-      "name": "Sauribu esca SF/SS 1091 Color",
-      "price": 1350,
-      "link": "https://www.backlash.co.jp/e/item/4582756428537/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4582756427370": {
-      "uid": "bl4582756427370",
-      "name": "Sauribu esca Hero´s Color",
-      "price": 1500,
-      "link": "https://www.backlash.co.jp/e/item/4582756427370/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30745,6 +30737,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-22T14:26:26+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• HMKL ZAGGER 38 B1 HERO&#x27;S Color\n  ¥1,600\n  https://www.backlash.co.jp/e/item/4571675033366/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-22T14:31:36+03:00"
 }
