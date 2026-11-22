@@ -4432,14 +4432,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4514447316496": {
-      "uid": "bl4514447316496",
-      "name": "Lucky Craft Wow 33SDS Fuwau",
-      "price": 1350,
-      "link": "https://www.backlash.co.jp/e/item/4514447316496/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4582782655389": {
       "uid": "bl4582782655389",
       "name": "Deep Paradx TYSON 1.3g",
@@ -30754,5 +30746,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-22T07:21:31+03:00"
+  "last_check": "2026-11-22T07:26:11+03:00"
 }
