@@ -30729,15 +30729,6 @@
       "stock": true
     }
   },
-  "pending_notifications": [
-    {
-      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• Office Eucalyptus esa 25.3mm Uchouten Color\n  ¥1,000\n  https://www.backlash.co.jp/e/item/4570089784789/",
-      "delivered": []
-    },
-    {
-      "text": "📉 <b>BackLash — снижение цены (1)</b>\n\n• Office Eucalyptus esa 25.3mm\n  ¥1,305 → ¥1,000\n  https://www.backlash.co.jp/e/item/4570089784307/",
-      "delivered": []
-    }
-  ],
+  "pending_notifications": [],
   "last_check": "2026-11-22T10:01:59+03:00"
 }
