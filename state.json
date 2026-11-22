@@ -240,6 +240,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4573151268125": {
+      "uid": "bl4573151268125",
+      "name": "Lucky Craft X Rodio Craft　 WAH 37HF",
+      "price": 1600,
+      "link": "https://www.backlash.co.jp/e/item/4573151268125/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4573632516899": {
       "uid": "bl4573632516899",
       "name": "Rodeo Craft RC WAH 37 HF - HERO'S Color",
@@ -6021,14 +6029,6 @@
       "name": "WaterLand　Deep Cupper",
       "price": 650,
       "link": "https://www.backlash.co.jp/e/item/4527938052469/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4573151268125": {
-      "uid": "bl4573151268125",
-      "name": "Lucky Craft X Rodio Craft　 WAH 37HF",
-      "price": 1600,
-      "link": "https://www.backlash.co.jp/e/item/4573151268125/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30754,5 +30754,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-22T12:11:32+03:00"
+  "last_check": "2026-11-22T12:16:30+03:00"
 }
