@@ -240,6 +240,22 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl5580109256492": {
+      "uid": "bl5580109256492",
+      "name": "SulaSula Glassp iS　1.0g",
+      "price": 1182,
+      "link": "https://www.backlash.co.jp/e/item/5580109256492/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl5580109260994": {
+      "uid": "bl5580109260994",
+      "name": "SulaSula Cho-Glass Spoon",
+      "price": 1280,
+      "link": "https://www.backlash.co.jp/e/item/5580109260994/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4580838922539": {
       "uid": "bl4580838922539",
       "name": "Sauribu esca 2026 Passion Color",
@@ -30737,6 +30753,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-22T14:51:19+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (2)</b>\n\n• SulaSula Glassp iS　1.0g\n  ¥1,182\n  https://www.backlash.co.jp/e/item/5580109256492/\n\n• SulaSula Cho-Glass Spoon\n  ¥1,280\n  https://www.backlash.co.jp/e/item/5580109260994/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-22T14:56:14+03:00"
 }
