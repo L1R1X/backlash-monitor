@@ -275,7 +275,7 @@
     "bl4515744095343": {
       "uid": "bl4515744095343",
       "name": "[10 colors in total] Tackle House Elfin Micro Cicada Sinking (Area Trout)",
-      "price": 1330,
+      "price": 1260,
       "link": "https://www.backlash.co.jp/e/item/4515744095343/",
       "shop": "BackLash",
       "stock": true
@@ -7677,6 +7677,22 @@
       "name": "HMKL x Earl Glatt ZAGGER 50F1-R Heroes Color",
       "price": 1550,
       "link": "https://www.backlash.co.jp/e/item/4571382990402/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4513907447435": {
+      "uid": "bl4513907447435",
+      "name": "Mukai Fishing POGOCRA 30DR-F Limited Edition",
+      "price": 1350,
+      "link": "https://www.backlash.co.jp/e/item/4513907447435/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4511474208794": {
+      "uid": "bl4511474208794",
+      "name": "SMITH　STILL  Area Tune2",
+      "price": 1215,
+      "link": "https://www.backlash.co.jp/e/item/4511474208794/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30737,6 +30753,15 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-22T13:26:21+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (2)</b>\n\n• Mukai Fishing POGOCRA 30DR-F Limited Edition\n  ¥1,350\n  https://www.backlash.co.jp/e/item/4513907447435/\n\n• SMITH　STILL  Area Tune2\n  ¥1,215\n  https://www.backlash.co.jp/e/item/4511474208794/",
+      "delivered": []
+    },
+    {
+      "text": "📉 <b>BackLash — снижение цены (1)</b>\n\n• [10 colors in total] Tackle House Elfin Micro Cicada Sinking (Area Trout)\n  ¥1,330 → ¥1,260\n  https://www.backlash.co.jp/e/item/4515744095343/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-22T13:31:54+03:00"
 }
