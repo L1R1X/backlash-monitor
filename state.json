@@ -240,6 +240,30 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4573581494835": {
+      "uid": "bl4573581494835",
+      "name": "rob lure　 BARBIE LONG Floating",
+      "price": 1350,
+      "link": "https://www.backlash.co.jp/e/item/4573581494835/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4573581516438": {
+      "uid": "bl4573581516438",
+      "name": "Rob Lure JACCO SF",
+      "price": 1215,
+      "link": "https://www.backlash.co.jp/e/item/4573581516438/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4573581508013": {
+      "uid": "bl4573581508013",
+      "name": "Rob Lure Bottom Barbie S",
+      "price": 1620,
+      "link": "https://www.backlash.co.jp/e/item/4573581508013/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4573189543706": {
       "uid": "bl4573189543706",
       "name": "OSP　DURGA　73　Floating　AREA　TUNE",
@@ -3904,14 +3928,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4514447298648": {
-      "uid": "bl4514447298648",
-      "name": "LUCKY CRAFT　Wah 37F",
-      "price": 1260,
-      "link": "https://www.backlash.co.jp/e/item/4514447298648/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4514447256136": {
       "uid": "bl4514447256136",
       "name": "LUCKY CRAFT UN-FAIR SUPER SLIM 50F",
@@ -5357,14 +5373,6 @@
       "name": "DUO　LUAYU　110F",
       "price": 1600,
       "link": "https://www.backlash.co.jp/e/item/4525918178673/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4514447308552": {
-      "uid": "bl4514447308552",
-      "name": "Lucky Craft 　 WAH 37F",
-      "price": 1400,
-      "link": "https://www.backlash.co.jp/e/item/4514447308552/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30729,6 +30737,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-22T10:21:29+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (3)</b>\n\n• rob lure　 BARBIE LONG Floating\n  ¥1,350\n  https://www.backlash.co.jp/e/item/4573581494835/\n\n• Rob Lure JACCO SF\n  ¥1,215\n  https://www.backlash.co.jp/e/item/4573581516438/\n\n• Rob Lure Bottom Barbie S\n  ¥1,620\n  https://www.backlash.co.jp/e/item/4573581508013/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-22T10:26:10+03:00"
 }
