@@ -7672,6 +7672,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4969363124234": {
+      "uid": "bl4969363124234",
+      "name": "Shimano Dive Rise 55F",
+      "price": 1215,
+      "link": "https://www.backlash.co.jp/e/item/4969363124234/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4582615657207": {
       "uid": "bl4582615657207",
       "name": "Undead Factory Rem 23FSR",
@@ -19536,6 +19544,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4573687823003": {
+      "uid": "bl4573687823003",
+      "name": "HIDEUP Retreex Metallo Crank Mini Type F-R",
+      "price": 1440,
+      "link": "https://www.backlash.co.jp/e/item/4573687823003/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4514447313778": {
       "uid": "bl4514447313778",
       "name": "Lucky Craft WAH 33F 1091 Color",
@@ -20917,14 +20933,6 @@
       "name": "Alfred ALF Spoon 1.8g",
       "price": 530,
       "link": "https://www.backlash.co.jp/e/item/4570040678935/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4573687823003": {
-      "uid": "bl4573687823003",
-      "name": "HIDEUP Retreex Metallo Crank Mini Type F-R",
-      "price": 1440,
-      "link": "https://www.backlash.co.jp/e/item/4573687823003/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30737,6 +30745,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-22T09:21:30+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• Shimano Dive Rise 55F\n  ¥1,215\n  https://www.backlash.co.jp/e/item/4969363124234/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-22T09:26:34+03:00"
 }
