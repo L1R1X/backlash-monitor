@@ -8352,14 +8352,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4573581504756": {
-      "uid": "bl4573581504756",
-      "name": "Rob Lure Babecon Giant Shimokin devised color",
-      "price": 630,
-      "link": "https://www.backlash.co.jp/e/item/4573581504756/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4573581504695": {
       "uid": "bl4573581504695",
       "name": "Rob Lure Babecon Shimokin invented color",
@@ -15304,14 +15296,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4573581497447": {
-      "uid": "bl4573581497447",
-      "name": "[Special price while stocks last]rob lure BaBeCon Giant Uchoten",
-      "price": 560,
-      "link": "https://www.backlash.co.jp/e/item/4573581497447/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4580235588109": {
       "uid": "bl4580235588109",
       "name": "iJetLink　Pitt",
@@ -15672,14 +15656,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4573581494811": {
-      "uid": "bl4573581494811",
-      "name": "rob lure BaBeCon Giant HERO’S color",
-      "price": 720,
-      "link": "https://www.backlash.co.jp/e/item/4573581494811/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4573581490509": {
       "uid": "bl4573581490509",
       "name": "Rob Lure Babecon 0.6g",
@@ -15693,22 +15669,6 @@
       "name": "rob lure Babecon 0.6g",
       "price": 630,
       "link": "https://www.backlash.co.jp/e/item/4573581490318/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4573581493685": {
-      "uid": "bl4573581493685",
-      "name": "rob lure\tBaBeCON　Giant",
-      "price": 720,
-      "link": "https://www.backlash.co.jp/e/item/4573581493685/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4573581493807": {
-      "uid": "bl4573581493807",
-      "name": "rob lure BaBeCon Giant 1091 Color",
-      "price": 720,
-      "link": "https://www.backlash.co.jp/e/item/4573581493807/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30754,5 +30714,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-22T10:51:26+03:00"
+  "last_check": "2026-11-22T10:56:21+03:00"
 }
