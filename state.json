@@ -10352,14 +10352,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl5580109254641": {
-      "uid": "bl5580109254641",
-      "name": "[Total 15 colors/set of 1 each]Deep Paradx KID 0.8g",
-      "price": 8550,
-      "link": "https://www.backlash.co.jp/e/item/5580109254641/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl5580109255280": {
       "uid": "bl5580109255280",
       "name": "[Total 10 colors/set of 1 each]Deep Paradx KID DADY 1.2g",
@@ -21424,6 +21416,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl5580109254641": {
+      "uid": "bl5580109254641",
+      "name": "[Total 15 colors/set of 1 each]Deep Paradx KID 0.8g",
+      "price": 8550,
+      "link": "https://www.backlash.co.jp/e/item/5580109254641/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl5580109253460": {
       "uid": "bl5580109253460",
       "name": "[Total 15 colors/set of 1 each]Deep Paradx KID 0.6g",
@@ -30754,5 +30754,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-23T14:21:43+03:00"
+  "last_check": "2026-11-23T15:30:27+03:00"
 }
