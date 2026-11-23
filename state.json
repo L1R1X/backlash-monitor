@@ -240,6 +240,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4514447319916": {
+      "uid": "bl4514447319916",
+      "name": "[BackLash Original Color] Lucky Craft Wow 33SDS Fuwa Meister Color - BackLash Special Order",
+      "price": 1600,
+      "link": "https://www.backlash.co.jp/e/item/4514447319916/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl5580109256492": {
       "uid": "bl5580109256492",
       "name": "SulaSula Glassp iS　1.0g",
@@ -1325,14 +1333,6 @@
       "name": "JACKALL Timon ChibiFutten FS",
       "price": 1449,
       "link": "https://www.backlash.co.jp/e/item/4525807328677/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4514447319916": {
-      "uid": "bl4514447319916",
-      "name": "[BackLash Original Color] Lucky Craft Wow 33SDS Fuwa Meister Color - BackLash Special Order",
-      "price": 1600,
-      "link": "https://www.backlash.co.jp/e/item/4514447319916/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30754,5 +30754,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-23T10:51:33+03:00"
+  "last_check": "2026-11-23T10:56:32+03:00"
 }
