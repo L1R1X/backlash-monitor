@@ -240,6 +240,22 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4571385608625": {
+      "uid": "bl4571385608625",
+      "name": "Rodio Craft Blind Flanker",
+      "price": 495,
+      "link": "https://www.backlash.co.jp/e/item/4571385608625/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4571385608748": {
+      "uid": "bl4571385608748",
+      "name": "Rodio Craft Blind Flanker",
+      "price": 495,
+      "link": "https://www.backlash.co.jp/e/item/4571385608748/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4514447319916": {
       "uid": "bl4514447319916",
       "name": "[BackLash Original Color] Lucky Craft Wow 33SDS Fuwa Meister Color - BackLash Special Order",
@@ -765,14 +781,6 @@
       "name": "RodioCraft RC Drift Spin 42  2.0g【2】",
       "price": 600,
       "link": "https://www.backlash.co.jp/e/item/4573632514123/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4571385608625": {
-      "uid": "bl4571385608625",
-      "name": "Rodio Craft Blind Flanker",
-      "price": 495,
-      "link": "https://www.backlash.co.jp/e/item/4571385608625/",
       "shop": "BackLash",
       "stock": true
     },
@@ -2773,14 +2781,6 @@
       "name": "Mukai Fishing Shachihoko 28S Taniyama Color",
       "price": 1440,
       "link": "https://www.backlash.co.jp/e/item/4513907462698/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4571385608748": {
-      "uid": "bl4571385608748",
-      "name": "Rodio Craft Blind Flanker",
-      "price": 495,
-      "link": "https://www.backlash.co.jp/e/item/4571385608748/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30754,5 +30754,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-23T15:30:27+03:00"
+  "last_check": "2026-11-24T03:18:12+03:00"
 }
