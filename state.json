@@ -960,14 +960,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4548393350600": {
-      "uid": "bl4548393350600",
-      "name": "【Sale】DAYSPROUT Eagle Player 40 Slim GJ",
-      "price": 950,
-      "link": "https://www.backlash.co.jp/e/item/4548393350600/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4573581504756": {
       "uid": "bl4573581504756",
       "name": "Rob Lure Babecon Giant Shimokin devised color",
@@ -30770,5 +30762,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-27T18:11:38+03:00"
+  "last_check": "2026-11-27T18:16:32+03:00"
 }
