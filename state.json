@@ -240,6 +240,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4580363858228": {
+      "uid": "bl4580363858228",
+      "name": "DLIVE x GATE Medium Crappie GS2",
+      "price": 1650,
+      "link": "https://www.backlash.co.jp/e/item/4580363858228/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4573632511184": {
       "uid": "bl4573632511184",
       "name": "[BACKLASH Original Color] Rodio Craft Ussa S & Ussa XS Meister Color",
@@ -21688,14 +21696,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4580363858228": {
-      "uid": "bl4580363858228",
-      "name": "DLIVE x GATE Medium Crappie GS2",
-      "price": 1650,
-      "link": "https://www.backlash.co.jp/e/item/4580363858228/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4573608252653": {
       "uid": "bl4573608252653",
       "name": "KARTELLAS Parato 0.25g",
@@ -30770,5 +30770,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-27T15:11:26+03:00"
+  "last_check": "2026-11-27T15:16:47+03:00"
 }
