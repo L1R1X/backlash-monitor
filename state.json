@@ -7064,14 +7064,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4548393350792": {
-      "uid": "bl4548393350792",
-      "name": "Disprout Eagle Player 50slim/GJ Loco Color",
-      "price": 1170,
-      "link": "https://www.backlash.co.jp/e/item/4548393350792/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4573607820006": {
       "uid": "bl4573607820006",
       "name": "Zatta The Bottle",
@@ -30770,5 +30762,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-27T13:41:27+03:00"
+  "last_check": "2026-11-27T13:46:25+03:00"
 }
