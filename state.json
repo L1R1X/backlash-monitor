@@ -20464,6 +20464,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4548393350792": {
+      "uid": "bl4548393350792",
+      "name": "Disprout Eagle Player 50slim/GJ Loco Color",
+      "price": 1170,
+      "link": "https://www.backlash.co.jp/e/item/4548393350792/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4580764710873": {
       "uid": "bl4580764710873",
       "name": "1089 Kobo Reverse Slim 35FS",
@@ -30761,6 +30769,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-27T13:46:25+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• Disprout Eagle Player 50slim/GJ Loco Color\n  ¥1,170\n  https://www.backlash.co.jp/e/item/4548393350792/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-27T13:51:34+03:00"
 }
