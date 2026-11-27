@@ -392,14 +392,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4573632514123": {
-      "uid": "bl4573632514123",
-      "name": "RodioCraft RC Drift Spin 42  2.0g【2】",
-      "price": 600,
-      "link": "https://www.backlash.co.jp/e/item/4573632514123/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4573151278773": {
       "uid": "bl4573151278773",
       "name": "RodioCraft RC Drift Spin 42  2.0g【1】",
@@ -957,6 +949,14 @@
       "name": "Lucky Craft X Rodio Craft　 WAH 37F2",
       "price": 1440,
       "link": "https://www.backlash.co.jp/e/item/4573151277776/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4548393350600": {
+      "uid": "bl4548393350600",
+      "name": "【Sale】DAYSPROUT Eagle Player 40 Slim GJ",
+      "price": 950,
+      "link": "https://www.backlash.co.jp/e/item/4548393350600/",
       "shop": "BackLash",
       "stock": true
     },
@@ -18944,6 +18944,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4573632514123": {
+      "uid": "bl4573632514123",
+      "name": "RodioCraft RC Drift Spin 42  2.0g【2】",
+      "price": 600,
+      "link": "https://www.backlash.co.jp/e/item/4573632514123/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4548393313384": {
       "uid": "bl4548393313384",
       "name": "DAYSPROUT DS BEVY VIBRATION 1091 colors 40?DAYSPROUT DS BEVY VIBRATION",
@@ -30761,6 +30769,11 @@
       "stock": true
     }
   },
-  "pending_notifications": [],
-  "last_check": "2026-11-27T18:31:45+03:00"
+  "pending_notifications": [
+    {
+      "text": "🆕 <b>BackLash — новинки TROUT (1)</b>\n\n• 【Sale】DAYSPROUT Eagle Player 40 Slim GJ\n  ¥950\n  https://www.backlash.co.jp/e/item/4548393350600/",
+      "delivered": []
+    }
+  ],
+  "last_check": "2026-11-27T18:36:18+03:00"
 }
