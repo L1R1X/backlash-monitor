@@ -200,19 +200,19 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4514447299805": {
-      "uid": "bl4514447299805",
-      "name": "Lucky Craft Unfair 35F Backlash Custom Color",
-      "price": 1400,
-      "link": "https://www.backlash.co.jp/e/item/4514447299805/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4514447299881": {
       "uid": "bl4514447299881",
       "name": "Lucky Craft Deep Crappie Treble Body Single Hook Specification Backlash Custom Color",
       "price": 1350,
       "link": "https://www.backlash.co.jp/e/item/4514447299881/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4514447299805": {
+      "uid": "bl4514447299805",
+      "name": "Lucky Craft Unfair 35F Backlash Custom Color",
+      "price": 1400,
+      "link": "https://www.backlash.co.jp/e/item/4514447299805/",
       "shop": "BackLash",
       "stock": true
     },
@@ -237,6 +237,38 @@
       "name": "Valkein Kuga S Backlash Custom Color (Original Color/Sinking)",
       "price": 1500,
       "link": "https://www.backlash.co.jp/e/item/4582671306941/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4514447317387": {
+      "uid": "bl4514447317387",
+      "name": "[BACKLASH Original Color] Lucky Craft × Gate Medium Crappy GS2 Backlash Special Edition",
+      "price": 1600,
+      "link": "https://www.backlash.co.jp/e/item/4514447317387/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4573151277363": {
+      "uid": "bl4573151277363",
+      "name": "【BACKLASH Original Color】 Lucky Craft x Rodio Craft Deep Crappie LC MAX-F Meister Color, Backlash Custom Color",
+      "price": 1600,
+      "link": "https://www.backlash.co.jp/e/item/4573151277363/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4573151277356": {
+      "uid": "bl4573151277356",
+      "name": "[BACKLASH Original Color] Lucky Craft x Rodeo Craft Wow 37HF Backlash Custom Color",
+      "price": 1500,
+      "link": "https://www.backlash.co.jp/e/item/4573151277356/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4573632513690": {
+      "uid": "bl4573632513690",
+      "name": "[BackLash Original Colors] Lucky Craft × Rodio Craft: WAH 37HF & WAH 37F2 Meister Colors Blue Dragon",
+      "price": 1600,
+      "link": "https://www.backlash.co.jp/e/item/4573632513690/",
       "shop": "BackLash",
       "stock": true
     },
@@ -9664,30 +9696,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4514447317387": {
-      "uid": "bl4514447317387",
-      "name": "[BACKLASH Original Color] Lucky Craft × Gate Medium Crappy GS2 Backlash Special Edition",
-      "price": 1600,
-      "link": "https://www.backlash.co.jp/e/item/4514447317387/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4573151277356": {
-      "uid": "bl4573151277356",
-      "name": "[BACKLASH Original Color] Lucky Craft x Rodeo Craft Wow 37HF Backlash Custom Color",
-      "price": 1500,
-      "link": "https://www.backlash.co.jp/e/item/4573151277356/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4573151277363": {
-      "uid": "bl4573151277363",
-      "name": "【BACKLASH Original Color】 Lucky Craft x Rodio Craft Deep Crappie LC MAX-F Meister Color, Backlash Custom Color",
-      "price": 1600,
-      "link": "https://www.backlash.co.jp/e/item/4573151277363/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4580838921570": {
       "uid": "bl4580838921570",
       "name": "[BackLash Original Color] Saurib Shars DM BackLash Special Order",
@@ -18933,14 +18941,6 @@
       "name": "Valkein BlackBlast 1.8g Backlash special color 2024",
       "price": 580,
       "link": "https://www.backlash.co.jp/e/item/4582671327779/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4573632513690": {
-      "uid": "bl4573632513690",
-      "name": "[BackLash Original Colors] Lucky Craft × Rodio Craft: WAH 37HF & WAH 37F2 Meister Colors Blue Dragon",
-      "price": 1600,
-      "link": "https://www.backlash.co.jp/e/item/4573632513690/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30770,5 +30770,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-27T12:56:25+03:00"
+  "last_check": "2026-11-27T13:02:04+03:00"
 }
