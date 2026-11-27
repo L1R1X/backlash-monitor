@@ -240,6 +240,22 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4573632514123": {
+      "uid": "bl4573632514123",
+      "name": "RodioCraft RC Drift Spin 42  2.0g【2】",
+      "price": 600,
+      "link": "https://www.backlash.co.jp/e/item/4573632514123/",
+      "shop": "BackLash",
+      "stock": true
+    },
+    "bl4573151278773": {
+      "uid": "bl4573151278773",
+      "name": "RodioCraft RC Drift Spin 42  2.0g【1】",
+      "price": 600,
+      "link": "https://www.backlash.co.jp/e/item/4573151278773/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4562371543037": {
       "uid": "bl4562371543037",
       "name": "Kokonoe Lures Koko Nyoro chibi",
@@ -1037,22 +1053,6 @@
       "name": "Rodio Craft Ussa XS Non Rattle",
       "price": 1700,
       "link": "https://www.backlash.co.jp/e/item/4573151245058/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4573151278773": {
-      "uid": "bl4573151278773",
-      "name": "RodioCraft RC Drift Spin 42  2.0g【1】",
-      "price": 600,
-      "link": "https://www.backlash.co.jp/e/item/4573151278773/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4573632514123": {
-      "uid": "bl4573632514123",
-      "name": "RodioCraft RC Drift Spin 42  2.0g【2】",
-      "price": 600,
-      "link": "https://www.backlash.co.jp/e/item/4573632514123/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30770,5 +30770,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-27T06:11:28+03:00"
+  "last_check": "2026-11-27T06:16:42+03:00"
 }
