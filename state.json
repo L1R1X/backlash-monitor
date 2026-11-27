@@ -240,14 +240,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4580363858228": {
-      "uid": "bl4580363858228",
-      "name": "DLIVE x GATE Medium Crappie GS2",
-      "price": 1650,
-      "link": "https://www.backlash.co.jp/e/item/4580363858228/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4573632511184": {
       "uid": "bl4573632511184",
       "name": "[BACKLASH Original Color] Rodio Craft Ussa S & Ussa XS Meister Color",
@@ -18944,6 +18936,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4580363858228": {
+      "uid": "bl4580363858228",
+      "name": "DLIVE x GATE Medium Crappie GS2",
+      "price": 1650,
+      "link": "https://www.backlash.co.jp/e/item/4580363858228/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4544447317837": {
       "uid": "bl4544447317837",
       "name": "[BackLash Original Color] Lucky Craft Wow 33S Fuwa Meister Color - BackLash Special Order",
@@ -30770,5 +30770,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-27T16:41:30+03:00"
+  "last_check": "2026-11-27T16:46:53+03:00"
 }
