@@ -12936,14 +12936,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4582692470379": {
-      "uid": "bl4582692470379",
-      "name": "NomadicCode Baster Asian Glow Color",
-      "price": 495,
-      "link": "https://www.backlash.co.jp/e/item/4582692470379/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4582692473059": {
       "uid": "bl4582692473059",
       "name": "Nomadic Code Baster 1091 Color 0.7g・1.2g",
@@ -22816,6 +22808,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4582692470379": {
+      "uid": "bl4582692470379",
+      "name": "NomadicCode Baster Asian Glow Color",
+      "price": 495,
+      "link": "https://www.backlash.co.jp/e/item/4582692470379/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4582692473110": {
       "uid": "bl4582692473110",
       "name": "Nomadic Code Betts 1091 Color 1.16g",
@@ -30770,5 +30770,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-28T11:51:19+03:00"
+  "last_check": "2026-11-28T11:56:27+03:00"
 }
