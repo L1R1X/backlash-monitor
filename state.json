@@ -12160,14 +12160,6 @@
       "shop": "BackLash",
       "stock": true
     },
-    "bl4570040690753": {
-      "uid": "bl4570040690753",
-      "name": "ALFRED ALF SPOON 1091 Color",
-      "price": 540,
-      "link": "https://www.backlash.co.jp/e/item/4570040690753/",
-      "shop": "BackLash",
-      "stock": true
-    },
     "bl4589789540014": {
       "uid": "bl4589789540014",
       "name": "rob lure　Rush hook α",
@@ -22144,6 +22136,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4570040690753": {
+      "uid": "bl4570040690753",
+      "name": "ALFRED ALF SPOON 1091 Color",
+      "price": 540,
+      "link": "https://www.backlash.co.jp/e/item/4570040690753/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4570040690777": {
       "uid": "bl4570040690777",
       "name": "ALFRED Deep Alf 1091 Color",
@@ -30770,5 +30770,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-28T06:11:34+03:00"
+  "last_check": "2026-11-28T06:16:41+03:00"
 }
