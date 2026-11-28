@@ -240,6 +240,14 @@
       "shop": "BackLash",
       "stock": true
     },
+    "bl4570150695860": {
+      "uid": "bl4570150695860",
+      "name": "Anglers System Dohna Heros Color",
+      "price": 590,
+      "link": "https://www.backlash.co.jp/e/item/4570150695860/",
+      "shop": "BackLash",
+      "stock": true
+    },
     "bl4573632511184": {
       "uid": "bl4573632511184",
       "name": "[BACKLASH Original Color] Rodio Craft Ussa S & Ussa XS Meister Color",
@@ -5797,14 +5805,6 @@
       "name": "RodioCraft　 RC Drift Spin 37",
       "price": 600,
       "link": "https://www.backlash.co.jp/e/item/4573151278162/",
-      "shop": "BackLash",
-      "stock": true
-    },
-    "bl4570150695860": {
-      "uid": "bl4570150695860",
-      "name": "Anglers System Dohna Heros Color",
-      "price": 590,
-      "link": "https://www.backlash.co.jp/e/item/4570150695860/",
       "shop": "BackLash",
       "stock": true
     },
@@ -30770,5 +30770,5 @@
     }
   },
   "pending_notifications": [],
-  "last_check": "2026-11-28T06:36:13+03:00"
+  "last_check": "2026-11-28T06:41:53+03:00"
 }
